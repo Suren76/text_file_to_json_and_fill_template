@@ -1,0 +1,18 @@
+1: https://3dsky.org/search?query=38395.526d85ce1a2e5
+2: Buy accesses
+88
+3: Platform: 3dsMax 2012 + fbx
+Render: Vray
+Size: 5 MB
+Colors:
+Style: Classic
+Materials: Metal, Wood
+Formfactor:
+Published 21 May 2013
+Model: 203629
+Factory: OASIS
+Production: Italy
+5: Bathroom
+6: Bathroom furniture
+7: Composition Of L1, Oasis
+https://www.dropbox.com/scl/fi/pek5k7teggl9gddrdtndp/38395.526d85ce1a2e5.rar?rlkey=x0h32q8kkum9ccrdttj57s4zx&dl=1

@@ -1,0 +1,80 @@
+{
+    "name": "Kitchen Set - 01",
+    "type": "simple",
+    "regular_price": "2",
+    "description": "Kitchen Set - 01 description part 5555555555555555555 999999999999999999999",
+    "short_description": "Platform:\t 3dsMax 2009 and below\nRender:\t Vray\nSize:\t 23 MB\nStyle:\t Ethnic\nMaterials:\t Metal, Wood",
+    "sku": "73039.53048b4d007a7.txt",
+    "categories": [
+        {
+            "name": "Other kitchen accessories"
+        }
+    ],
+    "downloadable": true,
+    "downloads": [
+        {
+            "name": "73039.53048b4d007a7.txt",
+            "file": "https://www.dropbox.com/scl/fi/ng459iidceupzegubvh77/73039.53048b4d007a7.rar?rlkey=2objvqrmq3gog30z00obl15a8&dl=1"
+        }
+    ],
+    "tags": [
+        {
+            "name": "kitchen"
+        },
+        {
+            "name": "dishes"
+        },
+        {
+            "name": "spice"
+        },
+        {
+            "name": "jug"
+        },
+        {
+            "name": "turk"
+        },
+        {
+            "name": "tray"
+        },
+        {
+            "name": "a bowl"
+        },
+        {
+            "name": "a cup"
+        },
+        {
+            "name": "a spoon"
+        },
+        {
+            "name": "set"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://www.dropbox.com/scl/fi/8qguy90vvzmdny9o9semm/73039.53048b4d007a7.jpg?rlkey=vlun79q1mp83q4aj5tucig49p&dl=1"
+        }
+    ],
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Price",
+            "options": [
+                "Pro"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Render",
+            "options": [
+                "Vray"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Style",
+            "options": [
+                "Ethnic"
+            ]
+        }
+    ]
+}

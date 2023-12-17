@@ -1,0 +1,68 @@
+{
+    "name": "Horizontal bar for home installation",
+    "type": "simple",
+    "regular_price": "2",
+    "description": "Small training complex for home installation. Included: horizontal bar, parallel bars, rings, ladder, mat, wall bars.",
+    "short_description": "Platform:\t 3dsMax 2012 + fbx\nRender:\t Vray\nSize:\t 5 MB\nStyle:\t Modern\nMaterials:\t Metal",
+    "sku": "65530.52d2f175095cf.txt",
+    "categories": [
+        {
+            "id": "221"
+        }
+    ],
+    "downloadable": true,
+    "downloads": [
+        {
+            "name": "65530.52d2f175095cf.txt",
+            "file": "https://www.dropbox.com/scl/fi/jdfwxn9m05sfih0rg2bee/65530.52d2f175095cf.rar?rlkey=e0dpd8bb17y9ljoeua8upun10&dl=1"
+        }
+    ],
+    "tags": [
+        {
+            "name": "horizontal bar"
+        },
+        {
+            "name": "bar"
+        },
+        {
+            "name": "ring"
+        },
+        {
+            "name": "ladder"
+        },
+        {
+            "name": "mat"
+        },
+        {
+            "name": "swedish wall"
+        }
+    ],
+    "images": [
+        {
+            "src": "https://www.dropbox.com/scl/fi/4tqn08xhakret7dbs7m5q/65530.52d2f175095cf.jpg?rlkey=5o1mnqs11pa74ac7sr0h6gvsd&dl=1"
+        }
+    ],
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Price",
+            "options": [
+                "Pro"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Render",
+            "options": [
+                "Vray"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Style",
+            "options": [
+                "Modern"
+            ]
+        }
+    ]
+}

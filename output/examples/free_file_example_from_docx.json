@@ -1,0 +1,44 @@
+{
+    "name": "LampsShop.ru CPL7009 Chandelier Plane B",
+    "type": "external",
+    "regular_price": "0",
+    "description": "Dimensions: 76 x 65 cm https://lampsshop.ru/?store-page=%D0%9B%D1%8E%D1%81%D1%82%D1%80%D0%B0-Plane-B-p227812148 instagram @ lampsshop.ru",
+    "short_description": "Platform:\t 3dsMax 2015 + fbx\nRender:\t Corona\nSize:\t 2 MB\nStyle:\t Modern\nMaterials:\t Metal",
+    "external_url": "https://example_link_to_test_free_file-rar",
+    "sku": "free_file_example_from_docx.txt",
+    "categories": [
+        {
+            "name": "Ceiling lamp"
+        }
+    ],
+    "tags": [],
+    "images": [
+        {
+            "src": "https://example_link_to_test_free_file-jpg"
+        }
+    ],
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Price",
+            "options": [
+                "Free"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Render",
+            "options": [
+                "Corona"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Style",
+            "options": [
+                "Modern"
+            ]
+        }
+    ],
+    "button_text": "Download"
+}

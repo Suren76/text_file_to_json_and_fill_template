@@ -1,0 +1,31 @@
+name: ""
+type: external
+regular_price: "0"
+description: ""
+short_description: "Platform:\t3dsMax 2020 + fbx\nRender:\t\nSize:\t\nStyle:\t\nMaterials:\t"
+external_url: ""
+sku: ""
+categories:
+  - id: 
+tags:
+  - id: 
+  - id: 
+  - id: 
+  - id: 
+  - id: 
+images:
+  - src: ""
+attributes:
+  - id: 1
+    name: Price
+    options:
+      - Free
+  - id: 2
+    name: Render
+    options:
+      - 
+  - id: 3
+    name: Style
+    options:
+      - 
+button_text: Download

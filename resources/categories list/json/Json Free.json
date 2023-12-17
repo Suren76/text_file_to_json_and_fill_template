@@ -1,0 +1,58 @@
+{
+    "name": "",
+    "type": "external",
+    "regular_price": "0",
+    "description": "",
+    "short_description": "Platform:\t\nRender:\t\nSize:\t\nStyle:\t\nMaterials:\tMetal:",
+    "external_url": "",
+    //- rar
+    "sku": "",
+    "categories": [
+        {
+            "id": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        }
+    ],
+    "images": [
+        {
+            "src": ""
+        }
+    ],
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Price",
+            "options": [
+                "Free"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Render",
+            "options": [
+                ""
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Style",
+            "options": [
+                ""
+            ]
+        }
+    ],
+    "button_text": "Download"
+}

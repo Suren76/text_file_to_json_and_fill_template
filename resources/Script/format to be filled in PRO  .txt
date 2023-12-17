@@ -1,0 +1,60 @@
+name: ""
+type: simple
+regular_price: "2"
+description: ""
+short_description: "Platform:\t3dsMax 2020 + fbx\nRender:\t\nSize:\t\nStyle:\t\nMaterials:\t"
+sku: ""
+categories:
+  - id: 
+downloadable: true
+downloads:
+  - name: ""
+    file: ""
+tags:
+  - id: 
+  - id: 
+  - id: 
+  - id: 
+  - id: 
+images:
+  - src: ""
+attributes:
+  - id: 1
+    name: Price
+    options:
+      - Pro
+  - id: 2
+    name: Render
+    options:
+      - 
+  - id: 3
+    name: Style
+    options:
+      - 
+
+1: https://3dsky.org/search?query=1482309.5a0cb69ccc832
+2: Buy accesses
+49
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray+Corona
+Size: 40 MB
+Colors:
+Style: Modern
+Materials: Metal, Fabric
+Formfactor:
+Published 16 November 2017
+Dimensions:
+Length - 770 mm
+Width - 560 mm
+Height - 1050 mm
+
+In the archive: 3Ds Max 2013, 3Ds Max 2016, OBJ, FBX
+
+Units of measurement: millimeters
+
+Render: Vray, Corona
+Show more
+4: , , , , chair, stool, chair for babies, child chair
+5: Childroom
+6: Table + Chair
+7: Highchair Baby Prestige Avion Comfort
