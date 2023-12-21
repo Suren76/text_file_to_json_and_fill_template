@@ -1,0 +1,59 @@
+{
+    "name": "",
+    "type": "simple",
+    "regular_price": "2",
+    "description": "",
+    "short_description": "",
+    "sku": "6",
+    "categories": [
+        {
+            "id":""
+        }
+    ],
+    "downloadable": true,
+    "downloads": [
+        {
+            "name": "",
+            "file": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        }
+    ],
+    "images": [
+        {
+            "src": ""
+        }
+    ],
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Price",
+            "options": [
+                "Pro"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Render",
+            "options": [
+                ""
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Style",
+            "options": [
+                ""
+            ]
+        }
+    ]
+}

@@ -18,3 +18,10 @@ def get_index_of_string_in_list(word: str, _list: list) -> int | None:
         if word in item:
             return _list.index(item)
     return None
+
+
+def get_matched_strings_index(_values: list, _list: list):
+    for value in _values:
+        _result = get_index_of_string_in_list(value, _list)
+        if _result is not None:
+            return _result

@@ -1,0 +1,548 @@
+[
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Barbecue and grill     ",
+    "__EMPTY": 223
+  },
+  {
+    "Parent Architecture:": "Building                ",
+    "__EMPTY": 224
+  },
+  {
+    "Parent Architecture:": "Environment elements    ",
+    "__EMPTY": 225
+  },
+  {
+    "Parent Architecture:": "Facade element          ",
+    "__EMPTY": 226
+  },
+  {
+    "Parent Architecture:": "Fence                   ",
+    "__EMPTY": 227
+  },
+  {
+    "Parent Architecture:": "Other                   ",
+    "__EMPTY": 228
+  },
+  {
+    "Parent Architecture:": "Playground              ",
+    "__EMPTY": 229
+  },
+  {
+    "Parent Architecture:": "Urban environment       ",
+    "__EMPTY": 230
+  },
+  {
+    "Parent Architecture:": "Parent BathRoom:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Bathroom accessories",
+    "__EMPTY": 139
+  },
+  {
+    "Parent Architecture:": "Bathroom furniture",
+    "__EMPTY": 140
+  },
+  {
+    "Parent Architecture:": "Bathtub & shower cubicle",
+    "__EMPTY": 141
+  },
+  {
+    "Parent Architecture:": "Faucet",
+    "__EMPTY": 143
+  },
+  {
+    "Parent Architecture:": "Toilet & bidet",
+    "__EMPTY": 144
+  },
+  {
+    "Parent Architecture:": "Towel rail",
+    "__EMPTY": 142
+  },
+  {
+    "Parent Architecture:": "Wash basin",
+    "__EMPTY": 145
+  },
+  {
+    "Parent Architecture:": "Parent Child Room:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Children's Wardrobes",
+    "__EMPTY": 150
+  },
+  {
+    "Parent Architecture:": "Furniture Set",
+    "__EMPTY": 151
+  },
+  {
+    "Parent Architecture:": "Kid Bedroom",
+    "__EMPTY": 154
+  },
+  {
+    "Parent Architecture:": "Miscellaneous",
+    "__EMPTY": 211
+  },
+  {
+    "Parent Architecture:": "Table Chair Children",
+    "__EMPTY": 153
+  },
+  {
+    "Parent Architecture:": "Toy",
+    "__EMPTY": 152
+  },
+  {
+    "Parent Architecture:": "Parent Technology:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Audio tech",
+    "__EMPTY": 115
+  },
+  {
+    "Parent Architecture:": "Household appliance",
+    "__EMPTY": 116
+  },
+  {
+    "Parent Architecture:": "Medical",
+    "__EMPTY": 120
+  },
+  {
+    "Parent Architecture:": "Miscellaneou",
+    "__EMPTY": 119
+  },
+  {
+    "Parent Architecture:": "PCs & other electrics",
+    "__EMPTY": 117
+  },
+  {
+    "Parent Architecture:": "Phones",
+    "__EMPTY": 235
+  },
+  {
+    "Parent Architecture:": "TV",
+    "__EMPTY": 118
+  },
+  {
+    "Parent Architecture:": "Parent Decoration:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "3D Panel",
+    "__EMPTY": 85
+  },
+  {
+    "Parent Architecture:": "Books",
+    "__EMPTY": 212
+  },
+  {
+    "Parent Architecture:": "Carpets",
+    "__EMPTY": 95
+  },
+  {
+    "Parent Architecture:": "Clothes and shoes",
+    "__EMPTY": 91
+  },
+  {
+    "Parent Architecture:": "Curtain",
+    "__EMPTY": 84
+  },
+  {
+    "Parent Architecture:": "Decorative plaster",
+    "__EMPTY": 86
+  },
+  {
+    "Parent Architecture:": "Decorative set",
+    "__EMPTY": 87
+  },
+  {
+    "Parent Architecture:": "Frame",
+    "__EMPTY": 88
+  },
+  {
+    "Parent Architecture:": "Mirror",
+    "__EMPTY": 89
+  },
+  {
+    "Parent Architecture:": "Other decorative objects",
+    "__EMPTY": 96
+  },
+  {
+    "Parent Architecture:": "Pillows",
+    "__EMPTY": 90
+  },
+  {
+    "Parent Architecture:": "Plant",
+    "__EMPTY": 92
+  },
+  {
+    "Parent Architecture:": "Sculpture",
+    "__EMPTY": 93
+  },
+  {
+    "Parent Architecture:": "Vase",
+    "__EMPTY": 94
+  },
+  {
+    "Parent Architecture:": "Сlock",
+    "__EMPTY": 147
+  },
+  {
+    "Parent Architecture:": "Parent Furniture:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Armchair",
+    "__EMPTY": 73
+  },
+  {
+    "Parent Architecture:": "Bar",
+    "__EMPTY": 146
+  },
+  {
+    "Parent Architecture:": "Bed",
+    "__EMPTY": 71
+  },
+  {
+    "Parent Architecture:": "Chair",
+    "__EMPTY": 76
+  },
+  {
+    "Parent Architecture:": "Console",
+    "__EMPTY": 158
+  },
+  {
+    "Parent Architecture:": "Dresing Table",
+    "__EMPTY": 75
+  },
+  {
+    "Parent Architecture:": "Furniture set",
+    "__EMPTY": 1251
+  },
+  {
+    "Parent Architecture:": "Hallway",
+    "__EMPTY": 215
+  },
+  {
+    "Parent Architecture:": "Office Furniture",
+    "__EMPTY": 80
+  },
+  {
+    "Parent Architecture:": "Other",
+    "__EMPTY": 83
+  },
+  {
+    "Parent Architecture:": "Other Soft Seating",
+    "__EMPTY": 82
+  },
+  {
+    "Parent Architecture:": "Rack",
+    "__EMPTY": 213
+  },
+  {
+    "Parent Architecture:": "Sideboard & Chest Of Drawer",
+    "__EMPTY": 81
+  },
+  {
+    "Parent Architecture:": "Sofa",
+    "__EMPTY": 72
+  },
+  {
+    "Parent Architecture:": "Table",
+    "__EMPTY": 79
+  },
+  {
+    "Parent Architecture:": "Table + Chair",
+    "__EMPTY": 78
+  },
+  {
+    "Parent Architecture:": "Tv Wall",
+    "__EMPTY": 214
+  },
+  {
+    "Parent Architecture:": "Wardrobe & Display Cabinets",
+    "__EMPTY": 74
+  },
+  {
+    "Parent Architecture:": "Parent Interior design:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Bathroom scene ",
+    "__EMPTY": 127
+  },
+  {
+    "Parent Architecture:": "Bedroom ",
+    "__EMPTY": 123
+  },
+  {
+    "Parent Architecture:": "Bedroom Children's room ",
+    "__EMPTY": 801
+  },
+  {
+    "Parent Architecture:": "Club House",
+    "__EMPTY": 4480
+  },
+  {
+    "Parent Architecture:": "Compartment",
+    "__EMPTY": 4479
+  },
+  {
+    "Parent Architecture:": "Dining kitchen room ",
+    "__EMPTY": 129
+  },
+  {
+    "Parent Architecture:": "Discount packs ",
+    "__EMPTY": 122
+  },
+  {
+    "Parent Architecture:": "Dressing room ",
+    "__EMPTY": 135
+  },
+  {
+    "Parent Architecture:": "Elevator lobby ",
+    "__EMPTY": 130
+  },
+  {
+    "Parent Architecture:": "Entertainment ",
+    "__EMPTY": 131
+  },
+  {
+    "Parent Architecture:": "Exhibition couture ",
+    "__EMPTY": 4532
+  },
+  {
+    "Parent Architecture:": "Hotel Suite ",
+    "__EMPTY": 4628
+  },
+  {
+    "Parent Architecture:": "Hotel Teahouse Café",
+    "__EMPTY": 4579
+  },
+  {
+    "Parent Architecture:": "KTV Bar SPA ",
+    "__EMPTY": 4630
+  },
+  {
+    "Parent Architecture:": "Living room ",
+    "__EMPTY": 124
+  },
+  {
+    "Parent Architecture:": "Lobby reception",
+    "__EMPTY": 132
+  },
+  {
+    "Parent Architecture:": "Office room ",
+    "__EMPTY": 126
+  },
+  {
+    "Parent Architecture:": "Other room ",
+    "__EMPTY": 137
+  },
+  {
+    "Parent Architecture:": "Restaurant & coffee ",
+    "__EMPTY": 125
+  },
+  {
+    "Parent Architecture:": "Sale office ",
+    "__EMPTY": 133
+  },
+  {
+    "Parent Architecture:": "Spa room",
+    "__EMPTY": 136
+  },
+  {
+    "Parent Architecture:": "Store shop ",
+    "__EMPTY": 128
+  },
+  {
+    "Parent Architecture:": "Study room ",
+    "__EMPTY": 134
+  },
+  {
+    "Parent Architecture:": "Parent Kitchen:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Food and drinks",
+    "__EMPTY": 98
+  },
+  {
+    "Parent Architecture:": "Kitchen 3D model",
+    "__EMPTY": 100
+  },
+  {
+    "Parent Architecture:": "Kitchen appliance",
+    "__EMPTY": 99
+  },
+  {
+    "Parent Architecture:": "Other kitchen accessories",
+    "__EMPTY": 101
+  },
+  {
+    "Parent Architecture:": "Sink",
+    "__EMPTY": 103
+  },
+  {
+    "Parent Architecture:": "Tableware",
+    "__EMPTY": 102
+  },
+  {
+    "Parent Architecture:": "Parent Lighting:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Ceiling light ",
+    "__EMPTY": 108
+  },
+  {
+    "Parent Architecture:": "Floor lamp",
+    "__EMPTY": 109
+  },
+  {
+    "Parent Architecture:": "Pendant light",
+    "__EMPTY": 3496
+  },
+  {
+    "Parent Architecture:": "Spot ligh",
+    "__EMPTY": 110
+  },
+  {
+    "Parent Architecture:": "Street and technical lighting",
+    "__EMPTY": 111
+  },
+  {
+    "Parent Architecture:": "Table lamp",
+    "__EMPTY": 112
+  },
+  {
+    "Parent Architecture:": "Wall light",
+    "__EMPTY": 113
+  },
+  {
+    "Parent Architecture:": "Parent Materials:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Stone",
+    "__EMPTY": 232
+  },
+  {
+    "Parent Architecture:": "Tile",
+    "__EMPTY": 233
+  },
+  {
+    "Parent Architecture:": "Parent Other models:"
+  },
+  {
+    "Parent Architecture:": "NAME",
+    "__EMPTY": "ID"
+  },
+  {
+    "Parent Architecture:": "Animal",
+    "__EMPTY": 166
+  },
+  {
+    "Parent Architecture:": "Beauty salon",
+    "__EMPTY": 170
+  },
+  {
+    "Parent Architecture:": "Billiard",
+    "__EMPTY": 169
+  },
+  {
+    "Parent Architecture:": "Creature",
+    "__EMPTY": 216
+  },
+  {
+    "Parent Architecture:": "Doors",
+    "__EMPTY": 162
+  },
+  {
+    "Parent Architecture:": "Elevator",
+    "__EMPTY": 217
+  },
+  {
+    "Parent Architecture:": "Fireplace",
+    "__EMPTY": 165
+  },
+  {
+    "Parent Architecture:": "Miscellaneous",
+    "__EMPTY": 218
+  },
+  {
+    "Parent Architecture:": "Musical instrument",
+    "__EMPTY": 171
+  },
+  {
+    "Parent Architecture:": "Paving",
+    "__EMPTY": 219
+  },
+  {
+    "Parent Architecture:": "People",
+    "__EMPTY": 168
+  },
+  {
+    "Parent Architecture:": "Radiator",
+    "__EMPTY": 167
+  },
+  {
+    "Parent Architecture:": "Restaurant",
+    "__EMPTY": 220
+  },
+  {
+    "Parent Architecture:": "Shop",
+    "__EMPTY": 161
+  },
+  {
+    "Parent Architecture:": "Sports",
+    "__EMPTY": 221
+  },
+  {
+    "Parent Architecture:": "Staircase",
+    "__EMPTY": 164
+  },
+  {
+    "Parent Architecture:": "Transport",
+    "__EMPTY": 172
+  },
+  {
+    "Parent Architecture:": "Weapon",
+    "__EMPTY": 210
+  },
+  {
+    "Parent Architecture:": "Windows",
+    "__EMPTY": 163
+  }
+]

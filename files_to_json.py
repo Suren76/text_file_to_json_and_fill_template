@@ -10,7 +10,7 @@ class ConvertFilesToJsonException(Exception): pass
 class InvalidPathException(ConvertFilesToJsonException): pass
 
 
-def convert_files_to_json(path_to_files: str, path_to_save_file: str, path_to_output_directory: str, save_in_one_file: bool = True):
+def convert_files_to_json(path_to_files: str, to_save_file: str, path_to_output_directory: str, save_in_one_file: bool = True):
     _all_datas: dict = {}
 
     if not path.exists(path_to_files):
@@ -32,7 +32,7 @@ def convert_files_to_json(path_to_files: str, path_to_save_file: str, path_to_ou
                 _all_datas[filename[:-4]] = json.loads(data)
 
         if save_in_one_file:
-            with open(f"{remove_last_backslash_if_there_are(path_to_output_directory)}/{path_to_save_file}", "w+") as file:
+            with open(f"{remove_last_backslash_if_there_are(path_to_output_directory)}/{to_save_file}", "w+") as file:
                 file.write(json.dumps(_all_datas))
 
 

@@ -4,7 +4,7 @@ import schemas
 from convert_raw_dict_to_typed_dict import convert_raw_dict_to_typed_dict
 from parse_textfile_to_raw_dict import parse_textfile_to_raw_dict
 from models import AttributeItem, CategoryItem, get_item
-from utils import get_index_of_string_in_list
+from utils import get_matched_strings_index, get_index_of_string_in_list
 
 Json: TypeAlias = str
 
@@ -42,8 +42,8 @@ def get_json_from_file(
             if type(value) is str and len(value)
         ])[:-1]
     _categories: list[CategoryItem] = [CategoryItem(dictionary[5][0]).dict]
-    _image_url: str = dictionary[6][get_index_of_string_in_list("jpg", dictionary[6]) ] if get_index_of_string_in_list("jpg", dictionary[6]) is not None else ""
-    _file_url: str = dictionary[6][get_index_of_string_in_list("rar", dictionary[6]) ] if get_index_of_string_in_list("rar", dictionary[6]) is not None else ""
+    _image_url: str = dictionary[6][get_index_of_string_in_list("jpg", dictionary[6]) ] if get_index_of_string_in_list(".jpg", dictionary[6]) is not None else ""
+    _file_url: str = dictionary[6][get_matched_strings_index([".rar", ".zip", ".7z"], dictionary[6])] if get_matched_strings_index([".rar", ".zip", ".7z"], dictionary[6]) is not None else ""
     _tags: list[dict[str, str]] = ([
         {"name": str(tag.strip())}
         for tag in dictionary[3]["tags"][0].split(":")
