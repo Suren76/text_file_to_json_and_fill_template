@@ -1,0 +1,22 @@
+1: https://3dsky.org/search?query=3047717.5f706387acfe1
+2: Free download
+3: Platform: 3dsMax 2015 + fbx
+Render: Corona
+Size: 105 MB
+Colors:
+Style: Classic
+Materials: Wood
+Formfactor:
+Published 27 September 2020
+Wine Racks America
+Physical Supplier Website:
+https://www.amazon.com/Wine-Racks-America-Ponderosa-Unstained/dp/B01KKT2TWC?ref_=ast_sto_dp&th=1 
+
+polys: 128500
+verts: 128936
+tags: : : wine: rack
+5: Furniture
+6: Rack
+7: Wine Racks America
+https://www.dropbox.com/scl/fi/acjsghpxt7ryrbqg7ghcy/3047717.5f706387acfe1.rar?rlkey=szw5hc8h7m03de704em3vi43q&dl=1
+https://www.dropbox.com/scl/fi/ldy0mdycx94u3gk7s8bg0/3047717.5f706387acfe1.jpg?rlkey=1hxuyktavuqq4q0g8lxkh3fna&dl=1

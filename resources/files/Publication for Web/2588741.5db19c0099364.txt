@@ -1,0 +1,30 @@
+1: https://3dsky.org/search?query=2588741.5db19c0099364
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray+Corona
+Size: 26 MB
+Colors:
+Style: Modern
+Materials: Metal, Glass
+Formfactor:
+Published 24 October 2019
+Name: KATCH_WALL
+Version: 2013
+Preview: No
+Units: Millimeters
+Dimension: 596.3 x 269.63 x 669.65
+Polys: 453,040
+XForm: No
+Box Trick: No
+Model Parts: 78
+Render: V-Ray
+Formats: 3Ds Max 2013, OBJ, FBX, 3DS
+
+
+  Show more
+tags: : : : bra: glass: gold
+5: Lighting
+6: Wall light
+7: Katch Wall
+https://www.dropbox.com/scl/fi/a2cmt3ddifqypnoy6qx5g/2588741.5db19c0099364.rar?rlkey=4f56hma2tgjqjvpdke3lym0me&dl=1
+https://www.dropbox.com/scl/fi/uigx6ujht24smxaor06i8/2588741.5db19c0099364.jpg?rlkey=pv1t9j9txqyxncfdo5bkpn18c&dl=1

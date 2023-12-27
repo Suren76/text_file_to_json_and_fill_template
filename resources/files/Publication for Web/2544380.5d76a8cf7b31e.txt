@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2544380.5d76a8cf7b31e
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 43 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 9 September 2019
+Model: Ikea Vimle Sofa
+
+Units: Millimeters
+
+Polys: 487.862 Verts: 488.284
+
+UV Mapped: Yes
+
+Render: V-Ray
+
+Formats: 3Ds Max 2012, OBJ
+Show more
+tags: : : : : : : : : : : sofa: ikea: velvet: cushion: bedroom: pillow: pink: plaid: blanket: scandinavian
+5: Furniture
+6: Sofa
+7: Ikea Vimle Sofa 2 Seats
+https://www.dropbox.com/scl/fi/o4nfouvmtxfqonr96ip2a/2544380.5d76a8cf7b31e.rar?rlkey=ycqwahnuqh6h4mp2ez7ubecv0&dl=1
+https://www.dropbox.com/scl/fi/ec48d6dpcufnnuqt4cql4/2544380.5d76a8cf7b31e.jpg?rlkey=r5xttekzrymbq0nyhap931q57&dl=1

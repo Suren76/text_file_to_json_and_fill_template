@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2816075.5ea32d12956ac
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray+Corona
+Size: 30 MB
+Colors:
+Style: Modern
+Materials: Metal, Stone
+Formfactor:
+Published 24 April 2020
+3d model of bathroom accessories DARK by BEMETA
+
+polys: 100.2k
+
+3dsMax files (.max) are saved in version 2015, so it is recommended to open them in versions 3dsMax 2015 above
+Corona Renderer (1.7) and Vray (3.60.03) were used for rendering
+
+For Corona render, it is recommended to install a version of at least 1.5, since the glossiness of materials is configured taking into account PBR
+
+Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section is Microfaset GTR (GGX),
+if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : : : : : home fragrances: bemeta: liquid soap: towel: bathroom: restroom: decor: set
+5: Bathroom
+6: Bathroom accessories
+7: DARK bathroom accessories by BEMETA
+https://www.dropbox.com/scl/fi/mg7u8e0ophco22ady9oj1/2816075.5ea32d12956ac.rar?rlkey=l10s4j95a550gu84eyexm27j0&dl=1
+https://www.dropbox.com/scl/fi/7sn38my0vs372q79nmlyv/2816075.5ea32d12956ac.jpg?rlkey=pwd562tltsmpglh0i16wbzcnj&dl=1

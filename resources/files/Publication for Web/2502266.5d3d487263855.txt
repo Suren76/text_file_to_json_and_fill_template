@@ -1,0 +1,42 @@
+1: https://3dsky.org/search?query=2502266.5d3d487263855
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray+Corona
+Size: 121 MB
+Colors:
+Style: Modern
+Materials: Metal, Fabric
+Formfactor:
+Published 28 July 2019
+Manufacturer: ROBERTI Outdoor Pleasure
+Collection: Roberti Coral Reef
+
+
+Double bed:
+Coral Reef 9805 day-bed
+160x206x83h cm
+2 base options, 2 types of finish
+
+Umbrella:
+Coral Reef 9854 parasol
+130x170x200h cm
+
+Also knitted plaid Zarahome
+180x130 cm
+2 drapery options
+
+TurboSmooth stacks are as open as possible.
+3dsMax 2011, Corona (PBR), Vray (GGX), FBX
+
+PS versions for Corona and Vray are in the same file. When Merge in the scene, select the desired ([Corona] or [Vray])
+
+PPS Hair & Fur is thrown over the folded blanket only. If it is critical for a larger view, please copy the modifier to the expanded blanket (done to save file size. The settings are identical).
+
+URL:  
+Show more
+tags: : : : : : : : : plaid: zarahome: umbrella: street: wicker: rattan: lounger: summer
+5: Furniture
+6: Other soft seating
+7: ROBERTI CORAL REEF 9805 Day-bed
+https://www.dropbox.com/scl/fi/lfowrbnixxz9pt9mzidtq/2502266.5d3d487263855.rar?rlkey=8iv2m0lkvrilc4v51l1mkyawz&dl=1
+https://www.dropbox.com/scl/fi/yq379yh0m7zg1vts2m0fw/2502266.5d3d487263855.jpg?rlkey=qnzttynjyilxozwda9mmyrm30&dl=1

@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=573749.576af98ea35ec
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 61 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 22 June 2016
+Cots IKEA Gulliver http://www.ikea.com/ru/ru/catalog/products/10248519/  with linens and canopy model saved in 3ds max 2013 Vray 3.0. The archive max files, mat, obj and texture. Baby bed IKEA GULLIVER http://www.ikea.com/us/en/catalog/products/80248525/  with baby bedding and canopy This model was saved in 3ds max 2013 Vray 3.0.There are max, mat, obj files included and textures also.
+tags: : : : valance: ikea: canopy
+5: Childroom
+6: Bed 1
+7: Baby bedding and bed IKEA
+https://www.dropbox.com/scl/fi/11fna8bhgttmn91rdhu9w/573749.576af98ea35ec.rar?rlkey=fwyj52l1ljsv9ic3ptihfdjpe&dl=1
+https://www.dropbox.com/scl/fi/5dheas9wagzriou3l4xsu/573749.576af98ea35ec.jpg?rlkey=h8hx9kvkzg1eoz2jma3eli2yr&dl=1

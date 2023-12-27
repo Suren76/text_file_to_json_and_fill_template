@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2550239.5d7e75e165d62
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Corona
+Size: 24 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 15 September 2019
+Agape sen shower set
+
+Agape Sen shower set:
+ASEN0914N
+ASEN0913N
+ASEN0973N
+ASEN0922N
+ASEN0912HSN
+
+Model for anti-aliasing, TurboSmooth stack open. For a more correct smoothing of textures (starting from 2016 max), you can replace TurboSmooth with OpenSubdiv
+
+Products webpage:
+  Show more
+tags: : : : : : : : : : : : : agape: design: sen: accessories: towel: linen: shelves: black: shower: watering can: a shelf: shower room
+5: Bathroom
+6: Faucet
+7: Agape sen shower set
+https://www.dropbox.com/scl/fi/39pbmdrivln7xfhb2p45p/2550239.5d7e75e165d62.rar?rlkey=vftg6pox2skwanhsa43hs3u2z&dl=1
+https://www.dropbox.com/scl/fi/3jqdujwtt7id5nsc1cbvi/2550239.5d7e75e165d62.jpg?rlkey=csugq5ckx1vdavh7vjm3oxxxz&dl=1

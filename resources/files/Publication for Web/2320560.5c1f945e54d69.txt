@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=2320560.5c1f945e54d69
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Corona
+Size: 4 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 23 December 2018
+Carpet Boconcept - BEIJING, paprika color
+Size of carpet: 240 * 170cm
+
+Before rendering the Corona renderer in the Environment and Effects settings, set the geometry.
+
+There is no Hair and Fur modifier in the export file (FBX),
+therefore, an image is attached in the archive with the modifier settings for this scene.
+tags: : : : : : : : : burgundy: carpet: boconcept: beijing: bo concept: hair & fur: fur: paprika
+5: Decoration
+6: Carpets
+7: Boconcept - BEIJING
+https://www.dropbox.com/scl/fi/ydl93jqlv7i7utxwb3iql/2320560.5c1f945e54d69.rar?rlkey=h4ah5wv6qtn1ij5jxh8relrlq&dl=1
+https://www.dropbox.com/scl/fi/aw8sanbkukr9zip37wni4/2320560.5c1f945e54d69.jpg?rlkey=lfhk8e9bz7qtefndej538o5a1&dl=1

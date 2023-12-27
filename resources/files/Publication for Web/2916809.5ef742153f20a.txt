@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2916809.5ef742153f20a
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray+Corona
+Size: 62 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 27 June 2020
+Model: Minotti Andersen Quilt Bed
+
+Units: Millimeters
+
+Polys: 349.958 Verts: 353.887
+
+UV Mapped: Yes
+
+Render: V-Ray + Corona
+
+Formats: 3Ds Max 2012, OBJ
+Show more
+tags: : : : : : : : : : : : : bed: minotti: andersen: quilt: velvet: ney: decore: cushion: pillow: plaid: blanket: knitting
+5: Furniture
+6: Bed
+7: Minotti andersen quilt bed
+https://www.dropbox.com/scl/fi/yvj3vfe0v6o0jga8ec65b/2916809.5ef742153f20a.rar?rlkey=g0106eyazk46sfwhswgch0k29&dl=1
+https://www.dropbox.com/scl/fi/z5u9oafoodivsl6o138ah/2916809.5ef742153f20a.jpg?rlkey=rukdf33eszpjg4di3edm0uxjo&dl=1

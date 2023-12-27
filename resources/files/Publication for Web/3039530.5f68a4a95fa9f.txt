@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=3039530.5f68a4a95fa9f
+2: Free download
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 49 MB
+Colors:
+Style: Ethnic
+Materials: Stone, Organics
+Formfactor:
+Published 21 September 2020
+Cinematic Scanned Rock with 4096x4096 texture size.
+
+UV-Mapped: Yes / Non-Overlapping
+
+Polys: 4.641
+
+Verts: 4,037
+tags: : : : : : : rock: environment: nature: pebble: stone: park
+5: Architecture
+6: Environment elements
+7: Cinematic Rock 01
+https://www.dropbox.com/scl/fi/4il64sczcn3p9bpl36l1b/3039530.5f68a4a95fa9f.rar?rlkey=e35v20mg3vvv230cb7q75bqwx&dl=1
+https://www.dropbox.com/scl/fi/xt6kxs5l07neapybfpybh/3039530.5f68a4a95fa9f.jpg?rlkey=51nwrk4kv4m75a6px0pxk5p5s&dl=1

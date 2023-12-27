@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=92975.534f75653f708
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 18 MB
+Colors:
+Style: Modern
+Materials: Paper
+Formfactor:
+Published 17 April 2014
+In the archive: 101 Book with all the necessary textures. Formats: OBJ, Max, FBX. Polys: 41,484 Verts: 27,324
+tags: : book
+5: Decoration
+6: Books
+7: 101 Book
+https://www.dropbox.com/scl/fi/vvzmqav29lbfy0g1cg48d/92975.534f75653f708.rar?rlkey=liyapxcsf3a909iwkyoq1zyv2&dl=1
+https://www.dropbox.com/scl/fi/qid06kowrl5ib339e4blb/92975.534f75653f708.jpg?rlkey=hlrnerny4dgncbopjaoofo6vn&dl=1

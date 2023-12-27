@@ -1,0 +1,20 @@
+1: https://3dsky.org/search?query=3281556.602e3e51812b4
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 19 MB
+Colors:
+Style: Modern
+Materials: Metal, Paper
+Formfactor:
+Published 18 February 2021
+Interior decor set with items from HM.
+
+The model is partially for anti-aliasing, Turbosmooth is enabled in Render Iteration mode (from 1 to 2).
+All elements and textures have unique names in English. The texture paths are cleaned up.
+tags: : : : : : : : : : : : : : : : : : : : : : : : : : : : home fragrances: picture: poster: books: set of books: magazine: candles: candlestick: decor for living room: decor for shelves: shelf: bookshelf: vase: ceramics: h & m: statuette: modern decor: set of vases: black decor: loft: marble: mirror: box: tray: stand: flavoring: frame
+5: Decoration
+6: Decorative set
+7: Decor set BLACK
+https://www.dropbox.com/scl/fi/zhht32mhwlghqldxb1m47/3281556.602e3e51812b4.rar?rlkey=r4mfxprmra08jlqe5kgod4t2h&dl=1
+https://www.dropbox.com/scl/fi/nrz792xo5kv47khk4k236/3281556.602e3e51812b4.jpg?rlkey=c80mkib5yndgib0233mleqkgr&dl=1

@@ -1,0 +1,27 @@
+1: https://3dsky.org/search?query=2731849.5e5bf90fc14a9
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray+Corona
+Size: 45 MB
+Colors:
+Style: Modern
+Materials: Metal, Plastic
+Formfactor:
+Published 1 March 2020
+Other bathroom decor: https://3dsky.org/collection/shared/5204614 
+
+The archive contains the 3ds max 2015 scene for Corona and V-Ray and the obj file.
+Polys: 94 777
+Quads only. OBJ without smoothing.
+Turbosmooth is applied to most objects during rendering.
+All objects and materials are logically named.
+The "heaviest" object in the scene is a brush.
+Who works in a V-Ray version lower than 3.1 be careful, there is a Microfaset GTR ( GGX) in the materials in the BRDF section, if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward – which is preferable for you.
+For Corona render, it is recommended to install a version not lower than 1.5, since the glossiness of materials is configured with PBR in mind.
+Show more
+tags: : : : : : : : : : : : : : : : : : : : : : : : soap: gel: paste: brush: salt: sea: eucalyptus: branch: greens: vase: shampoo: balm: mirror: makeup: scrub: decorative: set: bathroom: decor: accessories: bath: tube: meraki
+5: Bathroom
+6: Bathroom accessories
+7: Bathroom accessories
+https://www.dropbox.com/scl/fi/3qwwnvkl9ablx69of2bbg/2731849.5e5bf90fc14a9.rar?rlkey=bhc0o8j2i50u3b8es15uhfy38&dl=1
+https://www.dropbox.com/scl/fi/beure0uoogcar5hqkxc6r/2731849.5e5bf90fc14a9.jpg?rlkey=z5sdadi4rta4wsarz55o7u6lz&dl=1

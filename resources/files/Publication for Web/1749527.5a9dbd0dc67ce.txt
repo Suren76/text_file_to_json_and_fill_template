@@ -1,0 +1,24 @@
+1: https://3dsky.org/search?query=1749527.5a9dbd0dc67ce
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray
+Size: 10 MB
+Colors:
+Style: Ethnic
+Materials: Wood, Leather
+Formfactor:
+Published 6 March 2018
+41 "H x 22.5" W x 21 "D - 29k polys
+-------------------------------------------------- ---------
+Who works in the V-Ray version is lower than 3.1. Be careful, in some materials in the BRDF section there is a Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+-------------------------------------------------- -----------
+All elements have the correct scan
+-------------------------------------------------- -----------
+Scene in mm
+Show more
+tags: : : : : : : : : : : : : : : curved: capitone: wood: metal: cafe: a restaurant: bar: footboard: buttons: make-ups: salon: tatum: leather: kathykuo
+5: Furniture
+6: Chair
+7: Rivingtone Bar Stool
+https://www.dropbox.com/scl/fi/34izuzabsoosi8spnay2p/1749527.5a9dbd0dc67ce.rar?rlkey=gazgyu873et2g8ouvz317mo2s&dl=1
+https://www.dropbox.com/scl/fi/dw7ycz8329c3kxfbfr84n/1749527.5a9dbd0dc67ce.jpg?rlkey=l9o53d00x4ms9hao1dsfpdurm&dl=1

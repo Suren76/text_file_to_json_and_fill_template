@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=236370.553aa63d24969
+2: Buy accesses
+3: Platform: fbx/obj
+Size: 17 MB
+Colors:
+Style: Classic
+Materials: Metal
+Formfactor:
+Published 24 April 2015
+Hob HR 750 VGTAN Manufacturer: FREGGIA (Italy). Width: 750 Height above the worktop, mm: 50 Depth mm: 510 http://freggia.com/en/products/builtin/hobs/id_219.html  File's inside: * .max (uncollapsed modifier list) * .fbx * .obj All materials for CORONA.
+tags: : : hob: freggia
+5: Kitchen
+6: Kitchen appliance
+7: FREGGIA HR 750 VGTAN
+https://www.dropbox.com/scl/fi/gkqpzgsfvfxdb1ndrr5t8/236370.553aa63d24969.rar?rlkey=fe70jmwci1uvlul8f8mhiu5h2&dl=1
+https://www.dropbox.com/scl/fi/qy8zsjm36qkw337smt4d9/236370.553aa63d24969.jpg?rlkey=46e4egf7hfixm36eoympaml9u&dl=1

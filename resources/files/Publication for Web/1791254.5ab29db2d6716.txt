@@ -1,0 +1,20 @@
+1: https://3dsky.org/search?query=1791254.5ab29db2d6716
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 32 MB
+Colors:
+Style: Ethnic
+Materials: Metal, Stone
+Published 21 March 2018
+Sculpture of a zebra.
+Highly polygonal discriminated model (triagulation) under the proxy.
+Polys: 556304
+link to the same low polygonal model:
+https://3dsky.org/3dmodels/show/skulptura_tri_zebry
+tags: : : : : : hi-poly: zebra: statuette: animal: décor
+5: Decoration
+6: Sculpture
+7: Hi-poly_sculpture of a zebra
+https://www.dropbox.com/scl/fi/y7rlnlpbepuut2ruvpxy4/1791254.5ab29db2d6716.rar?rlkey=dyszvfno6e7nfva7hwt807f9h&dl=1
+https://www.dropbox.com/scl/fi/8h8mq2d8ibd067aq7jpre/1791254.5ab29db2d6716.jpg?rlkey=p4roh0gsri5phfb4nibtqftf6&dl=1

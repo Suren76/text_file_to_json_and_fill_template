@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=581086.5776793bc1616
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray
+Size: 14 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 1 July 2016
+Name: Lavinia_armchair Version: 2011 Units: Meters Dimension: 85.23 x 91.53 x 116.21 Polys: 116,579 XForm: Yes Box Trick: Yes Model Parts: 20 Render: V-Ray Formats: 3Ds Max 2011, OBJ, FB http: // www .istikbal.com.tr / oturma-gruplari / klasik-takimlar / lavinia-koltuk-takimi
+tags: : : : istikbal: lavinia: koltuk
+5: Furniture
+6: Arm chair
+7: Lavinia Armchair
+https://www.dropbox.com/scl/fi/b1wo9yg1w7mqd7r2lv65l/581086.5776793bc1616.rar?rlkey=vgn3w6rouh0ug53fma3o95juq&dl=1
+https://www.dropbox.com/scl/fi/w3d59jcsvf8wa1414pkwd/581086.5776793bc1616.jpg?rlkey=8m68ales4nk96ey4jpq4fdkw8&dl=1

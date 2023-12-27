@@ -1,0 +1,31 @@
+1: https://3dsky.org/search?query=2351337.5c556ddea45ef
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 40 MB
+Colors:
+Style: Modern
+Materials: Wood
+Formfactor:
+Published 2 February 2019
+Included in the following collections:
+Decorative walls - https://3dsky.org/collection/shared/5080875 
+
+Name: Decorative_wall_146
+Version: 2013
+Preview: No
+Units: Millimeters
+Dimension: 5965.0 x 92.0 x 3000.0
+Polys: 15,243
+XForm: Yes
+Box Trick: Yes
+Model Parts: 1
+Render: Corona
+Formats: 3Ds Max 2013, OBJ, FBX
+Show more
+tags: : : : : : : : : : : : : : : : gray: backlight: map: world: abstraction: geometry: wall: panel: wood: decorative: slats: stripes: the: lines: wooden
+5: Decoration
+6: Other decorative objects
+7: Decorative wall 146.
+https://www.dropbox.com/scl/fi/simpicw7u1jq1bhn1g8yv/2351337.5c556ddea45ef.rar?rlkey=owa3tzmuuxzxivdsj88ch639u&dl=1
+https://www.dropbox.com/scl/fi/nd5barkrgsj0jt4oml3sn/2351337.5c556ddea45ef.jpg?rlkey=2rb2kow0voou1ndejfo1dqsjs&dl=1

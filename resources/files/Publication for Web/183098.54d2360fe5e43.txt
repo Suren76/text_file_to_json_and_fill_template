@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=183098.54d2360fe5e43
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 8 MB
+Colors:
+Style: Classic
+Materials: Metal, Glass
+Formfactor:
+Published 4 February 2015
+Models for the 2011, 2014 + OBJ. Hanging smoothing enabled to render. Pleasant Visa
+tags: : evrosvet
+5: Lighting
+6: Ceiling lamp
+7: Chandelier Eurosvet Asfour 0022
+https://www.dropbox.com/scl/fi/pl6kzgxyqthprz2v5w5qc/183098.54d2360fe5e43.zip?rlkey=s45658iek49u4sjwia9bqw5tj&dl=1
+https://www.dropbox.com/scl/fi/2we99wfeym7ffcvzke54h/183098.54d2360fe5e43.jpg?rlkey=4iqp8nnc2xd2c1bxphkofa8pg&dl=1

@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=1678586.5a79b80ddfeec
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray+Corona
+Size: 65 MB
+Colors:
+Style: Classic
+Materials: Metal, Wood
+Formfactor:
+Published 6 February 2018
+PBR: Yes
+Geometry: Polygon mesh
+Polygons: 8,124
+Vertices: 8,604
+Textures: Yes
+Materials; Yes
+UV Mapping: Yes
+Unwrapped UVs: Non-overlapping
+Plugins used: No
+------------------------------------------
+Who works in the V-Ray version is lower than 3.1. Be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : : : whiskey: barrel: wooden: restaurant: cafe: bar
+5: Other Models
+6: Restaurant
+7: Whiskey Barrels
+https://www.dropbox.com/scl/fi/cf9zs2qwht4rgymrd3lz6/1678586.5a79b80ddfeec.rar?rlkey=4z60e0u8o4c0hvjuqa041dqck&dl=1
+https://www.dropbox.com/scl/fi/rwxllro82csfndar61c5r/1678586.5a79b80ddfeec.jpg?rlkey=l3xxua9bxdce65d3typ38z9gz&dl=1

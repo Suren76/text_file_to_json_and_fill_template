@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=879266.589ec033e5388
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 80 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 11 February 2017
+Models: 1. Pistol Glock 17 Gen4 9mm black and silver gate + long barrel threaded for silencers 2 flashlight with laser pointer on the basis of Streamlight TLR 3. Two custom muffler Silencerco 4. 9x19 Parabellum cartridge materials V-Ray + Corona Renderer
+tags: : : : : : : : : weapon: pistol: muffler: glock: flashlight: laser: silencerco: 9x19
+5: Other Models
+6: Miscellaneous 3
+7: Pistol Glock 17 Gen4 + Flashlight with laser pointer
+https://www.dropbox.com/scl/fi/yrgspvrmfard1jeeg8uen/879266.589ec033e5388.rar?rlkey=ikj3392ztm14mqph7lijusjl4&dl=1
+https://www.dropbox.com/scl/fi/88xpp0lmbfs2osc7rlt6e/879266.589ec033e5388.jpg?rlkey=nq2p7w7p5uzwm58g2xz3opex7&dl=1

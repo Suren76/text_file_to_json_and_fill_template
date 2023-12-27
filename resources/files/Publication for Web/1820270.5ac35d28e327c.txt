@@ -1,0 +1,37 @@
+1: https://3dsky.org/search?query=1820270.5ac35d28e327c
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray
+Size: 10 MB
+Colors:
+Style: Classic
+Materials: Metal, Glass
+Formfactor:
+Published 3 April 2018
+Chandelier pendant
+744148 Castello Lightstar
+D600 H862 mm
+14 x E14 max 60W
+Polys: 232 271
+Verts: 249,439
+
+3ds Max 2015 V-Ray 3.6
++ fbx
++ obj
+
+Weight without anti-aliasing.
+Hi-poly.
+The dispersion material is included in the crystal material.
+
+Who works in the V-Ray version is lower than 3.1. Be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+
+ 
+
+744_Castello_Lightstar
+Show more
+tags: : : : : : : : : : : : lightstar: stastello: crystal: glass: swarovski: metal: the: black: pendant: retro: suite
+5: Lighting
+6: Pendant light
+7: 744148 Castello Lightstar
+https://www.dropbox.com/scl/fi/3amaxpn8soevhgwnk6np8/1820270.5ac35d28e327c.rar?rlkey=xskl1vs7s8t8tpkxhkb0ncnss&dl=1
+https://www.dropbox.com/scl/fi/p17zkdi4gf279vq36l2wx/1820270.5ac35d28e327c.jpg?rlkey=x9rxcqtcw2wgpco6zgfborm83&dl=1

@@ -1,0 +1,21 @@
+1: https://3dsky.org/search?query=3489927.60cbb9dc3dc8f
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray+Corona
+Size: 3 MB
+Colors:
+Style: Modern
+Materials: Metal, Wood
+Formfactor:
+Published 18 June 2021
+dimensions W 2350 x H 2700 x D 500 mm
+
+design by prosvirinruslan.com
+
+who works in a V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you
+tags: : : : : : : : : : : : : : : washbasin: sink: mirror: crane: wooden: panel: furniture: washing: minimalism: facade: shelving: brass: reiki: bathroom
+5: Bathroom
+6: Bathroom furniture
+7: bath set 17
+https://www.dropbox.com/scl/fi/pfvw72j3edarmpyc0zob8/3489927.60cbb9dc3dc8f.rar?rlkey=wzaahoyzx1yboydy7ne2b12kx&dl=1
+https://www.dropbox.com/scl/fi/ksopni7nbrq5yjf8ak36y/3489927.60cbb9dc3dc8f.jpg?rlkey=mgcee95r56xywqqwjuqoq2kyu&dl=1

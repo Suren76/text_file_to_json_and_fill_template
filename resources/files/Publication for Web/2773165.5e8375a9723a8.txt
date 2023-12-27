@@ -1,0 +1,21 @@
+1: https://3dsky.org/search?query=2773165.5e8375a9723a8
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 80 MB
+Colors:
+Style: Modern
+Materials: Glass, Organics
+Formfactor:
+Published 31 March 2020
+Kiwi in a metal bowl and fresh from it in a glass. The model is perfect in the kitchen or as a decor on a coffee table in the living room.
+The archive max file with V-Ray materials and max file with Corona materials, as well as obj file.
+
+Polys: 161,651
+Verts: 116,405
+tags: : : : : : : : : : kiwi: bowl: glass: juice: fresh: a tube: mint: fruits: decor
+5: Kitchen
+6: Food and drinks
+7: Kiwi in a bowl and fresh
+https://www.dropbox.com/scl/fi/wza4b33c1d1f9vtrq7mdf/2773165.5e8375a9723a8.rar?rlkey=v1b5lwc1m7jj57dmdz7y9zwb8&dl=1
+https://www.dropbox.com/scl/fi/8d994ds4kidus0g8f59e8/2773165.5e8375a9723a8.jpg?rlkey=w5ekriolqsqax7uhxvcaxt3nd&dl=1

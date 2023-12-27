@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2722106.5e522d5622923
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Corona
+Size: 17 MB
+Colors:
+Style: Modern
+Materials: Leather, Stone
+Formfactor:
+Published 23 February 2020
+- Dining table BoConcept Augusta 230x106x72cm in 2 versions
+Reference: 370051700188075
+https://www.boconcept.com/ru-ru/augusta/370051700188075.html 
+- Chair BoConcept Vienna 57 + 59 + 83 / 47cm in 2 versions
+Reference: 4020075D1055111
+https://www.boconcept.com/en-us/vienna/4020075D1055111.html 
+
+Polys: 148052
+Verts: 74250
+
+Material changes by changing ID
+Show more
+tags: : : : : : : : : : : table: chair: dining: group: marble: metal: sliding: boconcept: augusta: vienna
+5: Furniture
+6: Table + Chair 1
+7: Dining table BoConcept Augusta + chair BoConcept Vienna
+https://www.dropbox.com/scl/fi/9ugihm3qqy1lw9gqjznnj/2722106.5e522d5622923.rar?rlkey=5drm7g4qpob95ky5wvv41y5vp&dl=1
+https://www.dropbox.com/scl/fi/4uh83papjkd6oc77h8otv/2722106.5e522d5622923.jpg?rlkey=tkslyuqvpfqa8rx0jt8ghxtxw&dl=1

@@ -1,0 +1,33 @@
+1: https://3dsky.org/search?query=2330600.5c35de4b49629
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Corona
+Size: 72 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 9 January 2019
+Bed Signorini & Coco - Certosa
+
+Classicism and elegance distinguish the bed with a soft headboard upholstered with buttons, decorated with eco-leather "starlight" with a traditional walnut finish.
+
+For Corona render, it is recommended to install a version not lower than 1.5, since the glossiness of materials is adjusted to fit PBR
+
+The archive contains:
+
+Bed
+Thumbs
+Light fixtures
+Carpet
+
+Scene in cm
+
+Fast renders!
+Show more
+tags: : : : bed: signorini coco: certosa
+5: Furniture
+6: Bed
+7: Bed Signorini & Coco - Certosa
+https://www.dropbox.com/scl/fi/wsy3g2sw9nrq9tfz2f9eo/2330600.5c35de4b49629.rar?rlkey=nmr18qre2ign7d7fecmo450sm&dl=1
+https://www.dropbox.com/scl/fi/z18tolbc3yc4h5hs9cw9x/2330600.5c35de4b49629.jpg?rlkey=7ndyitp1nhlcbmo72ftbma2xc&dl=1

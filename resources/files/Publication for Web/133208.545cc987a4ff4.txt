@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=133208.545cc987a4ff4
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 6 MB
+Colors:
+Style: Modern
+Materials: Glass, Plastic
+Formfactor:
+Published 7 November 2014
+A model of a generic window with double glazing. Highly detailed. The main elements of the window are grouped to simplify editing. Pivot is set to enable opening windows wing in vertical and horizontal position. BE AWARE: this is not a technical model; some materials are set as blend with layers- those materials MAY RENDER SLOWER than simple Vray meterials.
+tags: : window
+5: Other Models
+6: Windows
+7: Windows detailed with double glazing
+https://www.dropbox.com/scl/fi/j4oeypy9qbzf7izmk80qw/133208.545cc987a4ff4.rar?rlkey=fi72dcaee2h9daf31ycbf9ley&dl=1
+https://www.dropbox.com/scl/fi/seofvgciuo6hu4w373wii/133208.545cc987a4ff4.jpg?rlkey=pugwgrhrl7pqx2aajfyqis7rq&dl=1

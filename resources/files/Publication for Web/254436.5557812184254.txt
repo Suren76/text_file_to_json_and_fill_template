@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=254436.5557812184254
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 6 MB
+Colors:
+Style: Classic
+Materials: Metal, Plastic
+Formfactor:
+Published 16 May 2015
+Manufacturer: Masiero Collection: Eclettica Reference: Botero STL3 Dimensions (h / w / d) 195/60/60 polys: 32,965 verts: 33,570
+tags: : : masiero: eclettica
+5: Lighting
+6: Floor lamp
+7: Floor lamp BOTERO STL3 MASIERO
+https://www.dropbox.com/scl/fi/d49yzvg7ap5vzav4oj7cr/254436.5557812184254.rar?rlkey=a37fcqqmuz40m805fk2c36uyi&dl=1
+https://www.dropbox.com/scl/fi/1b9mw7zovvgpy6ciznw7j/254436.5557812184254.jpg?rlkey=019o4ick2nw0e8dffzutm5osx&dl=1

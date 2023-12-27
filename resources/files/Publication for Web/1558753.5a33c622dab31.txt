@@ -1,0 +1,47 @@
+1: https://3dsky.org/search?query=1558753.5a33c622dab31
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 60 MB
+Colors:
+Style: Ethnic
+Materials: Wood, Rattan
+Published 15 December 2017
+Realistic 3d model bathroom 2
+______________________________
+
+GENERAL:
+- created with 3ds Max 2014
+- Model prepared for V-Ray 3.40
+- Includes high-resolution textures
+- Includes Format OBJ (not smoothed)
+- All objects, textures and materials have their own names
+- Model is built to real-world scale
+- Units used: mm
+- Scene objects are organized by groups
+- No third-party renderer or plug-ins
+- Do not have missing DLL
+- Do not have default names
+- Geometry layer - Bathroom 2
+______________________________
+
+GEOMETRY:
+
+- Polys: 655 732
+- Verts: 655,951
+
+______________________________
+
+FORMATS:
+- MAX (130 mb)
+- OBJ (39.8 mb)
+______________________________
+
+Check out our other models
+Show more
+tags: : : : : : : : : : : : : : : : : : : hurricane: decorative staircase: parquet: plaster: accessories: decor: bank: basket: towel: folded towel: rolled towel: candles: ladder: laundry basket: plant: vase: toilet paper: sheet
+5: Bathroom
+6: Bathroom accessories
+7: Bathroom 2
+https://www.dropbox.com/scl/fi/4qrmcfm91o2c6kdofo45l/1558753.5a33c622dab31.rar?rlkey=92lkbjn2fdnyytxgev904gf3j&dl=1
+https://www.dropbox.com/scl/fi/y5glb5vmvjnueiy8xsjjl/1558753.5a33c622dab31.jpg?rlkey=fgyys3sawj7mvu8zz8u5cpz84&dl=1

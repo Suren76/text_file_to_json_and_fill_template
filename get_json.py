@@ -49,11 +49,22 @@ def get_json_from_file(
         for tag in dictionary[3]["tags"][0].split(":")
         if len(tag.strip()) != 0 and tag not in ["tags"]
     ] if len(dictionary[3]["tags"]) > 0 else [{"name": ""}])
+
+    # print("----------------------------------------------------------------------------------------------")
+    # print(f"{filename=}")
+    # print(dictionary[3])
+    # print("----------------------------------------------------------------------------------------------")
+
     _attributes: list[AttributeItem] = [
         AttributeItem(id=1, name="Price", options=[_account_type]),
-        AttributeItem(id=2, name="Render", options=[dictionary[3].get("Render").strip()]),
-        AttributeItem(id=3, name="Style", options=[dictionary[3].get("Style").strip()])
+        AttributeItem(id=2, name="Render", options=[dictionary[3].get("Render").strip() if dictionary[3].get("Render") is not None else ""]),
+        AttributeItem(id=3, name="Style", options=[dictionary[3].get("Style").strip() if dictionary[3].get("Style") is not None else ""])
     ]
+    # print(1111111111111111111111155555555555555555555555555555555511111111111111111111111111111)
+    # print(_attributes)
+    # print(dictionary[3])
+    # print(dictionary[3].get("Render"))
+    # print(1111111111111111111111155555555555555555555555555555555511111111111111111111111111111)
 
     item = get_item(
         item_type=_account_type,

@@ -1,0 +1,21 @@
+1: https://3dsky.org/search?query=1371564.59cf4349db5a9
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 1 MB
+Colors:
+Style: Ethnic
+Materials: Metal
+Formfactor:
+Published 30 September 2017
+Table lamp John Lewis LED Table Lamp Satin Brass
+
+Output curves Falloff maps cannot be exported.
+Who works with V-Ray version lower than SP1, pay attention to materials section BRDF (Microfaset GTR (GGX)), if your version is older than SP1 - this option will be empty and you have to choose:
+Blinn,Ward or Phong, depence on material.
+tags: : : : : john lewis: led: satin: brass
+5: Lighting
+6: Table lamp
+7: John Lewis LED Table Lamp Satin Brass
+https://www.dropbox.com/scl/fi/5dwqf6247ppmwl4vdyjti/1371564.59cf4349db5a9.rar?rlkey=u05mszren37pvfql39vc550hl&dl=1
+https://www.dropbox.com/scl/fi/ssw2bp3fa6olsptxvahr8/1371564.59cf4349db5a9.jpg?rlkey=nfg4cmnkkknv6690ih52j9zsp&dl=1

@@ -1,0 +1,15 @@
+1: https://3dsky.org/search?query=386643.5623ca41ae78d
+2: Free download
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 28 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 18 October 2015
+Srednepoligonalnaya model of Belarus-China freight electric BKG1. The model with the levels of detail: the body (in triangles) LOD_0 ~ 52,000 LOD_1 ~ 24,000 LOD_2 ~ 5000 LOD_3 ~ 480 Cart LOD_0 ~ 28,000 LOD_1 ~ 7000 LOD_2 ~ 490 collectors 1500 model with baked textures for body 2048x2048, carts 1024x1024, and specular maps, normal.
+5: Other Models
+6: Transport
+7: Electric BKG1
+https://www.dropbox.com/scl/fi/zv52qsgxo1czcwcgg9css/386643.5623ca41ae78d.zip?rlkey=wnzvk6uyw1wrnpy3cjwgsaies&dl=1
+https://www.dropbox.com/scl/fi/cgt1ka5i6d02efa2hqz59/386643.5623ca41ae78d.jpg?rlkey=tx40shinmqlkx0tgmcvj6x3l7&dl=1

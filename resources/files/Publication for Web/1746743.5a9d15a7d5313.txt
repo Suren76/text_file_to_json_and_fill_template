@@ -1,0 +1,46 @@
+1: https://3dsky.org/search?query=1746743.5a9d15a7d5313
+2: Buy accesses
+3: Platform: 3dsMax 2009 and below
+Render: Vray
+Size: 50 MB
+Colors:
+Style: Modern
+Materials: Wood
+Published 5 March 2018
+Barlinek Floorboard - Pure Line - Oak Caramel Grande
+
+A traditional oak floor, enriched by brushing, with visibly marked edges.
+
+Catalog No.: 1WG000284
+
+Dimensions boards:
+Width [mm]: 180
+Length [mm]: 2200
+Thikness [mm]: 14
+
+Product features:
+Coating: matt lacquer
+Pattern - a feature of the product: 1-strip
+lengthwise joint: Barclick
+header joint: 5Gc
+Bevelling: yes
+Brushing: yes
+suitable for under-floor heating: yes
+Staining: yes
+Wood features: A small amount of knots
+Wood species: Oak
+Hardness [kG / mm2]: 3.7
+
+The textures of 30 original dies are applied in the work!
+When creating a parquet material, multi / sub-objects are used.
+Third party plugins are missing.
+The size of each floor model is 10000 x 10,000 mm.
+In the archive model in the format 3dsMax 2009,2011,2013 and 2016.
+Beautiful renders).
+Show more
+tags: : : : : : : parquet board: oak: barlinek: floor: parquet: single-band
+5: Materials
+6: Wood
+7: Barlinek Floorboard - Pure Line - Oak Caramel Grande
+https://www.dropbox.com/scl/fi/j78upb60pip02x1f22oxa/1746743.5a9d15a7d5313.rar?rlkey=98k7iys1cx0pcwxh1hux9wn5s&dl=1
+https://www.dropbox.com/scl/fi/oveywo782tyrelpbscr85/1746743.5a9d15a7d5313.jpg?rlkey=vjjsboa7fusbb28x0nx9alp74&dl=1

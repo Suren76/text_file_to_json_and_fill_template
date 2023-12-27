@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=178949.54c12a45d1148
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 1 MB
+Colors:
+Style: Modern
+Materials: Metal, Glass
+Formfactor:
+Published 22 January 2015
+The archive files are embedded: max 2014, fbx. Dimensions: length - 55 cm; width - 8 cm; ledge - 13.5 cm Power - 4x5 W LED. Materials - crystal metal. Polys: 26280 Verts: 26212
+tags: : : globo: iona
+5: Lighting
+6: Wall light
+7: Globo 67031-4W Iona
+https://www.dropbox.com/scl/fi/4txpdl8ifjrv2e5ux6slm/178949.54c12a45d1148.rar?rlkey=yp5tfr7a5kf6eu3ma4mls31yu&dl=1
+https://www.dropbox.com/scl/fi/q0izs5413smp2agpepaqh/178949.54c12a45d1148.jpg?rlkey=90yes0970bqmbd7w50z7h7hto&dl=1

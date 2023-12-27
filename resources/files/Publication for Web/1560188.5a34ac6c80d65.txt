@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=1560188.5a34ac6c80d65
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 6 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Formfactor:
+Published 16 December 2017
+Name: Pillow 63_vray_and_corona_2014
+Version: 2014
+Preview: Yes
+Units: Millimeters
+Polys: 83,192
+Vertex: 83,196
+Render: Corona, Vray
+Formats: 3Ds Max 2014, FBX, OBJ
+Unwrap UVW: Yes
+Model shops:
+ 
+ 
+ 
+ 
+-------------------------
+  Show more
+tags: : : : : : : : : : pillows: houzz: square: chaney: geometric: throw: surya: hessian: linen
+5: Decoration
+6: Pillows
+7: Decorative pillows Houzz, Surya Hessian Linen set 063
+https://www.dropbox.com/scl/fi/9v05n86ker3ymg9poeywa/1560188.5a34ac6c80d65.zip?rlkey=5uciq648k8i155e3uxil58m3d&dl=1
+https://www.dropbox.com/scl/fi/hib1lff3htjq8olgl123t/1560188.5a34ac6c80d65.jpg?rlkey=1vrywl2wk3xk5u09fughemij4&dl=1

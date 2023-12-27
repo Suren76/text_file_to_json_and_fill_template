@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=561884.5755714d237c6
+2: Buy accesses
+3: Platform: 3dsMax 2009 and below
+Render: Vray
+Size: 20 MB
+Colors:
+Style: Classic
+Materials: Stone
+Formfactor:
+Published 6 June 2016
+NYC Building 1 High quality 3d model for your visualization or games. Render ready with: V-Ray, Scanline Model specs: H = 27 meters Polygons: 13,066 Vertices: 9,241 Included: - 3ds max file - fbx file - 3DS file - Obj file - Vue (vob) file - multi material - textures
+tags: : : marquise: house
+5: Architecture
+6: Building
+7: NYC Building 1
+https://www.dropbox.com/scl/fi/8nc9hmq8vbuwx06zblr5v/561884.5755714d237c6.rar?rlkey=jv9g774c7wj9kr030rim4vps8&dl=1
+https://www.dropbox.com/scl/fi/1gjbf5ntc8zl70t7uu6jo/561884.5755714d237c6.jpg?rlkey=91t1aacnisd0dqlpprlt9crc2&dl=1

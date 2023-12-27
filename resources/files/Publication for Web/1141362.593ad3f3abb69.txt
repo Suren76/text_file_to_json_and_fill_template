@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=1141362.593ad3f3abb69
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray+Corona
+Size: 38 MB
+Colors:
+Style: Modern
+Materials: Stone
+Published 9 June 2017
+Each tile has 6 textures NO TILING texture CORONA and VRAY Renderer _____________________________________ ABC stone Set 69 Limestone 016_Grigio Argento_60X60 - 6 .jpg 016_Grigio Argento_80X40 - 6 .jpg 017_Grigio Fossil_60X60 - 6 .jpg 017_Grigio Fossil_80X40 - 6 .jpg 018_La Perla_60X60 - 6 .jpg 018_La Perla_80X40 - 6 .jpg Size 24 x 24 inch / 60 x 60 cm 31 x 16 inch / 80 x 40 cm Thickness 3/4 "/ 2 cm _____________________________________ NO PLUGINS _____________________________________ High Resolution Texture: 1500x1500, 1500x750 - 22.5 MB _____________________________________ Floor Size : 14446mm x 14446mm, 14470mm x 14434mm 12 preset materials Include library CORONA and VRAY .mat: 016_Grigio Argento_60X60_Honed - 6 maps 016_Grigio Argento_60X60_Polished - 6 maps 016_Grigio Argento_80X40_Honed - 6 maps 016_Grigio Argento_80X40_Polished - 6 maps 017_Grigio Fossil_60X60_Honed - 6 maps 017_Grigio Fossil_60X60_Polished - 6 maps 017_Grigio Fossil_80X40_Honed - 6 maps 017_Grigio Fossil_80X40_P olished - 6 maps 018_La Perla_60X60_Honed - 6 maps 018_La Perla_60X60_Polished - 6 maps 018_La Perla_80X40_Honed - 6 maps 018_La Perla_80X40_Polished - 6 maps _____________________________________ 3dsMax 2014, 2011. FBX 2014, 2011. OBJ. Polys: 66,108 Verts: 88176 CORONA and VRAY Renderer _____________________________________  
+Show more
+tags: : : tile: limestone
+5: Materials
+6: Tile
+7: ABC stone Set 69
+https://www.dropbox.com/scl/fi/ldxbugh3w08pvu99sdz85/1141362.593ad3f3abb69.rar?rlkey=bjvwygboj6616lhbx9rgbq3a7&dl=1
+https://www.dropbox.com/scl/fi/uinhe3j6chj8lada6wu7g/1141362.593ad3f3abb69.jpg?rlkey=ihdawwpjcpxvaw7w45aqwts1h&dl=1

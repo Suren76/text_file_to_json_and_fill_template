@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2602381.5dc435b115f61
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 75 MB
+Colors:
+Style: Modern
+Materials: Fabric, Leather
+Formfactor:
+Published 7 November 2019
+Name: Campo_Bonaldo_Bed
+Version: 2013
+Preview: Yes
+Units: Millimeters
+Dimension: 2540.91 x 2481.36 x 1003.23
+Polys: 717,646
+XForm: Yes
+Box Trick: Yes
+Model Parts: 15
+Render: corona
+Formats: 3Ds Max 2013, OBJ
+Show more
+tags: : : : : : : bed linen: pillow: cloth: bonaldo: plaid: leather
+5: Furniture
+6: Bed
+7: Campo bonaldo bed
+https://www.dropbox.com/scl/fi/ibl4t0cfj51osmago8lsw/2602381.5dc435b115f61.rar?rlkey=mqfhq1cg7t32cjdwnq53ov1we&dl=1
+https://www.dropbox.com/scl/fi/vbjbno5prpzgyi7kyckoc/2602381.5dc435b115f61.jpg?rlkey=d61vbz9n89tj2lplpnfvoupri&dl=1

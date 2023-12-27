@@ -1,0 +1,24 @@
+1: https://3dsky.org/search?query=3389601.607df61e5c317
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Vray
+Size: 13 MB
+Colors:
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 20 April 2021
+Ekrar Coat Stand
+Model available in the following formats:
+3ds max 2012
+Fbx
+Obj
+polys: 54130
+verts: 54393
+all texture 2048 * 2048
+tags: : : : : : : : : : : clothing: coat: stand: jacket: hall: suit: ikea: veste: clothes: handbag
+5: Furniture
+6: Hallway
+7: Ekrar Coat Stand
+https://www.dropbox.com/scl/fi/dtfr3gn440oc26u9o0o5i/3389601.607df61e5c317.rar?rlkey=69b26qa2lv478ibjht3m0ohjx&dl=1
+https://www.dropbox.com/scl/fi/p7j48mxpi0riuwx1cw97x/3389601.607df61e5c317.jpg?rlkey=21f0wo68c4if4wouwt4yezh1r&dl=1

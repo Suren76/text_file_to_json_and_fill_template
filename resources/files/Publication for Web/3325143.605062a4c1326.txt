@@ -1,0 +1,43 @@
+1: https://3dsky.org/search?query=3325143.605062a4c1326
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray+Corona
+Size: 52 MB
+Colors:
+Style: Ethnic
+Materials: Wood
+Formfactor:
+Published 16 March 2021
+Joybird Rayne Dining Chair 2 options
+
+Wooden chair with wicker seat
+
+https://joybird.com/dining-chairs/rayne-chair/ 
+
+Dimensions: 565 x 520 x 775 mm;
+
+polys: 175.078;
+verts: 244.654.
+
+Fur made with Hair and Fur
+
+For correct display: System Units Setup - Millimeters
+vray: Rendering> Effects> Hair and Fur> Hair> mr prim
+corona: Rendering> Effects> Hair and Fur> Hair> geometry
+
+To mirror fur along the axes:
+1. Open the model group and select the skin;
+2. In the "Hair and Fur" modifier in the "Tools" tab, select "Guides -> Splines";
+3. Wait until the end of the operation to create splines, on the basis of which the fur of your reflected model will be built;
+4. Add the created splines to the general group of the model, close the group and reflect the model along the desired axis;
+5. Ungroup, make X-FORM of all elements of the model;
+6. Select the skin, in the "Hair and Fur" modifier in the "Tools" tab, select "Recomb From Splines";
+7. Then click on the previously created splines. As a result, the fur will be recalculated based on your splines;
+8. Remove splines and close the model group.
+Show more
+tags: : : : : : : : : : : : : : joybird: rayne: dining: chair: fur: pelt: wicker: rope: plaid: sisal: wood: legs: pile
+5: Furniture
+6: Chair
+7: Joybird Rayne Dining Chair 2 options
+https://www.dropbox.com/scl/fi/b4katt9r6drrp35gpizjo/3325143.605062a4c1326.rar?rlkey=hqnr8invi52pmftpqixgl12e9&dl=1
+https://www.dropbox.com/scl/fi/b1yocl7h0zjnre3ld2x95/3325143.605062a4c1326.jpg?rlkey=glnkepf3dpxwq4a9bvs1qv35l&dl=1

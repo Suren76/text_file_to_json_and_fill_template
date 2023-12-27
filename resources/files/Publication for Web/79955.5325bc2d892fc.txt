@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=79955.5325bc2d892fc
+2: Free download
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 29 MB
+Colors:
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 16 March 2014
+model cadillac XLR. Taillights - texture, tire tread on the renderers - geometry. Beauty is not detailed. Objects are arranged in groups and have a logical name. hdri-card not included, since it is not mine. ≃ 450 000 poly
+tags: : cadillac
+5: Other Models
+6: Transport
+7: cadillac XLR
+https://www.dropbox.com/scl/fi/05jdfpjt29360m29nceyu/79955.5325bc2d892fc.zip?rlkey=ulro9x6vtxe0v0nurfjk92e45&dl=1
+https://www.dropbox.com/scl/fi/7z434ed42lphzqmxl2128/79955.5325bc2d892fc.jpg?rlkey=up1mfzzs07pr59gtzfba8ie3x&dl=1

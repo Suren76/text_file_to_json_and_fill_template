@@ -1,0 +1,22 @@
+1: https://3dsky.org/search?query=2892792.5ee0a6845e131
+2: Buy accesses
+3: Platform: 3dsMax 2015 + fbx
+Render: Vray+Corona
+Size: 48 MB
+Colors:
+Style: Modern
+Materials: Wood
+Formfactor:
+Published 10 June 2020
+Modern kitchen with island and built-in Bosch appliances
+Size: W.3.68 mx H.2.80m
+
+The kitchen is easy to edit. Each module is a separate object.
+The file does not include:
+floor, ceiling, walls.
+tags: : : : : : : : : kitchen: wood: a rock: plate: oven: terrazzo: kitchen furniture: bosch
+5: Kitchen
+6: Kitchen
+7: Kitchen set 8
+https://www.dropbox.com/scl/fi/6y7gbmmon9exqzo35ba86/2892792.5ee0a6845e131.rar?rlkey=goe688yyd1sta7p26z7nij3x4&dl=1
+https://www.dropbox.com/scl/fi/i20lclg8tg1ycfe3fy7sw/2892792.5ee0a6845e131.jpg?rlkey=c79lbd8e0waw1d6ne2bw30hcu&dl=1

@@ -1,0 +1,38 @@
+1: https://3dsky.org/search?query=1473299.5a08a3a55e4a6
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray+Corona
+Size: 32 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 12 November 2017
+Pravilo Quadro System
+
+Simulator (Static)
+The Old Slavic simulator was named after the word "rule". With its help and thanks to the author's system Pravilo Quadro System (PQS), tendons, ligaments and joints gently stretch, the spine straightens, which as a whole has a beneficial effect on the whole organism
+Dimensions:
+depth - 3040 mm
+width - 2540 mm
+height - 1500 mm
+
+Polys: 163 286
+Verts: 163,648
+
+In the archive:
+
+.max 2012 files_corona
+.max 2015 files_corona
+.max 2012 files_vray
+.max 2015 files_vray
+.obj file (multi format)
+.mat (corona)
+.mat (vray)
+.textures
+Show more
+tags: : : : : training: winch: equipment: inventory
+5: Other Models
+6: Sports
+7: Pravilo quadro system
+https://www.dropbox.com/scl/fi/dmkjkxcyewjvkw0gku37l/1473299.5a08a3a55e4a6.rar?rlkey=hwx2ai9zgtvpj8hjm1h5hqq5b&dl=1
+https://www.dropbox.com/scl/fi/d3pxrtaakp7uvip2vsm52/1473299.5a08a3a55e4a6.jpg?rlkey=s35ozwxtd0baon0eha3o0al9z&dl=1

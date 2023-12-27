@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=3049157.5f71a68bb3ddb
+2: Free download
+3: Platform: 3dsMax 2015 + obj
+Render: Corona
+Size: 49 MB
+Colors:
+Style: Ethnic
+Materials: Metal
+Formfactor:
+Published 28 September 2020
+Retro coffee pot
+Material: painted metal with abrasions and rust.
+Model in 2 versions:
+1) with a grid of 3440 and
+2) with a grid of 13516 (for close-up)
+Texture format: jpg., 4k
+For Corona render, it is recommended to install at least version 1.5, as the glossiness of the materials is adjusted with PBR in mind.
+tags: : : coffee pot: teapot
+5: Kitchen
+6: Tableware
+7: Retro coffee pot with grunge texture
+https://www.dropbox.com/scl/fi/37zcghpb9t81ls8v6d3c4/3049157.5f71a68bb3ddb.zip?rlkey=wufvlt7w35eaqx8kl91zv7wv4&dl=1
+https://www.dropbox.com/scl/fi/8vpqhc80czk6z6mwucr2w/3049157.5f71a68bb3ddb.jpg?rlkey=b4c5196cfcvb3glkdhuewow11&dl=1

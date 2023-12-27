@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=1814322.5abfaecd8c1da
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray
+Size: 5 MB
+Colors:
+Style: Modern
+Materials: Glass
+Published 31 March 2018
+Charming chandelier EMMY from the American premium brand Arteriors.
+
+The model is made of steel and is made in antique-brass finish. The glass decorative elements are made of white.
+
+Dimensions:
+The height of the chandelier is adjustable from 86 to 132 cm
+B86 x D61
+Number of lamps: 8 pcs.
+
+"Who works in the V-Ray version is lower than 3.1, please be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you. "
+
+You bright renders;)
+Show more
+tags: : : arteriors: emmy
+5: Lighting
+6: Pendant light
+7: ARTERIORS EMMY
+https://www.dropbox.com/scl/fi/612x74t7qaue3sfw32m1x/1814322.5abfaecd8c1da.rar?rlkey=8nr6ao2vdupgwao8n5qfxye0a&dl=1
+https://www.dropbox.com/scl/fi/pqqb6ulcyy0ev66839052/1814322.5abfaecd8c1da.jpg?rlkey=b8f9qpic52zjd1nwm6uhfsb31&dl=1

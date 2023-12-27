@@ -1,0 +1,26 @@
+1: https://3dsky.org/search?query=2288934.5bfa53a616621
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 52 MB
+Colors:
+Style: Modern
+Materials: Glass, Plastic
+Formfactor:
+Published 25 November 2018
+Cosmetics and accessories Meraki
+
+Polys: 303 315
+Verts: 344,281
+
+
+The archive scene 3ds max 2014 and file obj. On towels, vases and pumice Turbosmooth (Render Iterations).
+
+Materials for Corona and Vray. If your version of V-Ray is lower than 3.1, note: in the materials in the BRDF section, there is the Microfaset GTR (GGX). In older versions of Vray, the BRDF field will be blank. Select Blinn, Phong or Ward.
+Show more
+tags: : : : : : : : : : : : : : : : bank: vase: cotton wool: cotton: pad: swab: shampoo: cosmetics: brush: pumice: soap: cream: tube: towel: meraki
+5: Bathroom
+6: Bathroom accessories
+7: Meraki Baskets
+https://www.dropbox.com/scl/fi/ostpygmbgjqgyc8rlscgp/2288934.5bfa53a616621.rar?rlkey=3q3kqg67clbou5t9zjjryuql1&dl=1
+https://www.dropbox.com/scl/fi/lusc48af4y0oh5v4gc0li/2288934.5bfa53a616621.jpg?rlkey=4wd276m7vnmamv18r6wzvi1y5&dl=1

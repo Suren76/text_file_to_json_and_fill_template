@@ -1,0 +1,33 @@
+1: https://3dsky.org/search?query=1403254.59e21d4e627f2
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 70 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 14 October 2017
+Boeing 777-300 3D model
+
+Polygons 343,495
+OBJ (.obj) 9.26 MB
+
+Model of 3D-model Boeing 777-300
+
+This model has:
+2 types of visualization systems:
+Vray Render
+Corona Render
+Preparation of textures in Substance Painter.
+Detailed chassis, spoilers, slats, high-speed brakes and cargo doors. Outside, you will find many parts, such as windshield wipers, various antennas. The model is suitable for visualization.
+
+I hope you like this model!
+If necessary, we will prepare the coloring of the aviation company.
+
+  Show more
+tags: : : : : : : : : : air: aircraft: 777-300: airliner: airline: airplane: boeing: freight: jet
+5: Other Models
+6: Transport
+7: Boeing 777-300
+https://www.dropbox.com/scl/fi/r6rjooi1qe713qh78qqy0/1403254.59e21d4e627f2.rar?rlkey=y7f1s7fh5hbmemjo0gr3huzfi&dl=1
+https://www.dropbox.com/scl/fi/zlflc9cs3aoh26o54dsvs/1403254.59e21d4e627f2.jpg?rlkey=v3rt5pctup5hd1b3xohop9d2c&dl=1

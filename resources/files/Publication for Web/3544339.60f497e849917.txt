@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=3544339.60f497e849917
+2: Buy accesses
+3: Platform: 3dsMax 2015 + fbx
+Render: Vray+Corona
+Size: 171 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 18 July 2021
+Boca Tommy sofa
+
+https://boca.su/ 
+
+polygons 570 254
+Vertices 570 821
+
+Who works in V-Ray version lower than 3.1, be careful,
+in the materials in the BRDF section there is Microfaset GTR (GGX),
+if your version is older than 3.1, then the BRDF field will be empty.
+Choose Blinn, Phong or Ward - which is preferable for you
+
+In the archive: max 2015 vray + corona, FBX, OBJ.
+Vray + corona materials are present
+
+When opening FBX and OBJ, you need
+apply TurboSmooth modifier to some objects
+Show more
+tags: : : : : : : : : : : : : : : sofa: sides: tommy: hotwall: michael: module: modular: angular: shaposhnikov: boca: hot: walls: sofas: corner
+5: Furniture
+6: Sofa
+7: SOFA BOCA TOMMY
+https://www.dropbox.com/scl/fi/fkrtn88cwgnkz3u6cs2sc/3544339.60f497e849917.rar?rlkey=5sucxxujpmhrvpy1vurqlb84g&dl=1
+https://www.dropbox.com/scl/fi/pqllq21cpcgxert7wg3zc/3544339.60f497e849917.jpg?rlkey=55n75rg0cj4hxkxdanu5vnvez&dl=1

@@ -1,0 +1,40 @@
+1: https://3dsky.org/search?query=2823261.5ea874580f1cd
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray+Corona
+Size: 50 MB
+Colors:
+Style: Modern
+Materials: Organics
+Published 28 April 2020
+Fern plant
+
+Set of 5 plant models for modern landscape design.
+Pivot from the bottom of the bush, the model as a single object, the grid is optimal.
+
+500 (d) mm, (Polys: 230,932);
+400 (d) mm, (Polys: 191 848);
+350 (d) mm, (Polys: 132,764);
+300 (d) mm, (Polys: 98,478);
+250 (d) mm, (Polys: 53,646);
+
+Polys: 708 333
+Verts: 534,969
+
+In the archive:
+
+.max 2015 files_corona
+.max 2015 files_vray
+.max 2012 files_corona
+.max 2012 files_vray
+.obj file (multi format)
+.mat (corona)
+.mat (vray)
+.textures
+Show more
+tags: : : : : : : : : : : fern: tropical plant: flower: bush: shrub: garden: greens: eco: landscape design: street
+5: Plants
+6: Bush
+7: Fern bush
+https://www.dropbox.com/scl/fi/p9rvfrv0s5x69qf8gd4jx/2823261.5ea874580f1cd.rar?rlkey=bviyluswdoasj829x0u3lfnrm&dl=1
+https://www.dropbox.com/scl/fi/7wr4i6wip1gnw0nopo09q/2823261.5ea874580f1cd.jpg?rlkey=8zbwxzlhmu0v9hvpfcz7rga34&dl=1

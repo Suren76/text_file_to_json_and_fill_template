@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=1685483.5a7d870aa336b
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Vray+Corona
+Size: 21 MB
+Colors:
+Style: Modern
+Materials: Stone
+Formfactor:
+Published 9 February 2018
+The mesh model is executed in 3ds Max 2015.
+
+There are three .max files in the archive with Corona and Mental Ray and V-Ray renderers.
+To open the scene does not require a special plugin.
+
+Polycounts:
+
+Objects 7 no Smooth: 7,571 faces and 7423 vertices
+Objects 7 MeshSmooth level 1: 29,972 faces and 29,980 vertices
+Objects 7 MeshSmooth level 2: 119,888 faces and 119,896 vertices
+
+All textures and materials are included and assigned
+6 textures have a resolution of 2048x2048 px
+
+1 texture Light HDRI, resolution 4000x2000 px
+Show more
+tags: : : : : cup: cap: anime: cat
+5: Kitchen
+6: Tableware
+7: Cup anime
+https://www.dropbox.com/scl/fi/n8hwwr0afsc0najualhxx/1685483.5a7d870aa336b.rar?rlkey=m31vl8rgfvypek2a6utjoxyye&dl=1
+https://www.dropbox.com/scl/fi/brjji0glyuyjg79h75jyg/1685483.5a7d870aa336b.jpg?rlkey=ykdi6izhex17p3oyfrsyerkjh&dl=1

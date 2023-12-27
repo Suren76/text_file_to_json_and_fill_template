@@ -1,0 +1,21 @@
+1: https://3dsky.org/search?query=598339.57985be3cfd5e
+2: Buy accesses
+3: Platform: 3dsMax 2010 + fbx
+Render: Vray
+Size: 48 MB
+Colors:
+Style: Modern
+Materials: Metal, Fabric
+Formfactor:
+Published 27 July 2016
+I present to you floor lamp from Uttermost!
+Flower Pot stands on side table Mercia accent table, also from Uttermost.
+In the archive you will find two files MAX:
+Adara3.4 (for users VRay SP1 and above)
+Adara2.5 (for users of older versions of VRay)
+tags: : : : : : uttermost: side table: flowers: flowerpot: ivy
+5: Lighting
+6: Floor lamp
+7: Uttermost_Adara Floor lamp
+https://www.dropbox.com/scl/fi/p2vkkn7klf9vci2z4qts1/598339.57985be3cfd5e.rar?rlkey=zq73f0x1sae47cuojatvszsnh&dl=1
+https://www.dropbox.com/scl/fi/t8joprfywmwmi3tq02rmb/598339.57985be3cfd5e.jpg?rlkey=q37cle5lb12htwbwacc0yvsfc&dl=1

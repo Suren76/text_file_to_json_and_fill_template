@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=2821259.5ea734fab7b30
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 138 MB
+Colors:
+Style: Modern
+Materials: Paper, Organics
+Published 25 April 2020
+In the archive:
+- max 2014 (V-ray)
+- max 2011 (V-ray)
+- FBX
+- textures
+- material library (V-ray 3.0)
+
+All materials and objects have corresponding names in Latin letters.
+The export file is partially anti-aliased. Apply the Turbosmooth modifier to the mirror.
+The smoothing stack in the scene is not minimized and disabled.
+
+Polys: 289,474
+Verts: 489 144
+
+Makeup Mirror - Modo, Blomus
+Candlestick - Cirque Candle Holder (Black), HOUSE DOCTOR
+Show more
+tags: : : : : : : : : : : : : : : : : : : protea: home fragrances: dried flowers: perfume: vase: bouquet: branches: leaves: book: notebook: pen: mirror: box: case: hourglass: candlestick: candle: glass
+5: Decoration
+6: Decorative set
+7: Decorative set with Proteus
+https://www.dropbox.com/scl/fi/ggspcg71t8k4p6hw6w5it/2821259.5ea734fab7b30.rar?rlkey=kwonr9q0ej49rzci076u0a1dx&dl=1
+https://www.dropbox.com/scl/fi/s5zxhjsi6afh7w0ktbz84/2821259.5ea734fab7b30.jpg?rlkey=bjbq7dd32rle7t0gwa8av2k99&dl=1

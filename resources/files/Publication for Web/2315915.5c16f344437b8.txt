@@ -1,0 +1,22 @@
+1: https://3dsky.org/search?query=2315915.5c16f344437b8
+2: Buy accesses
+3: Platform: 3dsMax 2016 + fbx
+Render: Vray
+Size: 16 MB
+Colors:
+Style: Ethnic
+Materials: Wood
+Formfactor:
+Published 17 December 2018
+Polygons - 30,000
+Tops - 35,000
+
+Texture - 8192x8192 (Unwrap UVW, Scan)
+
+3d max 2016, 2014, Obg, Fbx
+tags: : : : : : : : : : : : panel: wall: branch: tree: frame: stem: bamboo: trunk: network: ceiling: board
+5: Decoration
+6: Other decorative objects
+7: Branch decor frame
+https://www.dropbox.com/scl/fi/9vj0abzdppwuhfxixzoja/2315915.5c16f344437b8.rar?rlkey=fitk38h5vmaqy9lp490do86jb&dl=1
+https://www.dropbox.com/scl/fi/sq82l6fuary4t37hquw91/2315915.5c16f344437b8.jpg?rlkey=iysz86u7posu9l8suea76cpp5&dl=1

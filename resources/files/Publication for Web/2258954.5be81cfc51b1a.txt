@@ -1,0 +1,26 @@
+1: https://3dsky.org/search?query=2258954.5be81cfc51b1a
+2: Free download
+3: Platform: 3dsMax 2014 + obj
+Render: Corona
+Size: 43 MB
+Colors:
+Style: Modern
+Materials: Leather, Glass
+Published 11 November 2018
+Model Scene Including
+- a glass of coca-cola with ice
+- bottle of coca-cola
+- soccer ball
+- mini-gate
+- grass (tuned corona scatter, disabled for convenience)
+
+polys 537 269
+verts 475 222
+(excluding lawn)
+Show more
+tags: : : : : : : : : : : coca cola: glass: bottle: ice: ball: football: game: goal: grass: lawn
+5: Other Models
+6: Sports
+7: Football and Coca-Cola
+https://www.dropbox.com/scl/fi/b6lmjgq6btycbjsuhxo49/2258954.5be81cfc51b1a.rar?rlkey=jf18js15qfnhh1lggb8lsa9vl&dl=1
+https://www.dropbox.com/scl/fi/2hmdo7qh01aa3i3vaaayo/2258954.5be81cfc51b1a.jpg?rlkey=v140mo0a62eftfgh2as43tesq&dl=1

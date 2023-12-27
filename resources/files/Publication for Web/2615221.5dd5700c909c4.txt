@@ -1,0 +1,26 @@
+1: https://3dsky.org/search?query=2615221.5dd5700c909c4
+2: Buy accesses
+3: Platform: 3dsMax 2016 + fbx
+Render: Corona
+Size: 32 MB
+Colors:
+Style: Classic
+Materials: Stone, Liquid
+Formfactor:
+Published 20 November 2019
+Model of the Bis fountain.
+
+Model dimensions: 4295x4295x2700 mm.
+
+Parts of Model: Bowls, Metal Bowl,
+created under the modifier
+TurboSmooth. Add it.
+
+For FBX: assign materials from
+Fountain Bis.mat libraries
+tags: : : fountain: granite
+5: Architecture
+6: Urban environment
+7: Bees Fountain
+https://www.dropbox.com/scl/fi/dhq2b94nktwdn0jlhd1pn/2615221.5dd5700c909c4.rar?rlkey=mg3jdvcdtbwxmp402n16pzxd0&dl=1
+https://www.dropbox.com/scl/fi/k3z6u8i1uvg82nz3se8ii/2615221.5dd5700c909c4.jpg?rlkey=6brkxajdvh0rg66gxfbbydsjt&dl=1

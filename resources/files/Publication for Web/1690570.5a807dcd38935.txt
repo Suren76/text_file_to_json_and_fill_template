@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=1690570.5a807dcd38935
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 95 MB
+Colors:
+Style: Classic
+Materials: Organics
+Published 11 February 2018
+The apple tree model is presented in four different versions of the seasons:
+
+Summer tree
+Autumn tree
+Winter tree
+Spring tree
+
+The summer apple tree consists of branches of leaves and apples.
+Autumn apple - this is a copy of the summer, but with the material of autumn foxes.
+The spring apple-tree consists of branches, blossoming flowers, and small young leaves.
+The winter apple tree consists of branches and snow lying on them.
+
+Who works in the V-Ray version is lower than SP1, be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than SP1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : : : : : : : : : : : : tree: apple tree: summer: autumn: spring: winter: snow: frost: garden: park: apple: greenery: bark: white: season
+5: Plants
+6: Tree
+7: Apple Tree 4 Seasons
+https://www.dropbox.com/scl/fi/u1wfk1nuu9n8y4kvhfjxz/1690570.5a807dcd38935.rar?rlkey=gtdpoaj6xnz4l4c73s3yqv1kf&dl=1
+https://www.dropbox.com/scl/fi/2mstzim1fvwx9vh6kazfh/1690570.5a807dcd38935.jpg?rlkey=pgpkdl2h63hb3usm8jrzrbfqv&dl=1

@@ -1,0 +1,106 @@
+1: https://3dsky.org/search?query=2465224.5d0412e75d3a2
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray+Corona
+Size: 6 MB
+Colors:
+Style: Modern
+Materials: Plastic
+Formfactor:
+Published 15 June 2019
+OneKeyElectro Florence Electrical Accessories
+
+Products webpage:
+https://okelectro.ru 
+
+In a set:
+
+- Socket with grounding, protective curtains
+Art. 1E10101300, 1E10101301, 1E10101302, 1E10101303
+
+- Socket with grounding
+Art. 1E10201300, 1E10201301, 1E10201302, 1E10201303
+
+- Socket without grounding
+Art. 1E10301300, 1E10301301, 1E10301302, 1E10301303
+
+- Ground outlet, cover
+Art. 1E10501300, 1E10501301, 1E10501302, 1E10501303
+
+- Socket tel. Rj11
+Art. 1E20601300, 1E20601301, 1E20601302, 1E20601303
+
+- Socket comp. RJ45 cat.5e
+Art. 1E20701300, 1E20701301, 1E20701302, 1E20701303
+
+- Socket double tel./comp. RJ11 / RJ45 cat.5e
+Art. 1E20801300, 1E20801301, 1E20801302, 1E20801303
+
+- Socket double comp. RJ45 cat.5e
+Art. 1E20901300, 1E20901301, 1E20901302, 1E20901303
+
+- Socket antenna TV
+Art. 1E21101300, 1E21101301, 1E21101302, 1E21101303
+
+- Single switch
+Art. 1E31301300, 1E31301301, 1E31301302, 1E31301303
+
+- Single switch
+Art. 1E31401300, 1E31401301, 1E31401302, 1E31401303
+
+- double switch
+Art. 1E31501300, 1E31501301, 1E31501302, 1E31501303
+
+- dual switch
+Art. 1E31601300, 1E31601301, 1E31601302, 1E31601303
+
+- Single switch with backlight
+Art. 1E31701300, 1E31701301, 1E31701302, 1E31701303
+
+- Double switch with backlight
+Art. 1E31801300, 1E31801301, 1E31801302, 1E31801303
+
+- Triple switch
+Art. 1E31901300, 1E31901301, 1E31901302, 1E31901303
+
+- Dimmer 600W
+Art. 1E42001300, 1E42001301, 1E42001302, 1E42001303
+
+- Single frame
+Art. 1E52101300, 1E52101301, 1E52101302, 1E52101303
+
+- The frame is double
+Art. 1E52201300, 1E52201301, 1E52201302, 1E52201303
+
+- Triple frame
+Art. 1E52301300, 1E52301301, 1E52301302, 1E52301303
+
+- Frame for 4 devices
+Art. 1E52401300, 1E52401301, 1E52401302, 1E52401303
+
+- Frame for 5 devices
+Art. 1E52501300, 1E52501301, 1E52501302, 1E52501303
+
+- Analog temperature controller
+Art. 1E42071300
+
+- Digital thermostat
+Art. 1E42081399
+
+Also, from the available elements, you can make a double outlet assembly with grounding art. 1E10401300, 1E10401301, 1E10401302, 1E10401303
+
+Thus, the archive includes a complete collection in all color schemes.
+
+Polys: 109,780
+Verts: 57,505
+
+All objects, materials and textures have names in English. Ways are reset. Neat grid, logical arrangement of pivots. The model is made for smoothing. For medium angles, a single Turbosmooth iteration is sufficient; for near angles, two iterations are recommended. The material is the same for all objects - it is convenient to assign and edit. Changing the color scheme is also provided - in the Diffuse slot there is a Composite with all four colors - just turn on the desired color. Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you. For Corona Render, it is recommended to install a version not lower than 1.5, since the Glossiness of materials is configured taking into account PBR.
+
+Creative success!
+Show more
+tags: : : : : : : : : : one: key: electro: onekeyelectro: socket: switch: frame: dimmer: thermostat
+5: Technology
+6: Miscellaneous 4
+7: Electrical Florence
+https://www.dropbox.com/scl/fi/fgcikotvtvguopff7z8oz/2465224.5d0412e75d3a2.rar?rlkey=81ndfcpwdfa5ju5ljjziiepqj&dl=1
+https://www.dropbox.com/scl/fi/rozrhduw2fh846aergve5/2465224.5d0412e75d3a2.jpg?rlkey=cn1n3nt9qhlmcw0gutap8ajsx&dl=1

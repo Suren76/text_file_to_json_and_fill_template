@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=2762790.5e7b39784d599
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 70 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 25 March 2020
+Name: 1333 Flamingo Zanotta Sofa
+
+Version: max2013 max2016
+
+Preview: Yes
+
+Dimension:Total _ 263 cm x 178 cm x 68 cm
+
+Polygons: 522228
+
+Vertices: 462062
+
+XForm: Yes
+
+Formats: 3Ds Max 2016, OBJ
+Show more
+tags: : : zanotta: flamingo
+5: Furniture
+6: Sofa
+7: 1333 Flamingo Zanotta Sofa
+https://www.dropbox.com/scl/fi/m0yxhyja6nl7hexfsz0yc/2762790.5e7b39784d599.rar?rlkey=2mbfzf9d68j2b95jet1f6r5xg&dl=1
+https://www.dropbox.com/scl/fi/bzdeyo0t3z6w9t7phivw0/2762790.5e7b39784d599.jpg?rlkey=mommhf4m66dmuu68aru4hy8ps&dl=1

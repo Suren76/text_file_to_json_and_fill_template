@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=1015628.58f0bae4d9472
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 48 MB
+Colors:
+Style: Modern
+Materials: Organics, Fur
+Published 14 April 2017
+Based on a True Story To display the render coat go in Rendering / Environment / Effects tab, click the Hair and Fur. Hairs in the drop-down list, select the "mr prim". Before the renderer need to go in the Rendering tab - Effects, click on the Hair and Fur and choose a lower mr prim mode.
+tags: : : : cat: rat: pet
+5: Other Models
+6: Creature
+7: Rat and Cat
+https://www.dropbox.com/scl/fi/t03zxsrv9apuc5zuk0c9t/1015628.58f0bae4d9472.rar?rlkey=53ptlebpghktaj4jh8yq7yo7s&dl=1
+https://www.dropbox.com/scl/fi/p05pl00qromlk3gv4ftou/1015628.58f0bae4d9472.jpg?rlkey=b5b641kr4m2jz563a1pz6re46&dl=1

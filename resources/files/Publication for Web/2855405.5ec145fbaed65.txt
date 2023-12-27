@@ -1,0 +1,22 @@
+1: https://3dsky.org/search?query=2855405.5ec145fbaed65
+2: Buy accesses
+3: Platform: 3dsMax 2016 + obj
+Render: Vray+Corona
+Size: 81 MB
+Colors:
+Style: Classic
+Materials: Metal, Stone
+Formfactor:
+Published 17 May 2020
+kitchen model in classic and industrial style
+Export File: Obj
+3ds vray corona
+
+H: 2400 W: 600 L: 5000
+UNITS: CM
+tags: : : : kitchen: oven: miele
+5: Kitchen
+6: Kitchen
+7: classic kitchen
+https://www.dropbox.com/scl/fi/pwbf0n3i195qfscx6pm5b/2855405.5ec145fbaed65.zip?rlkey=e4aacm5hkghcj90yb7i2albbj&dl=1
+https://www.dropbox.com/scl/fi/vaiq2g472jy6me2qudfll/2855405.5ec145fbaed65.jpg?rlkey=jjcaa79ras298w7e2lficflzr&dl=1

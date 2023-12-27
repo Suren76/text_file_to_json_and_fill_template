@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=2928515.5f0324c9afefc
+2: Free download
+3: Platform: 3dsMax 2016 + obj
+Render: MentalRay
+Size: 57 MB
+Colors:
+Style: Modern
+Materials: Metal, Wood
+Formfactor:
+Published 6 July 2020
+Vinyl record player ELAC Miracord 90
+Official website of the manufacturer: https://www.elac.com/ 
+H: 170mm x W: 470mm x D: 360mm
+Polys: 122k
+Verts: 124k
+UV Mapped: Yes
+Units: Millimeters
+Max 2016 vray
+Obj
+Mtl
+Textures
+Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : elac: vinyl: record player: plate
+5: Technology
+6: Audio tech
+7: Elac Miracord 90
+https://www.dropbox.com/scl/fi/6aewmasqh50gu0en600w0/2928515.5f0324c9afefc.rar?rlkey=vwqvcukp5e3zgwnt25vraxkd1&dl=1
+https://www.dropbox.com/scl/fi/88oyke2p3spvkbqjs8vfr/2928515.5f0324c9afefc.jpg?rlkey=8gwhdjmruemc1dfjp679z9cas&dl=1

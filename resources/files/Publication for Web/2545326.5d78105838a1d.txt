@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=2545326.5d78105838a1d
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 24 MB
+Colors:
+Style: Modern
+Materials: Wood, Fabric
+Formfactor:
+Published 11 September 2019
+Name: Cor_barstool_Jalis_variant_3
+Version: 2013
+Preview: Yes
+Units: Millimeters
+Dimension: 1054.01 x 461.36 x 819.65
+Polys: 56,948
+XForm: Yes
+Box Trick: Yes
+Model Parts: 10
+Render: corona
+Formats: 3Ds Max 2013, OBJ
+link
+  Show more
+tags: : : : : : barstool: cor: jalis: metall: cloth
+5: Furniture
+6: Chair
+7: Cor barstool Jalis variant 3
+https://www.dropbox.com/scl/fi/3ewqkv2y2o9lj1nxdsoo5/2545326.5d78105838a1d.rar?rlkey=olccpow54ojvcm8g4yyi4ffy0&dl=1
+https://www.dropbox.com/scl/fi/q8802j6ttlt86ondgtx9r/2545326.5d78105838a1d.jpg?rlkey=lzkf04w7h1aom6yvpkdys8rhh&dl=1

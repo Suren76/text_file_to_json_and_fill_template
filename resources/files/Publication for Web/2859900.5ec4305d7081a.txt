@@ -1,0 +1,18 @@
+1: https://3dsky.org/search?query=2859900.5ec4305d7081a
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Corona
+Size: 9 MB
+Colors:
+Style: Classic
+Materials: Metal
+Formfactor:
+Published 19 May 2020
+Glass mosaic material in gold.
+To obtain a colored golden mosaic, you can disable the glass layer in the material.
+tags: : : mosaic: gold
+5: Textures
+6: Tile
+7: Gold mosaic material on glass
+https://www.dropbox.com/scl/fi/4smegazoraiv60ockgu31/2859900.5ec4305d7081a.rar?rlkey=zmkffqvf28gu2nx5088o6oknu&dl=1
+https://www.dropbox.com/scl/fi/7pm0wmtpd827vflhvp683/2859900.5ec4305d7081a.jpg?rlkey=n2764bixzec42s61xb6e382qi&dl=1

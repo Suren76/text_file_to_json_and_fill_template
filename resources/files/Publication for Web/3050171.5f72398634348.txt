@@ -1,0 +1,19 @@
+1: https://3dsky.org/search?query=3050171.5f72398634348
+2: Free download
+3: Platform: 3dsMax 2014 + fbx
+Render: Corona
+Size: 9 MB
+Colors:
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 28 September 2020
+polys: 2405
+verts: 2494
+UVW: 2048x2048
+tags: : : : : grenade: rgd: weapon: a game
+5: Other Models
+6: Miscellaneous 3
+7: RGD-5
+https://www.dropbox.com/scl/fi/tw50fwrsx8r4fyrotdqnl/3050171.5f72398634348.rar?rlkey=223pyl023ygu4jut7giwrjo4n&dl=1
+https://www.dropbox.com/scl/fi/fswu5i1i8z4oazoq89td2/3050171.5f72398634348.jpg?rlkey=aqm5uy5mz3tgyjfapmytioiq5&dl=1

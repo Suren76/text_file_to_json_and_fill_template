@@ -68,7 +68,7 @@ if args.image_name:
 if args.directory:
     path = args.directory
 if args.output_file:
-    path_to_save_file = args.output_file
+    to_save_file = args.output_file
 if args.output_directory:
     path_to_output_directory = args.output_directory
 if args.mode:
@@ -78,15 +78,17 @@ command = [
     "docker run ",
     " -it --rm ",
     f" --name TFTJ_run"
-    f" -v $(pwd){str(mount_path)}:{str(mount_path_in_image)}",
+    f" -v {str(mount_path)}:{str(mount_path_in_image)}",
     " -p 5000:5000",
     f" {docker_image_name}",
     # script params
     f" -m={mode}",
     f" -d={path}",
-    f" -O={path_to_output_directory}"
+    f" -O={mount_path_in_image}/{path_to_output_directory}"
     f" -o={to_save_file}"
 ]
+
+print("".join(command))
 
 # print(
 #     "".join(["docker run ",

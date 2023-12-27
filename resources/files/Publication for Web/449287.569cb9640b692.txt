@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=449287.569cb9640b692
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 33 MB
+Colors:
+Style: Ethnic
+Materials: Stone, Organics
+Published 18 January 2016
+Bonsai tree height from about human growth. When scaling, change the VrayDispMod on the grass. The archive of 2011 and 2014 MAX + 2009 FBX + MAT. Polygons: 365 362 pieces.
+tags: : : bonsai: tree
+5: Plants
+6: Indoor
+7: Bonsai
+https://www.dropbox.com/scl/fi/q8nkd5b5wk15ffgazsp4k/449287.569cb9640b692.rar?rlkey=19engnhnx2gcvu03zyt9k7aku&dl=1
+https://www.dropbox.com/scl/fi/zw7gswy9hff7ow1t9omoa/449287.569cb9640b692.jpg?rlkey=27fzozxcmhgh9p85o18oirt4x&dl=1

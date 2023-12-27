@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=550969.573e0a127dfa6
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Corona
+Size: 53 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Formfactor:
+Published 19 May 2016
+- Unwrap UVW - Poly Count: 367.003 - Vertices 303.805 - Created In 3DMax 2015, saved in 3DMax 2012 - The archive contains: max, obj, texture
+tags: : : : : armchair: moooi: smoke: maarten baas
+5: Furniture
+6: Arm chair
+7: MOOOI Smoke Chair
+https://www.dropbox.com/scl/fi/9ad51yfqfkiqdryxofhut/550969.573e0a127dfa6.rar?rlkey=t01j4wluhigvdtpqtooi1s9cm&dl=1
+https://www.dropbox.com/scl/fi/sb5dvimrqw30pxhteelj2/550969.573e0a127dfa6.jpg?rlkey=8pvp8uitwf2w5escgsjatjis7&dl=1

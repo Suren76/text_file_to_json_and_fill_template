@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=995980.58e5550e9ba4f
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 72 MB
+Colors:
+Style: Modern
+Materials: Metal, Wood
+Published 5 April 2017
+A set of 3 modern designer ventilator fans. The models are made to resemble real objects. Models are very detailed, most parts are unwrapped, meshes are prepared for additional turbosmooth if needed, stacks left uncollapsed to simplify editing. Fans models include CEA Design Two 02, Minka F853 and MODN-3 FAN in nickel finish. HQ custom textures attached and a complex carbon fiber shader.
+tags: : : : : fan: air conditioner: cea: minka
+5: Technology
+6: Household appliance
+7: 3 Designer Ventilator Fans
+https://www.dropbox.com/scl/fi/zshafjxqik04e6rl9i3wk/995980.58e5550e9ba4f.rar?rlkey=2n7c5757fbag5wnbadpp5vh87&dl=1
+https://www.dropbox.com/scl/fi/47f1zw7je80b1o3kxp8gf/995980.58e5550e9ba4f.jpg?rlkey=mqyvsansv956xk02hlxcxju6k&dl=1

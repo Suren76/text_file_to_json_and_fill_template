@@ -1,0 +1,19 @@
+1: https://3dsky.org/search?query=3229056.6007fab9103d5
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Vray+Corona
+Size: 9 MB
+Colors:
+Style: Modern
+Materials: Metal, Glass
+Formfactor:
+Published 29 March 2015
+Manufacturer: Tresse
+Model: Flat
+V-ray and Corona materials
+tags: : : : : : : : : : : : shower: cabin: flat: tresse: mixer: glass: metal: plastic: sink: water: drops
+5: Bathroom
+6: Shower
+7: Tresse Flat Shower Cabin
+https://www.dropbox.com/scl/fi/5kqn0rdw11otn2l4adw1r/3229056.6007fab9103d5.rar?rlkey=jlhhbsy4ceszpsg41gxi4ilit&dl=1
+https://www.dropbox.com/scl/fi/pmj1yyxs9fj2anaokug26/3229056.6007fab9103d5.jpg?rlkey=3jmul5hr0jxk9avk90t6uj3lt&dl=1

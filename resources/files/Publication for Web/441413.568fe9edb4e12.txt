@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=441413.568fe9edb4e12
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 13 MB
+Colors:
+Style: Classic
+Materials: Metal, Plastic
+Formfactor:
+Published 8 January 2016
+Detailed Masiero VE1075 A2 wall lamp. Vray materials and light. OBJ included Dimensions: H: 33 cm / 12.99 "L: 28 cm / 11.02" SP: 12.5 cm / 4.92 "Bulbs: 2 x E14 x 40W max
+tags: : masiero
+5: Lighting
+6: Wall light
+7: Masiero VE1075 A2
+https://www.dropbox.com/scl/fi/0ch9zbnm14ou0avqyqtr2/441413.568fe9edb4e12.zip?rlkey=wv966sxv7p6suxdhn592hlmqt&dl=1
+https://www.dropbox.com/scl/fi/c43x983zvpmgm08mzug8b/441413.568fe9edb4e12.jpg?rlkey=tasnt4bwksvcvvlfskked72ro&dl=1

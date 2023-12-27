@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=796000.586a8e20c3984
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Corona
+Size: 8 MB
+Colors:
+Style: Modern
+Materials: Fabric, Stone
+Formfactor:
+Published 2 January 2017
+Table Lamp Amber by Ginger & Jagger Corona Render + VRAY Ø: 40 cm | 15.7 "H: 70 cm | 27.6 "Finish: marble, brass, silk. ------------------------------ Polygons: 19216 (TurboSmooth), 3059 (without smoothing) Stack is not minimized: the ability to enable and disable light bulb switching levels Editable Poly, adjust TurboSmooth. The archive: texture, FBX, OBJ, CoronaMax2013 / 2016, VrayMax2013 / 2016.
+tags: : : ginger and jagger: amber
+5: Lighting
+6: Table lamp
+7: Amber - Ginger and Jagger
+https://www.dropbox.com/scl/fi/tc7bz5ryjn1u938srqsf0/796000.586a8e20c3984.zip?rlkey=y6xxc2n77h9kw1j274qa5mc7m&dl=1
+https://www.dropbox.com/scl/fi/9fpjc63x25oc9ncr8s908/796000.586a8e20c3984.jpg?rlkey=bacbf16bc33j33kzqq4atox54&dl=1

@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=842118.5886a32f1bde8
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 14 MB
+Colors:
+Style: Modern
+Materials: Wood, Leather
+Formfactor:
+Published 24 January 2017
+* Table http://www.crateandbarrel.com/metra-extension-  dining-table / s220167 Width: 193 sm (Width: 244 sm) Depth: 93 sm Height: 76 sm * chair http://www.crateandbarrel.com  / lowe-pewter-leather-dining-chair / s355985 Width: 46 sm Depth: 58 sm Height: 88 sm * max 2012_2015 * obj * texures * materials * preview * Unwrap UVW
+tags: : : : chair: table: crate & barrel
+5: Furniture
+6: Table + Chair 1
+7: crate&barrel
+https://www.dropbox.com/scl/fi/h1xksvuszmgmenvuvx54i/842118.5886a32f1bde8.rar?rlkey=1n90cw42535a05ndgunnnzpsx&dl=1
+https://www.dropbox.com/scl/fi/j4i5g7dd03ulpxx831bhq/842118.5886a32f1bde8.jpg?rlkey=5zikwqwrpnnv5oj2p9m5nqowm&dl=1

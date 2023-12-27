@@ -1,0 +1,18 @@
+1: https://3dsky.org/search?query=903074.58ad3431994bb
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 85 MB
+Colors:
+Style: Modern
+Materials: Wood
+Formfactor:
+Published 22 February 2017
+Link to high-resolution renderings: https://yadi.sk/d/g-Oc86X63EN49T  Poliform Varenna Alea kitchen with equipment and filling, made for corona render 1.5 and vray 3.2. The equipment includes: washing, mixers and hob Foster; ovens and cooktops Miele, and the scene contains chairs Poliform Ventura and the entire decor. In the scene 554K polygons. 36 mb The archive of high-resolution textures. vray materials are configured properly. In version vray, BRDF materials installed in Microfacet GTR / GGX, owners vray 2.4 must be installed in the Blinn BRDF. For Corona render, it is recommended to put the version not lower than 1.5, because the glossiness of materials customized based PBR. KITCHEN is composed of modules, easy to edit the size of your room! Other kitchen Varenna can be found in my profile. Beautiful renderings you!
+Show more
+tags: : : : : : : poliform: varenna: alea: ventura: miele: foster
+5: Kitchen
+6: Kitchen
+7: Kitchen Poliform Varenna Alea 4 (vray GGX, corona PBR)
+https://www.dropbox.com/scl/fi/odszettna3ed72345d874/903074.58ad3431994bb.rar?rlkey=thk4b8koz903478mi0a4guwxw&dl=1
+https://www.dropbox.com/scl/fi/4z48oy1bosfwk8ykyrlw0/903074.58ad3431994bb.jpg?rlkey=qafvf36hmghojys117thqyobr&dl=1

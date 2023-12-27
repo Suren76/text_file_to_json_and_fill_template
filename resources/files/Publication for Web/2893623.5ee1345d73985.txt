@@ -1,0 +1,46 @@
+1: https://3dsky.org/search?query=2893623.5ee1345d73985
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 88 MB
+Colors:
+Style: Modern
+Materials: Wood, Leather
+Formfactor:
+Published 10 June 2020
+3D models:
+Wood Metal Line Beds
+Bedside table Wood Metal Nightstand
+
+Factory: Cilek
+
+Models are made according to the actual size of the manufacturer
+
+-------------------------------------------------- -------------
+Archive includes:
+- .max2014 file
+- .OBJ file
+- textures
+- library of materials for .OBJ file
+
+-------------------------------------------------- ----------
+Wood metal line bed
+Polygons: 613 010
+Vertices: 310,888
+
+Wood metal nightstand
+Polygons: 246,708
+Vertices: 122 648
+
+-------------------------------------------------- ----------
+ATTENTION
+V-Ray Next - BRDF Microfacet GTR (GGX). If your version is lower than 3.1, manually set BRDF Blinn, Phong or Ward (at your discretion).
+
+Units - Real World Size (System Units - mm)
+Show more
+tags: : : : : : : : : cilek: wood: metal: line: bed: teenager: children’s: leather
+5: Childroom
+6: Bed 1
+7: Cilek wood metal line bed
+https://www.dropbox.com/scl/fi/rfhl2oqqqkidipmor0e6m/2893623.5ee1345d73985.rar?rlkey=cf4gb0ki8lerbll9xo3veyeyf&dl=1
+https://www.dropbox.com/scl/fi/qcmzmzu9zb1u4ayt9mk3v/2893623.5ee1345d73985.jpg?rlkey=qb9f1csbf5cqd79y4e3q8zhfp&dl=1

@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=643706.57e8f5f13b929
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 36 MB
+Colors:
+Style: Ethnic
+Materials: Metal, Glass
+Published 26 September 2016
+Beer Tower + glass of beer Guinness + stand. Render Corona & Vray 1. Open 3ds max -> import * .obj 2. Open material library (Corona / Vray) 3. File -> assign the material for the entire model Good renderings
+tags: : : : : : : beer tower: guinness: beer: tower: stand: wineglass
+5: Other Models
+6: Restaurant
+7: Big Beer Tower
+https://www.dropbox.com/scl/fi/x0dc6i2u7nybykvl485t6/643706.57e8f5f13b929.rar?rlkey=lgzpb4dxhmrbvqyiu228ni9rj&dl=1
+https://www.dropbox.com/scl/fi/scfudx555k786mtbv6cot/643706.57e8f5f13b929.jpg?rlkey=s4xirvivgsypzvma7a0w1m3i0&dl=1

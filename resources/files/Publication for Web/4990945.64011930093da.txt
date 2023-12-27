@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=4990945.64011930093da
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray
+Size: 33 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 14 July 2017
+2560600F Fabric FG09001-5
+2560610F Fabric LS418-1
+2560800F Fabric 603-10A
+2560910F Fabric YS31C-27
+2561000L Leather 859
+2561500L Leather 9715
+230 Carpenter
+Bed bench
+1430x518x645
+
+Polys: 23 664
+Verts: 24 193
+3ds Max 2013 V-Ray 3.3
+
+Carpenter_230_white
+Show more
+tags: : : : : : : : : : : carpenter: classic: wood: white: ivory: wooden: veneer: bed-bench: bedbench: bench
+5: Furniture
+6: Other soft seating
+7: 230_Carpenter_Bed_bench_1430x518x645
+https://www.dropbox.com/scl/fi/e0wnbp70gogiu5pqlvvnt/4990945.64011930093da.rar?rlkey=lt90hhtvim0gsvmdw9rjpsv5a&dl=1
+https://www.dropbox.com/scl/fi/j3zb7cx1daveceymh2vfh/4990945.64011930093da.jpg?rlkey=i1te8rga18b8rl3cfz1bddll8&dl=1

@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=2632379.5de9a9f7be474
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray+Corona
+Size: 23 MB
+Style: Modern
+Published 6 December 2019
+Bathroom accessories set 72 black (Jofel, Brabantia, Satino Black, BXG, Katrin, Viega)
+
+In the archive:
+- Trash can Satino Black
+- Trash can with pedal and cap Pedal Bin Bo Brabantia Black
+- Brabantia Black toilet paper holder
+- Toilet brush with Brabantia Black holder
+- Flush buttons for installing Viega Black
+- Hand dryer Jofel Black
+- Jofel Black Liquid Soap Dispenser
+- BXG Black toilet paper dispenser
+- Dispenser Katrin Black
+- A set of plates on the door Black
+
+The model is made for corona render 1.5 and vray 3.6.
+In vray version, BRDF materials are installed in Microfacet GTR / GGX, vray 2.4 owners need to install BRDF in Blinn.
+
+Excellent renderings to you!
+Show more
+tags: : : : : : : : : : : : : : : : : : : : : : decor: bxg: brabantia: jofel: katrin: viega: image: design: dispenser: roll: soap: soap dish: public: sous: towel: paper: a bathroom: on the wall: bucket: toilet paper: restroom
+5: Bathroom
+6: Bathroom accessories
+7: Bathroom accessories set 72 black (Jofel, Brabantia, Satino Black, BXG, Katrin, Viega)
+https://www.dropbox.com/scl/fi/78pake0i9e093ap90nx21/2632379.5de9a9f7be474.rar?rlkey=wtj54w5qknts071y4de1f650s&dl=1
+https://www.dropbox.com/scl/fi/yk1o7k515nxh7l3wwhut7/2632379.5de9a9f7be474.jpg?rlkey=v1ubecocgg51m4e5bp4dga696&dl=1

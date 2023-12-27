@@ -1,0 +1,46 @@
+1: https://3dsky.org/search?query=2642220.5df535c04f054
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray+Corona
+Size: 48 MB
+Style: Modern
+Published 14 December 2019
+modern style kitchen
+with technology
+
+KITCHEN IS EASILY EDITED TO ITS DIMENSIONS
+
+Dimensions: W 3300/1830 x H 2700 x D 600mm
+
+coffee machine
+Fulgor Milano FCM 4509 TC BK
+http://www.fulgor-milano.com/en/fcm-4509-tc-bk/ 
+
+oven
+Fulgor Milano FCO 4512 TM BK
+ 
+
+mixer
+AQUASanita Chrome 2663-001
+ 
+
+car wash
+Fulgor Milano P2B 5343 QU
+ 
+
+hob
+Fulgor Milano FCH 905 ID TS G DWK BK
+ 
+
+microwave
+Fulgor Milano FCMO 4507 TM BK
+ 
+
+who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is more preferable for you
+Show more
+tags: : : : : : : : : : : kitchen: technics: plate: oven: facade: loft: fulgor milano: kitchen furniture: wood: coffee machine
+5: Kitchen
+6: Kitchen
+7: Kitchen modern 13
+https://www.dropbox.com/scl/fi/e4cae93xwoweqlhwm2t7t/2642220.5df535c04f054.rar?rlkey=vsyl5fdy016q9t634derti50d&dl=1
+https://www.dropbox.com/scl/fi/55j1zh20mspxa45suztt2/2642220.5df535c04f054.jpg?rlkey=k769tne5fqlke7iuq9e93jknn&dl=1

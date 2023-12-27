@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=285141.5581993b4689a
+2: Buy accesses
+3: Platform: 3dsMax 2009 and below
+Render: Vray
+Size: 11 MB
+Colors:
+Style: Classic
+Materials: Metal, Stone
+Formfactor:
+Published 17 June 2015
+Name: console jumbo collection alchymia
+Units: mm
+UV Mapped:mix
+Version: 2009
+Render: V-Ray
+Formats: 3ds Max,OBJ
+Thx!
+tags: : : : : : : : rococo: baroque: jumbo collection: deluxe: console: jumbo: alchymia
+5: Furniture
+6: Console
+7: Jumbo Console
+https://www.dropbox.com/scl/fi/dpnxprs0k57pcdhseq1eq/285141.5581993b4689a.rar?rlkey=55kpf3gq75zw8orc4hn28jznr&dl=1
+https://www.dropbox.com/scl/fi/i94oofndon1g22zp85i2b/285141.5581993b4689a.jpg?rlkey=ekrqf4qu4ob1z5xi3ju819aqd&dl=1

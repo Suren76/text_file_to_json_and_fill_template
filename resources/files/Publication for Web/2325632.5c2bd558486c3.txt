@@ -1,0 +1,26 @@
+1: https://3dsky.org/search?query=2325632.5c2bd558486c3
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 65 MB
+Colors:
+Style: Ethnic
+Materials: Wood, Fabric
+Formfactor:
+Published 2 January 2019
+Desert Modern Canopy canopy bed. The size is width 2100, length 2310, height 2440 mm.
+Table lamp Beckford Table Lamp. Height 650, diameter 380 mm.
+Table - Jamaica Side Table. Diameter 840, height 720 mm.
+
+Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is a Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable to you.
+For close-ups on the fabric, you can apply the modifier TurboSmooth. The ropes are made using VrayDisplacementMod. FBX file without smoothing.
+
+ 
+ 
+  Show more
+tags: : : : : : bed with columns: ralph lauren: desert modern: flip flops: canopy
+5: Furniture
+6: Bed
+7: Desert Modern Canopy Bed Ralph Lauren (vray GGX)
+https://www.dropbox.com/scl/fi/uyiy8zohl34k1e6ujkxnk/2325632.5c2bd558486c3.rar?rlkey=wea96vez0ss15ng7b3yxidp33&dl=1
+https://www.dropbox.com/scl/fi/xep8tmvylo4omuitqmj2w/2325632.5c2bd558486c3.jpg?rlkey=qb8k7lgxkugn35vud8xx3hd0n&dl=1

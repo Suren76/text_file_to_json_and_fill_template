@@ -1,0 +1,20 @@
+1: https://3dsky.org/search?query=5449336.64abbc66c4c45
+2: Buy accesses
+3: Platform: 3dsMax 2016 + fbx
+Render: Vray
+Size: 63 MB
+Colors:
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 14 January 2021
+Koenigsegg Jesko is a car released in 2019 by the Swedish company Koenigsegg. The main elements are prepared for smoothing TurboSmooth (2 Iteration). The elements of the body, wheels, interior have been worked out conditionally.
+
+Polygons - 211,015
+Vertices - 198,011
+tags: : : : : : : : : : : car: sports: hypercar: koenigsegg: jesko: chassis: wheels: disks: racing: bolide
+5: Other Models
+6: Transport
+7: Koenigsegg Jesko 2019
+https://www.dropbox.com/scl/fi/zrnpjyzklehskca28hppy/5449336.64abbc66c4c45.rar?rlkey=ep8ph42gun71l0whctkys3fmc&dl=1
+https://www.dropbox.com/scl/fi/85htwmuajioyb5jxz04m9/5449336.64abbc66c4c45.jpg?rlkey=3dxv6yk8b37daz49idgd25cc5&dl=1

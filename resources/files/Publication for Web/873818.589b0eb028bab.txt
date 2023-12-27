@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=873818.589b0eb028bab
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray
+Size: 8 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 8 February 2017
+Units used: cm // Model is scaled to real world. Layer name: Bla Station Wilmer Model created with 3ds Max 2014 Native Max file (3ds Max 2011) setup with V-Ray renderer and V-Ray materials All preview images are rendered with V-Ray Materials are named logically. Objects in the files are named logically. Model centered at origin. Unique and meaningful names for objects, materials, textures.
+tags: : : : : : : : : : : : bla station: wilmer: chair: armchair: seating: office: ristorante: hotel: banquet: meeting: conference
+5: Furniture
+6: Arm chair
+7: Bla Station Wilmer Armchair Set
+https://www.dropbox.com/scl/fi/2zougjfkzf625isqg52mq/873818.589b0eb028bab.rar?rlkey=s9xfsrxr2jz8b7jl9ly0zo0xd&dl=1
+https://www.dropbox.com/scl/fi/2kjgvkj8stg4are3gcclf/873818.589b0eb028bab.jpg?rlkey=505gyv0yy0ce3e7hgqd8r6fjw&dl=1

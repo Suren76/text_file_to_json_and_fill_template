@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=1916435.5afc413f735cb
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Corona
+Size: 58 MB
+Colors:
+Style: Modern
+Materials: Wood, Plastic
+Formfactor:
+Published 16 May 2018
+The combination of racks Ikea Ivar:
+a pair of wide racks (W 89cm x D 30cm x H 226cm)
+narrow rack (W 48cm x D 30cm x H 226cm)
+high metal cabinet (W 40cm x D 30cm x H 160cm)
+drawers and hooks for shelf
+http://www.ikea.com/en/category/catalog/categories/departments/living_room/11703/ 
+
+If you decide to rearrange the shelves in height, then take into account the pitch of the holes - 32mm, and also do not forget, besides the shelf itself, to move the plastic plugs on the sides
+
+Polys: 303,733
+Verts: 313,448
+
+In the archive, the 3ds max 2014 scene and the obj file. Materials for Corona.
+On the iron, towel, bags and paper Turbosmooth (Render Iterations).
+
+Other combinations Ivar:
+ 
+  Show more
+tags: : : : : : : : : : : : : : : : : : : : : : : : stelae: cupboard: pantry: laundry: stock: storage: pin: bottle: bank: spray: washing powder: soap: towel: garbage: tank: bucket: box: ikea: ivar: sorter: synerligue: sortera: sinnerlig
+5: Bathroom
+6: Bathroom accessories
+7: Ivar Monotone Pantry
+https://www.dropbox.com/scl/fi/xh09itolrtzasxt25agl6/1916435.5afc413f735cb.zip?rlkey=od5es65md7tx0jnewvlvvgjoh&dl=1
+https://www.dropbox.com/scl/fi/zdq31590x3bju7z382eft/1916435.5afc413f735cb.jpg?rlkey=kl0kzmfahqixfh8oua1p7173o&dl=1

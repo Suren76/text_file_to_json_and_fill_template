@@ -1,0 +1,22 @@
+1: https://3dsky.org/search?query=2506415.5d41e34de730c
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 30 MB
+Colors:
+Style: Modern
+Materials: Metal, Stone
+Formfactor:
+Published 31 July 2019
+Faces - 195,000
+Vertices - 125,000
+
+Texture - 4096x4096 (Unwrap UVW, DiffuzeMap, NormalMap)
+
+3d max 2014, 2011, Obg, Fbx
+tags: : : : : : : : : : gabion: flowerbed wall: a rock: road: fortification: pebbles: gravel: grid: fence
+5: Architecture
+6: Fence
+7: Gabion cage / Gabion cage
+https://www.dropbox.com/scl/fi/7bj5fgf54j5bhk6x1eyza/2506415.5d41e34de730c.rar?rlkey=ckx06qc3m4nwvjwfenqhsc6xt&dl=1
+https://www.dropbox.com/scl/fi/1nmchee85q9lncau3ib1n/2506415.5d41e34de730c.jpg?rlkey=til1knh8hyb45esrbguhmjrd3&dl=1

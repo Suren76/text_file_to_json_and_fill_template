@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=2715347.5e4b25f0b9ba6
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray+Corona
+Size: 7 MB
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 18 February 2020
+--- Model ---
+Model have no hidden / frozen elements, no groups / linked objects
+There is no lights, cameras, helpers, layers, particle view
+All elements have 100/100/100 scale and right normals
+No modifiers in stack except of turbosmooth
+Elements properly named
+
+--- Materials and maps ---
+There is no maps in environment / background / unwrap modifier
+Material editor resetted, all paths striped
+No missing textures
+No multimaterial used (For correct FBX export)
+Materials and textures properly named
+
+--- General ---
+No 3rd-party plugin used
+No ALC and CRP viruses
+Track View Controllers deleted
+Show more
+tags: : : : : : : : : : washing: machine: samsung: flex: wash: dry: washer: dryer: laundry
+5: Technology
+6: Household appliance
+7: Samsung FlexWash Washer FlexDry Dryer Laundry
+https://www.dropbox.com/scl/fi/84kunwx4zxivg23d59kie/2715347.5e4b25f0b9ba6.rar?rlkey=p8x867l3uicppba1npuksux0o&dl=1
+https://www.dropbox.com/scl/fi/zs3ezd5gjzlwv1zu2xy5v/2715347.5e4b25f0b9ba6.jpg?rlkey=tsj5zx5rxbb2cqmo5mfkaqspz&dl=1

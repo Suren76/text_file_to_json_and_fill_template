@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=5341187.648219371ef00
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 101 MB
+Colors:
+Style: Ethnic
+Materials: Stone
+Formfactor:
+Published 8 June 2023
+Fish scale tiles that come in a variation of smooth tiles and radial-line tiles or just smooth tiles. Both variations come in two color patterns: Blue + Green, and Terracotta + beige. The Vray materials are set up with seamless Displacement maps + bump map for closeup views OR Normal maps + bump map for more distant views.
+
+Maps: Diffuse map(JPG), Displacement map (16Bit PNG), Normal map(PNG), Bump map(PNG)
+Map dimensions: 4K (4096p x 4096p)
+Tile Dimensions: 125mm x 125mm (800mm x 880mm UVW map size)
+Formats: max2014, max2017, OBJ
+Show more
+tags: : : : : : : : : : : : : : : : : fish: scale: material: glaze: enamel: seamless: ceramic: clay: terracotta: turquoise: radial: pattern: wall: tile: interior: decorative
+5: Materials
+6: Tile
+7: Radial Fish Scale Tiles
+https://www.dropbox.com/scl/fi/pqxlh6q5u8isdywi846cq/5341187.648219371ef00.rar?rlkey=6ej9a33g68kuvvf17fjhlb241&dl=1
+https://www.dropbox.com/scl/fi/w68yquy1usszpbffb5qji/5341187.648219371ef00.jpg?rlkey=gf8pso6wiw7v7ysutbknf833l&dl=1

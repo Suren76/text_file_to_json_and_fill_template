@@ -1,0 +1,24 @@
+1: https://3dsky.org/search?query=2010137.5b37ecbeb6984
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 87 MB
+Colors:
+Style: Modern
+Materials: Organics
+Formfactor:
+Published 30 June 2018
+3d model 5 variants of stacked firewood + initial logs for self-distribution.
+-------------------------
+- for all 1 multimaterial;
+- generated in PFlow;
+-------------------------
+In the archive:
+2016 and 2014 MAX (Corona + VRay) + OBJ + MTL
+198 thousand polygons
+tags: : : : : : : : : : firewood: tree: log: woodpile: pile: sliver: birch: pine: bark
+5: Architecture
+6: Other 1
+7: Firewood
+https://www.dropbox.com/scl/fi/k9ijcn9vn3cajj8kbyy8j/2010137.5b37ecbeb6984.rar?rlkey=sjw5nv3djgyy2etp0m1x5g575&dl=1
+https://www.dropbox.com/scl/fi/3fxwqgpktew9bnsuo25en/2010137.5b37ecbeb6984.jpg?rlkey=0hnk3k5fap8xha972fev4rolj&dl=1

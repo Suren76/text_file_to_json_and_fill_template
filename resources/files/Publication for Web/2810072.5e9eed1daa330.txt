@@ -1,0 +1,31 @@
+1: https://3dsky.org/search?query=2810072.5e9eed1daa330
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 86 MB
+Colors:
+Style: Ethnic
+Materials: Fabric, Rattan
+Formfactor:
+Published 21 April 2020
+Childhome Rattan Cradle with Linen Canopy by Childhome.
+
+This beautiful rattan cradle brings a modern touch to your home that will keep your little ones safe and comfortable. It is lightweight and includes a mattress, its is perfect for addition for your child's room.
+
+https://childhome.com/en/rattan-cradle-90x50x70-cm-mattress-78x43x5-cm-crrat 
+
+Dimensions: 900 mm × 500 mm × 700 mm.
+Canopy height 2350 mm
+
+There are no lighting sources in the scene. For the glow of the cloud, it is enough to put the light sources inside and adjust their intensity.
+
+You can apply TurboSmooth to all elements of the model.
+
+Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : : childhome: crib: bassinet: nordic: scandinavian
+5: Childroom
+6: Miscellaneous 1
+7: Childhome Rattan Cradle with Linen Canopy
+https://www.dropbox.com/scl/fi/jtb8snweblxog9l0v7psw/2810072.5e9eed1daa330.rar?rlkey=0bhuhmzb7mvfcb45dzsw9lnh5&dl=1
+https://www.dropbox.com/scl/fi/dg6pvd0v2dfo73ije8wxz/2810072.5e9eed1daa330.jpg?rlkey=wpvfhx0glhfkii7e9dauvx2oe&dl=1

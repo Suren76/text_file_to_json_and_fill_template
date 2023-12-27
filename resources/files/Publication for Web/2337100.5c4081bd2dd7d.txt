@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2337100.5c4081bd2dd7d
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 52 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 17 January 2019
+Number of Polygons: 428 877
+Bed manufacturer:
+https://www.novamobili.it/en/margot 
+Lamp:
+https://www.lampa.kiev.ua/katalog/57904.html 
+-------------------------------------------------- ----------------
+For those who work in a VRay version lower than 3.1, be careful, the materials in the BRDF section contain Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable to you.
+-------------------------------------------------- ----------------
+Pile (fur) is made using VrayFur
+-------------------------------------------------- ----------------
+Beautiful renders to you!
+Show more
+tags: : : : : : bed: pillow: plaid: cotton: novamobili
+5: Furniture
+6: Bed
+7: Margot Novamobili bed
+https://www.dropbox.com/scl/fi/4cekxmisp0f4skqlbdemc/2337100.5c4081bd2dd7d.rar?rlkey=bp8ghw0gr1j1w8mje5gn9cakh&dl=1
+https://www.dropbox.com/scl/fi/7mn72s916syilt7rbdbfj/2337100.5c4081bd2dd7d.jpg?rlkey=rrtm3lrqttdwj0cdr600qdyw5&dl=1

@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=1278842.59920beab7ff6
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Corona
+Size: 14 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Formfactor:
+Published 14 August 2017
+Name: Astley
+Version: 2011
+Units: Millimeters
+Polys: 101,488
+Model Parts: 1
+Render: Corona
+Formats: 3Ds Max 2011, FBX
+tags: : astley
+5: Furniture
+6: Sofa
+7: Astley_Lounge_Sofa
+https://www.dropbox.com/scl/fi/jag4gc6woumnhanfv0ji6/1278842.59920beab7ff6.rar?rlkey=imv3n77iytg3e7zmcewwvoxyc&dl=1
+https://www.dropbox.com/scl/fi/9pmqjjmm9l41emdm3b43s/1278842.59920beab7ff6.jpg?rlkey=3tnb3vgf2rp7b3oob2pq6o08n&dl=1

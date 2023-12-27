@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=516238.56fedd512933c
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 65 MB
+Colors:
+Style: Ethnic
+Materials: Metal, Fabric
+Formfactor:
+Published 1 April 2016
+Restoration Hardware - Oviedo. Bar chair with fabric seat from a known brand. The archive also version for 3ds max 2011 + OBJ + FBX. Model in zero coordinates. Parts models, materials and textures have corresponding names.
+tags: : : restoration hardware: bar
+5: Furniture
+6: Chair
+7: Restoration Hardware - Oviedo Upholstered Barstool
+https://www.dropbox.com/scl/fi/wks801rob6btyawxxy7g0/516238.56fedd512933c.rar?rlkey=lehzkf8vi1m5hiwblsmys3nef&dl=1
+https://www.dropbox.com/scl/fi/yd9hibecucqh7f5iac8ry/516238.56fedd512933c.jpg?rlkey=j6nte5107t5yabba9veiadnv9&dl=1

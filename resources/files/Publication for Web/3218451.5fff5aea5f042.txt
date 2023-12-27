@@ -1,0 +1,21 @@
+1: https://3dsky.org/search?query=3218451.5fff5aea5f042
+2: Buy accesses
+3: Platform: 3dsMax 2015 + fbx
+Render: Vray+Corona
+Size: 9 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 13 January 2021
+Set of decorative pillows
+For those who face the problem of not displaying the texture correctly, uncheck the Real-World Scale.
+Then set the following parameters on all cards.
+U offset 1.0 tiling 0.002
+V offset 1.0 tiling 0.002
+tags: : : : : : : : : : h & m: hm: set: pillows: scandi: scandinavian: decorative: set of pillows: decor
+5: Decoration
+6: Pillows
+7: Decorative_set_pillow_48
+https://www.dropbox.com/scl/fi/ult38c3d604bmwl8ttvme/3218451.5fff5aea5f042.rar?rlkey=t46g70jw8jxqp9qxvmd8ou1rm&dl=1
+https://www.dropbox.com/scl/fi/dwce27fmq0w7lcprl3x0m/3218451.5fff5aea5f042.jpg?rlkey=9jltczdnjcil4b2flakxsgiha&dl=1

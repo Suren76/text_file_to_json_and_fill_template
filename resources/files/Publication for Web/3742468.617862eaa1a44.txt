@@ -1,0 +1,31 @@
+1: https://3dsky.org/search?query=3742468.617862eaa1a44
+2: Buy accesses
+3: Platform: 3dsMax 2016 + obj
+Render: Vray+Corona
+Size: 99 MB
+Colors:
+Style: Modern
+Materials: Stone
+Formfactor:
+Published 26 October 2021
+Factory: La Faenza Ceramica
+Collection: AESTHETICA
+Name: AE CAL6, AE ORO6, AE PAO6, AE UNI6
+Formats:
+- 120x120 (10 texture each) 1600x1600px
+- 60x120 (20 texture each) 800x1600px
+- 2 types of surface matt and lapped
+-Material was created without plugins by VrayMultiSubTex / CoronaMultiMap (analogue of MultiTexture)
+-Textures are ready to use with MultiTexture.
+
+Who works in V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you
+For Corona render, it is recommended to install a version of at least 1.5, since the glossiness of the materials is adjusted taking into account PBR
+
+Archive corona, vray, obl, mtl
+Show more
+tags: : : : : : : : aesthetica: lafaenza: porcelain: stoneware: marble: marmi: tile
+5: Textures
+6: Tile
+7: LaFaenza AESTHETICA
+https://www.dropbox.com/scl/fi/aj5xg7wpcxheq1s8rcr29/3742468.617862eaa1a44.rar?rlkey=cqdqbdkbibnibc9m9x8ifylmu&dl=1
+https://www.dropbox.com/scl/fi/472ht5cloxx7pfrtwu7gx/3742468.617862eaa1a44.jpg?rlkey=aonoqlp9a8ieovgk6fp3eik4v&dl=1

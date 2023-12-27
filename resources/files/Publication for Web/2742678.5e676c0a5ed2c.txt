@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2742678.5e676c0a5ed2c
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray+Corona
+Size: 65 MB
+Colors:
+Style: Classic
+Materials: Metal, Stone
+Formfactor:
+Published 10 March 2020
+Marble fireplace Louis XIV with a set of accessories.
+Producer "Fireplaces PetersburgA" art.01.01.01.020
+render- Vray.
+In the archive:
+Louis XIV_max_2011_Corona.max
+Louis XIV_max_2011_Vray.max
+Louis XIV_2009_Corona.FBX
+Louis XIV_2009_Vray.FBX
+Louis_XIV_2011_Corona.mat
+Louis_XIV_2011_Vray.mat
+Textures
+Show more
+tags: : : : : : : : : : : : : : : screen for fireplace: fireplace screen: fireplace accessories: fireplace: louis xiv: firewood: firebox: classicism: baroque: accessories: marble: fire: screen: stucco
+5: Other Models
+6: Fireplace
+7: Fireplace_Louis_XIV
+https://www.dropbox.com/scl/fi/3h5xtctj5t1ibwmzt83ot/2742678.5e676c0a5ed2c.rar?rlkey=pfl42ow8tkypm200lo87jkcoe&dl=1
+https://www.dropbox.com/scl/fi/7ysssl3xfrqy26kfgfpyq/2742678.5e676c0a5ed2c.jpg?rlkey=k3yblaamegf57y69fsx9y5ehy&dl=1

@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=2772029.5e82fb335c562
+2: Buy accesses
+3: Platform: 3dsMax 2015 + fbx
+Render: Corona
+Size: 38 MB
+Colors:
+Style: Modern
+Materials: Fabric, Leather
+Formfactor:
+Published 31 March 2020
+Armchair Romatti Sveva 84x96x90cm
+https://romatti.ru/catalog/pkreslo-sveva-by-romatti.html 
+
+Polys: 158086
+Verts: 79067
+
+Material changes by changing ID
+tags: : : : : : : : armchair: chair: plaid: romatti: sveva: flexform: soft
+5: Furniture
+6: Arm chair
+7: Armchair Romatti Sveva
+https://www.dropbox.com/scl/fi/2n36rnblmv1guwun2l9zu/2772029.5e82fb335c562.rar?rlkey=4m9ctcmugw46zib62r48sv6m0&dl=1
+https://www.dropbox.com/scl/fi/erxd03jnpi8jy675oaf5a/2772029.5e82fb335c562.jpg?rlkey=9mzud78k2yrh11qzl7lm73rog&dl=1

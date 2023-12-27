@@ -1,0 +1,28 @@
+1: https://3dsky.org/search?query=2861054.5ec531cc4183f
+2: Buy accesses
+3: Platform: 3dsMax 2016 + obj
+Render: Corona
+Size: 40 MB
+Polygons: 515K
+Colors:
+Length: 432 sm
+Width: 260 sm
+Height: 323 sm
+Style: Classic
+Materials: Metal
+Formfactor:
+Published 20 May 2020
+Food truck based on the Citroën Type H van, which was mass-produced in 1947–81. Depending on the modification, H, HY, HX, HW, HZ, 1600 could also be called
+
+The model is divided into logical objects (food truck, advertising decor, kitchen equipment and utensils), all object names and materials are Latin. The model is made for smoothing, in the max scene, Turbosmooth is superimposed on objects of visibility mode on the render (The preview shows the grid before smoothing)
+
+Attention: there is a displacement in the scene (bottles with sauces), for long and medium plans it can be turned off.
+
+Enjoy your use!
+Show more
+tags: : : : : : : : : : : : : food: truck: citroen: holder: cups: disposable: tableware: ketchup: mustard: mayonnaise: cuff: van
+5: Other Models
+6: Transport
+7: Food truck Citroën Type H
+https://www.dropbox.com/scl/fi/1zq4py5dufwdcqvsvb66z/2861054.5ec531cc4183f.rar?rlkey=qtbjbm9hqzemtlo4vl0fjh3u9&dl=1
+https://www.dropbox.com/scl/fi/hem6i300y97wwzo6sitog/2861054.5ec531cc4183f.jpg?rlkey=7jj3jx951hmevmtcblc4ohfn5&dl=1

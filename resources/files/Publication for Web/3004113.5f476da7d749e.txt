@@ -1,0 +1,50 @@
+1: https://3dsky.org/search?query=3004113.5f476da7d749e
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 25 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Published 27 August 2020
+Professional, highly detailed 3d model for architectural visualizations.
+
+Features:
+
+High quality model. Detailed enough for close-up renders Uv mapped as shown in preview Ideal for photorealistic visualizations
+
+High quality polygonal model, correctly scaled for an accurate representation of the original object.
+
+Model is fully textured with all materials applied.
+
+All textures and materials are included and mapped in every format.
+
+3ds Max models are grouped for easy selection, and objects are logically named for ease of scene management.
+
+No cleaning up necessary just drop your models into the scene and start rendering.
+
+Model does not include any backgrounds or scenes used in preview images.
+
+Units: cm
+
+Size:
+300x200 cm
+
+No viruses
+
+Formats in the archive:
+MAX2014
+OBJ
+FBX
+
+Model created with 3ds Max 2014
+Native Max file setup with V-Ray renderer and V-Ray materials
+Preview rendering made with V-Ray
+The lighting scene is not included with the model
+Show more
+tags: : : curtain: the cloth
+5: Decoration
+6: Curtain
+7: Curtain 458
+https://www.dropbox.com/scl/fi/ijfytpn0wty53dcbszil3/3004113.5f476da7d749e.rar?rlkey=0el1ickwg06jbbwuzb0etsrn6&dl=1
+https://www.dropbox.com/scl/fi/lbrkkajs0y2xevurtk35e/3004113.5f476da7d749e.jpg?rlkey=hnapsoiyysjr7dkdg7xjmozbs&dl=1

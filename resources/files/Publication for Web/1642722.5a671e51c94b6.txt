@@ -1,0 +1,52 @@
+1: https://3dsky.org/search?query=1642722.5a671e51c94b6
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 94 MB
+Colors:
+Style: Modern
+Materials: Wood, Rattan
+Published 23 January 2018
+Realistic 3d model bathroom 5
+______________________________
+
+GENERAL:
+- created with 3ds Max 2014
+- Model prepared for V-Ray 3.40
+- Includes high-resolution textures
+- Includes Format OBJ (not smoothed)
+- All objects, textures and materials have their own names
+- Model is built to real-world scale
+- Units used: mm
+- Scene objects are organized by groups
+- No third-party renderer or plug-ins
+- Do not have missing DLL
+- Do not have default names
+- Geometry layer - Bathroom_5
+______________________________
+
+GEOMETRY:
+
+- Polys: 1 134 454
+- Verts: 1 138 770
+
+______________________________
+
+FORMATS:
+- MAX (211 mb)
+- OBJ (69.7 mb)
+______________________________
+
+If you use V-Ray 3.0 and less, be careful,
+in materials in the chapter BRDF stands Microfaset GTR (GGX),
+If you yse V-Ray 3.1 and more, the field will be empty.
+Select Blinn, Phong or Ward - what you are prefer.
+
+Check out our other models
+Show more
+tags: : : : : : : : : : : : : : : : : : : : : : hurricane: volcanic: plant: decorative staircase: bath: parquet: plaster: accessories: decor: bank: soap: basket: rolled towel: towel: carpet: laundry basket: bathrobe: candles: sheet: vase: liquid soap
+5: Bathroom
+6: Bathroom accessories
+7: Bathroom 5
+https://www.dropbox.com/scl/fi/3fmkxowgrsq33vj4adzee/1642722.5a671e51c94b6.rar?rlkey=qf87v5osm2cnjcqskqhopcfwu&dl=1
+https://www.dropbox.com/scl/fi/tezaxy1jn6vjxlauxgi1o/1642722.5a671e51c94b6.jpg?rlkey=bhib5doskx1bqdozy1hagt45j&dl=1

@@ -1,0 +1,24 @@
+1: https://3dsky.org/search?query=2438202.5cd53a81ed89e
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray
+Size: 104 MB
+Colors:
+Style: Ethnic
+Materials: Wood, Fabric
+Formfactor:
+Published 10 May 2019
+Vaughn Bed Model by Restoration Hardware
+The model includes:
+Vaughn Storage Bed: 61 "W x 83" L x 48 "H (inch)
+Polyhedron Side Table: 19 "W x 19" D x 19 "H
+Linens
+======================================
+For those who work in the VRay version lower than 3.1, be careful, the materials in the BRDF section contain Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable to you.
+Show more
+tags: : : : : : : : : restoration hardware: rh: bed: plaid: polyhedron: pentagonal: nightstand: table
+5: Childroom
+6: Bed 1
+7: Vaughn Storage Bed
+https://www.dropbox.com/scl/fi/2leh5je7fwpn44m3q3j66/2438202.5cd53a81ed89e.rar?rlkey=crjyg650ltauzrjq39jt01g2o&dl=1
+https://www.dropbox.com/scl/fi/wekw1628fpw9xm5twdf3y/2438202.5cd53a81ed89e.jpg?rlkey=50nlmh4rnaq0naudg0luplecg&dl=1

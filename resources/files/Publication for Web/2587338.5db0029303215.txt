@@ -1,0 +1,18 @@
+1: https://3dsky.org/search?query=2587338.5db0029303215
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Corona
+Size: 49 MB
+Colors:
+Style: Modern
+Materials: Organics
+Published 23 October 2019
+Set of autumn leaves and grass. The scene contains a CoronaScatter, and a set of leaves, twigs, grass, plants. The set will allow you to variably fill in exterior scenes, especially autumn ones.
+The number of scene polygons - 15059
+number of vertices - 23567
+tags: : : : : : : : : leaves: foliage: grass: plants: street: greenery: autumn: branches
+5: Plants
+6: Grass
+7: foliage
+https://www.dropbox.com/scl/fi/n67scixyy5j4f898duykf/2587338.5db0029303215.rar?rlkey=a4wmxzda68vs8vns09miwds07&dl=1
+https://www.dropbox.com/scl/fi/r33xjcyrbr8aq022y4b5f/2587338.5db0029303215.jpg?rlkey=bnjit1mgoqxxv8myscpj8z36y&dl=1

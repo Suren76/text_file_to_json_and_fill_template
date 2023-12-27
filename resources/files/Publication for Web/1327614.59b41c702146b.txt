@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=1327614.59b41c702146b
+2: Buy accesses
+3: Platform: 3dsMax 2010 + fbx
+Render: Vray
+Size: 22 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Formfactor:
+Published 9 September 2017
+ARHAUS CLUB 34''TUFTED UPHOLSTERED CHAIR IN TWEED
+
+Dimensions
+
+86.5 x 99 x 107 H cm
+
+34 "x 39" x 42 "H
+
+
+
+Polys 74316
+Verts 39114
+
+In order to change the upholstery material, just swap the slots in
+multimaterial.
+
+Other my models:
+  Show more
+tags: : : : : capitone: living room: arhaus: armchair
+5: Furniture
+6: Arm chair
+7: ARHAUS CLUB 34&#39;&#39;TUFTED UPHOLSTERED CHAIR IN TWEED
+https://www.dropbox.com/scl/fi/vvtwhigsxfx55hcr0fxi2/1327614.59b41c702146b.rar?rlkey=9hv58ugo9kqdxv7ouhyk9v70j&dl=1
+https://www.dropbox.com/scl/fi/k9pzei7r88pss2enokt47/1327614.59b41c702146b.jpg?rlkey=3a5olowrztecsuf39rlqbm4qi&dl=1

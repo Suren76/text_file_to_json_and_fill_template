@@ -1,0 +1,24 @@
+1: https://3dsky.org/search?query=1867399.5ade5d84c3eb3
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray
+Size: 90 MB
+Colors:
+Style: Modern
+Materials: Leather
+Formfactor:
+Published 24 April 2018
+89 "L x 44" W x 29 "H - 350k polys
+-------------------------------------------------- -----------
+Who works in the V-Ray version is lower than 3.1. Be careful, in some materials in the BRDF section there is a Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+-------------------------------------------------- -----------
+All elements have the correct scan
+-------------------------------------------------- -----------
+Scene in mm
+Show more
+tags: : : : : : legs: metal: modani: leather: transformer
+5: Furniture
+6: Sofa
+7: Bergamo Motion Sofa
+https://www.dropbox.com/scl/fi/lzodccev82kjfkdbv9xmg/1867399.5ade5d84c3eb3.rar?rlkey=k46grmxfvg8fe1l6v58vjizzw&dl=1
+https://www.dropbox.com/scl/fi/2a98y9edi0gqfnkqrrp6r/1867399.5ade5d84c3eb3.jpg?rlkey=a37ghb0l28hjr7wze9416gill&dl=1

@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=2989739.5f3a495b7594b
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray+Corona
+Size: 67 MB
+Colors:
+Style: Classic
+Materials: Organics
+Formfactor:
+Published 17 August 2020
+Croton plant set 10
+
+4 tree and with 1 color height> 0.75 m
+Fbx and obj (Vray 4.2 and corona 5)
+Executed in 3d max 2013
+All textures and materials needed for the rendering found in the archive
+Smoothing modifier is stored in the stack for convenience
+tags: : : : : : : : : : : : : croton: plant: bush: trunk: branch: leaf: leaves: organics: tree: outdoor: landscape: green
+5: Plants
+6: Bush
+7: Croton plant set 10
+https://www.dropbox.com/scl/fi/uk93k9f8ijlauadil4ehm/2989739.5f3a495b7594b.rar?rlkey=int68uz9l5a08psyl5rz5izje&dl=1
+https://www.dropbox.com/scl/fi/4fwsa7de82lytujg994q6/2989739.5f3a495b7594b.jpg?rlkey=et6uf37hi3fgvguma4cg6jznq&dl=1

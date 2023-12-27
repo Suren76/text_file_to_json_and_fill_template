@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=1239894.597b16d628022
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 64 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Formfactor:
+Published 28 July 2017
+Sofa Ditre Italia BAG 315 x 315 x 93 cm The model contains the HairAndFur modifier. For correct display in the menu Rendering - Environmen ... on the Effects tab, select Hair and Fur and in the Hairs column select mr prim. The folds on the couch are made by the Displace modifier. In the archive: * .max 2011 with materials for Vray 3.0; * .max 2011 with materials for Vray 1.5; * .FBX; *. Textures.
+tags: : : : : : ditre italia: bag: pillow: coffee: angular
+5: Furniture
+6: Sofa
+7: Ditre Italia BAG Corner Sofa
+https://www.dropbox.com/scl/fi/hlmz64wrnbu6b0xheinbc/1239894.597b16d628022.rar?rlkey=lrr1zaqawvpigcr5mwuivhcwv&dl=1
+https://www.dropbox.com/scl/fi/qw9c450dwzp7yu5jv02j1/1239894.597b16d628022.jpg?rlkey=mrvakjz029iza4i5bawsbmmcj&dl=1

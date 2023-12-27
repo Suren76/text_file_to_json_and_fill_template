@@ -1,0 +1,25 @@
+1: https://3dsky.org/search?query=2825050.5eaa0eadc96f3
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Corona
+Size: 34 MB
+Colors:
+Style: Modern
+Materials: Metal, Plastic
+Formfactor:
+Published 30 April 2020
+Racing game simulator
+RSEAT RS1 Assetto Corsa Special Edition
+
+http://www.rseat.net/rs1-racing-cockpit/rs1-assetto-corsa/ 
+
+Polys: 289036
+Verts: 291896
+
+H 1250mm x W 1600mm D 2730mm
+tags: : : : : : : : : : : : : : game steering wheel: attraction: simulator: racing: gt: console: gaming: vr: game: corsa: games: race: bolide
+5: Technology
+6: Miscellaneous 4
+7: Racing game simulator
+https://www.dropbox.com/scl/fi/gblbk9td470ux7wybdogk/2825050.5eaa0eadc96f3.zip?rlkey=uzl1hik6m8lsxxgswu4w020r0&dl=1
+https://www.dropbox.com/scl/fi/ojyymutjexxr60kgw2ti8/2825050.5eaa0eadc96f3.jpg?rlkey=icq9zw52m4f3oyz3dudywmqx4&dl=1

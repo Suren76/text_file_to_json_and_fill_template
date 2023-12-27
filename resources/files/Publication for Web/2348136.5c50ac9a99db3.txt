@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=2348136.5c50ac9a99db3
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 5 MB
+Colors:
+Style: Classic
+Materials: Organics
+Published 29 January 2019
+Model grazing horse.
+
+Polys: 9 985
+
+Tail and mane made with Hair & Fur. For the OBJ file in the archive there is a screen of settings, apply for the horse_mane geometry.
+
+For Corona render, it is recommended to put a version not lower than 1.5, since the glossiness of materials is adjusted to fit PBR.
+Show more
+tags: : : horse: the animals
+5: Other Models
+6: Creature
+7: Grazing horse
+https://www.dropbox.com/scl/fi/ua19lpx2v9w7a76lecw0q/2348136.5c50ac9a99db3.zip?rlkey=8e6u20ypire6hny18dbapmjpj&dl=1
+https://www.dropbox.com/scl/fi/fqmw5at9n6e7dr1znyiun/2348136.5c50ac9a99db3.jpg?rlkey=61dvnd43fztclr8fc63x3cj32&dl=1

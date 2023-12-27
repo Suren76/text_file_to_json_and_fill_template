@@ -1,0 +1,30 @@
+1: https://3dsky.org/search?query=2605666.5dc93b7e59dc7
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 67 MB
+Colors:
+Style: Modern
+Materials: Stone, Organics
+Formfactor:
+Published 11 November 2019
+decorative set with sea buckthorn and honeycombs
+
+High res image
+https://www.behance.net/gallery/87990459/Honeycomb-decorative-set-3D-MODEL 
+
+turbosmooth export file
+Max file weight 27.4mb
+model in 2013 3dsMax, FBX, OBJ format
+
+TurboSmooth ticks Render Iters
+(smoothing when rendering)
+
+Who works in the V-Ray version lower than SP1 be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than SP1, then the BRDF field will be empty. Put Phong, Blinn, Ward of your choice.
+Show more
+tags: : : : : : : : : : : : : bamboo: tea: kettle: sea buckthorn: vase: honey: rosemary: honeycombs: honeycomb: cinnamon: star anise: cutting board
+5: Kitchen
+6: Other kitchen accessories
+7: Honeycomb decorative set
+https://www.dropbox.com/scl/fi/uy89zbgrcc5jbwrlwkj8e/2605666.5dc93b7e59dc7.rar?rlkey=eqatlc0j2qi184w0vc9wnv0cc&dl=1
+https://www.dropbox.com/scl/fi/gfhb4kii9ugsk3tqoafgf/2605666.5dc93b7e59dc7.jpg?rlkey=t9e9f0azta863vwdkd8ln97zc&dl=1

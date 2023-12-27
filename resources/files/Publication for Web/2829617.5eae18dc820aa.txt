@@ -1,0 +1,64 @@
+1: https://3dsky.org/search?query=2829617.5eae18dc820aa
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Corona
+Size: 4 MB
+Colors:
+Style: Modern
+Materials: Metal, Plastic
+Formfactor:
+Published 3 May 2020
+Kreon cana set 01
+
+The set consists of:
+
+Cana 40
+- cana 40 profile - surface mounted
+- cana 40 profile - recessed mounted
+- holon 40 single in-cana
+- holon 40 twin in-cana
+- holon 40 directional in-cana
+- prologe 40 single in-cana
+- prologe 40 twin in-cana
+- prologe 40 double in-cana
+- ligna 40 in-cana
+
+Cana 80
+- cana 80 profile - recessed mounted
+- holon 80 single in-cana mid
+- holon 80 single in-cana end
+- holon 80 twin in-cana mid
+- holon 80 twin in-cana end
+- holon 80 directional in-cana mid
+- holon 80 directional in-cana end
+- prologe 80 single in-cana mid
+- prologe 80 single in-cana end
+- prologe 80 twin in-cana mid
+- prologe 80 twin in-cana end
+- ligna 80 in-cana
+
+Cana 120
+- cana 120 profile - recessed mounted
+- holon 120 single in-cana mid
+- holon 120 single in-cana end
+- holon 120 twin in-cana mid
+- holon 120 twin in-cana end
+- prologe 120 single in-cana mid
+- prologe 120 single in-cana end
+- prologe 120 twin in-cana mid
+- prologe 120 twin in-cana end
+
+
+The kit comes with IES lighting from the manufacturer.
+Model for anti-aliasing, TurboSmooth stack open.
+
+For convenient lighting control, all axes and anchors are configured. If you want to change the direction of the light, ungroup the model and select the desired item.
+
+Products webpage:
+  Show more
+tags: : : : : : : : : spot: kreon: cana: prologe: ligna: led: track: directional
+5: Lighting
+6: Spot light
+7: Kreon cana set 01
+https://www.dropbox.com/scl/fi/57djb15541bxpos22m9u7/2829617.5eae18dc820aa.rar?rlkey=5tfzlqgp26j93shv6cq9y3uv7&dl=1
+https://www.dropbox.com/scl/fi/4oo9awn9ftc3e0pd4yvr3/2829617.5eae18dc820aa.jpg?rlkey=018tqbiskh94u7varp5t2dkaa&dl=1

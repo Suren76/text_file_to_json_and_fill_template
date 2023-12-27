@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=2430288.5cc7955ee8435
+2: Buy accesses
+3: Platform: 3dsMax 2015 + fbx
+Render: Vray+Corona
+Size: 54 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 30 April 2019
+Armchair "Egg lounge chair" from the brand - "Fritz Hansen",
+
+In the archive: 3ds max 2015 vray + corona, FBX, OBJ.
+
+Present vray + corona materials
+
+When opening FBX and OBJ, you need to apply the TurboSmooth modifier to some objects.
+tags: : : : : : : : : : : egg: plaid: footstool: arne jacobsen: egg lounge chair: chaises longues: lounger: armchair: pouf: fritz hansen
+5: Furniture
+6: Arm chair
+7: Egg lounge chair
+https://www.dropbox.com/scl/fi/48saf2uq1h0tynhqidoo3/2430288.5cc7955ee8435.rar?rlkey=p8z27a2g62ssjomcchv25zi4p&dl=1
+https://www.dropbox.com/scl/fi/bfkllr7qw6aimwm9fg5xy/2430288.5cc7955ee8435.jpg?rlkey=9my0bco0epo0yf4cmqg79dwr2&dl=1

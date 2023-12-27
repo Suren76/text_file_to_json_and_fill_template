@@ -1,0 +1,33 @@
+1: https://3dsky.org/search?query=2209264.5bc44313530fa
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Vray+Corona
+Size: 13 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Published 15 October 2018
+https://www.ikea.com/ru/ru/catalog/products/70370578/ 
+Item number: 703.705.78
+
+Polys: 43,296
+Verts: 45 216
+
+In the archive:
+.max2012 (V-Ray, Corona)
+.fbx
+textures
+preview
+
+In the scene curtains + curtains.
+
+Tags: black curtain, dark gray ikea curtain, ikea curtains, dark curtain, linen curtain, dark gray curtains, transparent curtains, linen curtains, crown, vray, viray, viray
+
+Scene in millimeters. Model in the center of coordinates.
+Show more
+tags: : : : : : : : : curtain: ikea: gray: dark: linen: cornice: cloth: textile
+5: Decoration
+6: Curtain
+7: IKEA AINA - dark gray transparent curtains from flax.
+https://www.dropbox.com/scl/fi/b7sx83xqwfh08mjl27wfg/2209264.5bc44313530fa.rar?rlkey=15k1iwye003xjx2ux5m1c25uw&dl=1
+https://www.dropbox.com/scl/fi/kjw2jnw51ri8wua5yxfvx/2209264.5bc44313530fa.jpg?rlkey=7h9k9l6yl9hwymswijfwqj7cb&dl=1

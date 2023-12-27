@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=186223.54df398125ffb
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 40 MB
+Colors:
+Style: Classic
+Materials: Wood
+Formfactor:
+Published 14 February 2015
+Photorealistic, well detailed model of the table Italian factory Modenese Gastone, model 12137. Suitable for medium and hayrezov plans. All textures and materials are in the archive. Polygons to smoothing - 167800 Summits - 165571. To render previews used 1 iteration smoothing. The format of files in the archive: - 3ds max 2014, 3ds max 2010 - OBJ
+tags: : : : : : : : italian: italy: table: angelo: oval: fixed: modenese gastone
+5: Furniture
+6: Table
+7: Oval table Modenese Gastone Art 12137
+https://www.dropbox.com/scl/fi/am8wgml7vmm7mkeudssid/186223.54df398125ffb.rar?rlkey=uva5tzwgza8wjso9njuaztesr&dl=1
+https://www.dropbox.com/scl/fi/e6ikablwrmb6m174zekob/186223.54df398125ffb.jpg?rlkey=130xkk5dagoit9coquojxvxzw&dl=1

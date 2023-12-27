@@ -1,0 +1,42 @@
+1: https://3dsky.org/search?query=2295409.5bfeb3a9b0099
+2: Buy accesses
+3: Platform: 3dsMax 2010 + obj
+Render: Vray+Corona
+Size: 18 MB
+Colors:
+Style: Ethnic
+Materials: Metal, Fabric
+Formfactor:
+Published 28 November 2018
+Linea metal bench
+https://bernhardt.com/product/linea/benches/metal-bench 
+Item 384-508
+Overall Dimensions
+W: 132 D: 46 H: 47.5 cm.
+
+Linea Round Bench
+https://bernhardt.com/product/linea/benches/round-bench-0 
+Item 384-507
+Overall Dimensions
+H: 49 Dia: 46 cm.
+
+Render:
+Max_2010 V-Ray 2.40.
+Max_2013 Corona 1.7
+
+For Corona render, it is recommended to install a version not lower than 1.5,
+since the glossiness of the materials is customized with regard to PBR.
+
+Polys: 8,324
+Turbosmooth 1: 66 576
+
+Archive contains FBX (Vray) file.
+
+Apply TurboSmooth to export files.
+Show more
+tags: : : : : : bernhardt: linea: bench: ottoman: poof
+5: Furniture
+6: Other soft seating
+7: Bernhardt Linea Benches
+https://www.dropbox.com/scl/fi/qq3fb96mjf0enlvr2lftb/2295409.5bfeb3a9b0099.rar?rlkey=afoubip4cryprmg1gqhrqiy6b&dl=1
+https://www.dropbox.com/scl/fi/urw85igpvglxqyoruk8te/2295409.5bfeb3a9b0099.jpg?rlkey=zt6dsdf1odir58ut5m7l07zi8&dl=1

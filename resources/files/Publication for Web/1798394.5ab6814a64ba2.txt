@@ -1,0 +1,27 @@
+1: https://3dsky.org/search?query=1798394.5ab6814a64ba2
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray+Corona
+Size: 66 MB
+Colors:
+Style: Classic
+Materials: Wood, Glass
+Formfactor:
+Published 24 March 2018
+Geometry: Subdision ready
+Polygons: 155,375
+Vertices: 157,885
+Textures: Yes
+Materials: Yes
+UV Mapping: Yes
+Unwrapped UVs: Mixed
+Plugins used: No
+------------------------------------------
+Who works in the V-Ray version is lower than 3.1. Be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : : : : : : : pbr: ggx: ikea: laxarby: espresso: sjostrand: lagan: boholmen: ringskar: dishes
+5: Kitchen
+6: Kitchen
+7: Ikea Laxarby
+https://www.dropbox.com/scl/fi/uy0xorre4bl3ih2e1ekfo/1798394.5ab6814a64ba2.rar?rlkey=gpqw4g1xp7afbgnnvmwjs6nvl&dl=1
+https://www.dropbox.com/scl/fi/rvqcpo8mj5w91dbvy7ro9/1798394.5ab6814a64ba2.jpg?rlkey=59j0vjmoiykldqv4h2zxvxpuw&dl=1

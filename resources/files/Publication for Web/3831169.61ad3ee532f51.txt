@@ -1,0 +1,33 @@
+1: https://3dsky.org/search?query=3831169.61ad3ee532f51
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: MentalRay
+Size: 62 MB
+Colors:
+Style: Modern
+Materials: Concrete, Organics
+Formfactor:
+Published 6 December 2021
+Indoor Plants Pack 09
+
+This selection of indoor exotic plants will provide a nice touch to your interior renders. I kept the polycount relatively low but you can also subdivide the model if you need more definition.
+
+-Licuala Grandis
+-Thrinax Radiata
+-Monstera Deliciosa
+
+Format: .blend .max .fbx
+
+4k Textures
+
+
+-Vertices 39 813
+-Polygons 35 810
+-Triangles 71 354
+Show more
+tags: : : : : : : : : : : licuala: grandis: thrinax: radiata: monstera: deliciosa: pot: potted: palm: palmtree
+5: Plants
+6: Indoor
+7: Indoor Plants Pack 09
+https://www.dropbox.com/scl/fi/689eq6o6lnciu4libl2sw/3831169.61ad3ee532f51.rar?rlkey=niko9a9i7h4hvzuoofr2dlsub&dl=1
+https://www.dropbox.com/scl/fi/bgh9kqmchrxa8aqwtqnbm/3831169.61ad3ee532f51.jpg?rlkey=nlimyjel0mdccf3vf5fwl4jix&dl=1

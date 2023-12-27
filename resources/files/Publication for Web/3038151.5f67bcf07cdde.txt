@@ -1,0 +1,38 @@
+1: https://3dsky.org/search?query=3038151.5f67bcf07cdde
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray+Corona
+Size: 106 MB
+Colors:
+Style: Ethnic
+Materials: Metal, Stone
+Formfactor:
+Published 20 September 2020
+Dimensions:
+
+length: 1560mm
+width: 1085mm
+height: 330mm
+
+Vray and Corona versions included.
+
+No unhide objects.
+
+Preview rendered in v-Ray.
+
+System unit mm.
+
+No plugins used.
+
+Pivots ready. If the pivot is lost, press "hierarchy", after the "affect pivot only", it will be restored, and repeat the action "affect pivot only".
+
+Designed by Grzegorz Majka.
+
+Carlyle Collective Venom Coffee Tables
+Show more
+tags: : : : : : : : : : : : : : carlyle: collective: venom: marble: gold: brass: bronze: art: deco: coffee: table: magazine: travertine
+5: Furniture
+6: Table
+7: Carlyle Collective Venom Coffee Tables
+https://www.dropbox.com/scl/fi/nrl2761zuaw9vuxllujuo/3038151.5f67bcf07cdde.rar?rlkey=gzyf5tr290lg6ol6dav79meuj&dl=1
+https://www.dropbox.com/scl/fi/amdqp1s9pqemfvolxuqir/3038151.5f67bcf07cdde.jpg?rlkey=gvlln685ubgp47uux33k9dfzx&dl=1

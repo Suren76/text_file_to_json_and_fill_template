@@ -1,0 +1,36 @@
+1: https://3dsky.org/search?query=1365072.59cb68c63e440
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 17 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 27 September 2017
+Scarlett Tufted Bed
+
+Website manufacturer beds, all sizes and description here:
+http://www.zgallerie.com/p-15701-scarlett-tufted-bed.aspx 
+
+Dimensions / Dimensions:
+
+Queen:
+Width: 72 "
+Depth: 89 "
+Height: 61 "
+Foot board Width: 63 "
+
+- Model with retopology and regular geometry
+- There are no unnecessary elements in the scene
+- Textures and materials of good quality
+
+- Polys: 342318
+- Verts: 345897
+Show more
+tags: : scarlett
+5: Furniture
+6: Bed
+7: Scarlett Tufted Bed
+https://www.dropbox.com/scl/fi/lakdxy0baxlsjgc1yefpo/1365072.59cb68c63e440.rar?rlkey=v7qfm0hgo2o1ucru49vpbf6fg&dl=1
+https://www.dropbox.com/scl/fi/z1zc6ae3au93zbho0a6j1/1365072.59cb68c63e440.jpg?rlkey=yfodzwjaq82n44f2juzw9n5e5&dl=1

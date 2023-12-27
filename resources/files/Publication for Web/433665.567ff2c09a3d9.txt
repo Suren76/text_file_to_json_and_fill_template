@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=433665.567ff2c09a3d9
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 9 MB
+Colors:
+Style: Classic
+Materials: Metal, Gypsum
+Formfactor:
+Published 27 December 2015
+D = 174, H = 110, 1 x GU10, 50W, gypsum
+tags: : arte lamp
+5: Lighting
+6: Spot light
+7: ARTE LAMP A5270PL
+https://www.dropbox.com/scl/fi/s1rwmn6jff5ao6xgh1ftl/433665.567ff2c09a3d9.zip?rlkey=gg7w90px9b3vp49lhonaxfm15&dl=1
+https://www.dropbox.com/scl/fi/4yw18d7vfef4a41ziqpsn/433665.567ff2c09a3d9.jpg?rlkey=zfniaf287hlfapchuixgrbal1&dl=1

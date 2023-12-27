@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=1724995.5a92913860283
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 20 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 25 February 2018
+Sofa with table lamp and table top MHLIVING
+
+Sofa MHLIVING Spell gray article moki-51 / acf1517-3
+dimensions-width 2420, depth 1010, height 970
+
+Table lamp MHLIVING Shape tall article 007127
+dimensions-width 360, depth 360, height 780
+
+Table MHLIVING Nives article ect09-2
+dimensions-width 600, depth 600, height 620
+
+Total number of polygons with anti-aliasing enabled 480,000
+Show more
+tags: : : : : : : : mhliving: spell: sofa: desktop: table: round: velvet
+5: Furniture
+6: Sofa
+7: Sofa with lamp and table MHLIVING
+https://www.dropbox.com/scl/fi/1w7ji1vs2gakpx6hzs9ln/1724995.5a92913860283.rar?rlkey=3whqfjbqlvm5h9yjnj2xdgglu&dl=1
+https://www.dropbox.com/scl/fi/ou02j3bebw68l4b15dgmk/1724995.5a92913860283.jpg?rlkey=sgz4lle3mzeoi8hxk1k2xoqjv&dl=1

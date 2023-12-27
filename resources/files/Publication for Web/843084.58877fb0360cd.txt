@@ -1,0 +1,18 @@
+1: https://3dsky.org/search?query=843084.58877fb0360cd
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 74 MB
+Colors:
+Style: Modern
+Materials: Wood
+Formfactor:
+Published 24 January 2017
+Link to high-resolution renderings: https://yadi.sk/d/huFC9o2X3Agbfj  NOLTE Stone Kitchen with equipment and filling, made for corona render 1.5 and vray 3.2. The equipment includes: sink and faucet Foster hob Elica Nikolatesla, oven and coffee machine Siemens, as well as the scene includes a chair 404 H Barstool by Stefan Diez and the entire decor. In the scene 993K polygons. 26 mb The archive of high-resolution textures. vray materials are configured properly. In version vray, BRDF materials installed in Microfacet GTR / GGX, owners vray 2.4 must be installed in the Blinn BRDF. For Corona render, it is recommended to put the version not lower than 1.5, because the glossiness of materials customized based PBR. To display fur VRAY on Rendering-> Effects tab, enable the modifier Hair and Fur, in Hair rendering options, Hairs set - mr prim to display the fur on CORONA Rendering-> Effects tab, enable the modifier Hair and Fur, in Hair rendering options, Hairs set - geometry KITCHEN are modularized, easy to edit the size of your room! The obj file fur geometry is missing, you can download it from the link:   Other Nolte kitchen can be found in my profile. Beautiful renderings you!
+Show more
+tags: : : : : : : : : nolte: stone: siemens: stefan: diez: elica: nikolatesla: foster
+5: Kitchen
+6: Kitchen
+7: Kitchen NOLTE Stone (vray GGX, corona PBR)
+https://www.dropbox.com/scl/fi/670agmj7v509ukbfwarbx/843084.58877fb0360cd.rar?rlkey=e73atbddk8br97vul83gvzvz3&dl=1
+https://www.dropbox.com/scl/fi/2r79x9qbfigti8imw4eel/843084.58877fb0360cd.jpg?rlkey=u5ad73txpblgrq8jwbi1vwmlx&dl=1

@@ -1,0 +1,24 @@
+1: https://3dsky.org/search?query=2707813.5e43180feebda
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray+Corona
+Size: 111 MB
+Colors:
+Style: Classic
+Materials: Organics
+Formfactor:
+Published 12 February 2020
+Bouquet of pink snowman and hydrangea.
+Render vray. The archive contains the files:
+snowberry_max2011_Vray
+snowberry_2009_Vray.FBX
+snowberry_Vray2011.mat
+snowberry_max2011_Corona
+snowberry_2009_Corona.FBX
+snowberry_Corona2011.mat
+tags: : : : : : : dried flowers: snowberry: bouquet: hydrangea: vase: berries
+5: Plants
+6: Bouquet
+7: Bouquet of snowberry and hydrangea
+https://www.dropbox.com/scl/fi/589fc9nsxzkrk0rhk1r00/2707813.5e43180feebda.rar?rlkey=f5eyyvkz3ay0j71251ywj9uuy&dl=1
+https://www.dropbox.com/scl/fi/5egoqv6nec2gts94oxy74/2707813.5e43180feebda.jpg?rlkey=e7ihevmxa43cyqsxoazh8zj0g&dl=1

@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=2624927.5de18d41415ca
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 115 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 30 November 2019
+Name: Fanuli_Bed_Mark
+Version: 2013
+Preview: Yes
+Units: Millimeters
+Dimension: 1842.77 x 2285.14 x 842.92
+Polys: 965,993
+XForm: Yes
+Box Trick: Yes
+Model Parts: 10
+Render: corona
+Formats: 3Ds Max 2013, OBJ
+link
+  Show more
+tags: : : : : : fanuli: bed: mark: pillow: cloth
+5: Furniture
+6: Bed
+7: Bed mark
+https://www.dropbox.com/scl/fi/cudl8ht8twkaie27uq2kg/2624927.5de18d41415ca.rar?rlkey=zgqbau1vuak318rau63snlgnn&dl=1
+https://www.dropbox.com/scl/fi/c8aixfa68pmionlkdin5j/2624927.5de18d41415ca.jpg?rlkey=snfqp6136e5l88r5jsq5h9kf6&dl=1

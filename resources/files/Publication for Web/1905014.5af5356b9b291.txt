@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=1905014.5af5356b9b291
+2: Buy accesses
+3: Platform: 3dsMax 2009 and below
+Render: Vray
+Size: 1 MB
+Colors:
+Style: Modern
+Formfactor:
+Published 11 May 2018
+The size is 50 * 70cm.
+
+In the archive:
+.max - 2009
+textures
+preview
+
+Scene in millimeters. Model in the center of coordinates.
+tags: : : : : : : : : : : : : : abstraction: painting: colors: yellow: gray: the black: white: nuances: brush: smears: poster: picture: frame
+5: Decoration
+6: Frame
+7: A series of posters with abstract painting.
+https://www.dropbox.com/scl/fi/bbbxe4861nnqwis4onvfs/1905014.5af5356b9b291.rar?rlkey=5esqh89ytuduywm264956nu0i&dl=1
+https://www.dropbox.com/scl/fi/dh21vaptuv0ft49csslm4/1905014.5af5356b9b291.jpg?rlkey=lghigk803o7ut8shcosgecb28&dl=1

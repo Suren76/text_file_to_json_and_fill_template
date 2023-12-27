@@ -1,0 +1,44 @@
+1: https://3dsky.org/search?query=1823494.5ac4aa9d9e467
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray
+Size: 22 MB
+Colors:
+Style: Modern
+Materials: Metal, Fabric
+Formfactor:
+Published 4 April 2018
+- The color is easily customizable through a vraycolor node.
+- High quality polygonal model, correctly scaled for an accurate representation of the original object.
+- This model was constructed with utmost care and attention to detail.
+- Model is exported to Both smooth version and unsmooth version of non native formats.
+- The model is built to real-world scale.
+- System unit setup used-millimeters
+- Non-overlapping clean UV
+- Minimum 1000px texture resolution used.
+- Textures are tileable
+- This model contains 223,000 polygons.
+- Colors can be easily modified.
+- Different parts of the model. 3ds Max models are grouped for easy selection.
+- No part-name confusion when importing several models into a scene.
+- No cleaning up necessary just drop your models into the scene and start rendering.
+- No additional plugin is needed to open the model.
+
+---------------------------
+
+File Formats:
+- 3ds Max 2015 V-Ray 3.4 scene (native application)
+- OBJ
+- FBX
+-------------------------------------------
+
+Rate to let others know about the quality!
+To check out my other models you just need to click on my user name.
+Luxury Forniture
+Show more
+tags: : : : fendi: casa: gilda
+5: Furniture
+6: Chair
+7: Fendi Casa Gilda armchair
+https://www.dropbox.com/scl/fi/9al5jre292rh8jogpyei5/1823494.5ac4aa9d9e467.rar?rlkey=7mt1i20vnyzvfirujwkjd2ltv&dl=1
+https://www.dropbox.com/scl/fi/garg9xniwrggvxc0s1ol4/1823494.5ac4aa9d9e467.jpg?rlkey=9hd0n7ype52etbt17743rqban&dl=1

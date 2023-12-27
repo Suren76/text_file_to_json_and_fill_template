@@ -1,0 +1,31 @@
+1: https://3dsky.org/search?query=2397272.5c94f263def3b
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray+Corona
+Size: 41 MB
+Colors:
+Style: Modern
+Materials: Glass, Concrete
+Published 22 March 2019
+Archived model of a residential building (9 storey)
+Night lighting is made using light sources and grouped separately, also in the archive there are render settings (Corona) for day and night lighting.
+Export File: Fbx
+======================================
+The model is assembled as carefully as possible so that you can easily remove or add floors.
+if necessary and taking into account the use in the near-angles
+======================================
+Units in millimeters.
+No third-party plugin or script required.
+======================================
+Who works in the V-Ray version is lower than 3.1. Be careful, in the materials in the BRDF section there is a Microfaset GTR (GGX), if your version is older than 3.1, the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable to you.
+
+For Corona render, it is recommended to install a version not lower than 1.5, since the glossiness of materials is customized taking into account PBR
+
+Enjoy using and beautiful renders!
+Show more
+tags: : : : : : : : : house: mansard: facade: window: wall: exterior: building: balcony
+5: Architecture
+6: Building
+7: apartment house 4
+https://www.dropbox.com/scl/fi/x2vi3xdj8hpeko6tvugqt/2397272.5c94f263def3b.rar?rlkey=x81kfr9mc5m5jj4b9a0jg4cbj&dl=1
+https://www.dropbox.com/scl/fi/qsnafu5st4qekx4lravmz/2397272.5c94f263def3b.jpg?rlkey=jquth5e5g6ubquome9pm8f73y&dl=1

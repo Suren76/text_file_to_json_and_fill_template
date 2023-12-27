@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=844350.58886f88442e5
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Corona
+Size: 32 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 25 January 2017
+McMillan CS5 mesh topology supports further turbosmooth without harm to the shape geometry. Materials and textures are included.
+tags: : : sniper: weapon
+5: Other Models
+6: Miscellaneous 3
+7: McMillan CS5
+https://www.dropbox.com/scl/fi/lq39t159d0j54mo9km17e/844350.58886f88442e5.rar?rlkey=fs12hru20yu3ogmxhxhsnlm2z&dl=1
+https://www.dropbox.com/scl/fi/3318bzuhzt99wl7ijc0df/844350.58886f88442e5.jpg?rlkey=sc6gyd627oryyxbs7omc14xxr&dl=1

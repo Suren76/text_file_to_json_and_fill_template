@@ -1,0 +1,30 @@
+1: https://3dsky.org/search?query=1459292.5a00d29665e6c
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 6 MB
+Colors:
+Style: Modern
+Materials: Plastic
+Published 7 November 2017
+C7XI CLIMBMILL ladder-stepper (klumber)
+from MATRIX
+
+dimensions:
+D 1600 X W 850 X H 2175
+
+polys: 78,406
+verts: 39,494
+
+in the archive:
+- * .Max 2014 with Corona materials
+- * .Max 2014 with V-ray materials
+- * .Obj
+- Textures
+Show more
+tags: : : : : : : : climbmill: matrix: treadmill: air-conditioner: sapper: sport: training apparatus
+5: Other Models
+6: Sports
+7: C7XI CLIMBMILL by MATRIX
+https://www.dropbox.com/scl/fi/9c87843wb07jccbttyl35/1459292.5a00d29665e6c.rar?rlkey=e8lhh8bieox1e43upglfnnlwu&dl=1
+https://www.dropbox.com/scl/fi/alvc7gywokpqusy6rhnv6/1459292.5a00d29665e6c.jpg?rlkey=erq7f7zlgl40e7u64caufeuxg&dl=1

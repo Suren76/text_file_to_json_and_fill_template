@@ -1,0 +1,27 @@
+1: https://3dsky.org/search?query=3310980.60453fbfa34fa
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray+Corona
+Size: 98 MB
+Colors:
+Style: Classic
+Materials: Metal, Glass
+Formfactor:
+Published 8 March 2021
+Ford Mustang Mach 40 3d model
+You will find in the archive these files:
+- Max 2013 with Vray Next (4.1, BRDF Microfaset GTR (GGX))
+- FBX file exported in Vray
+- Max 2013 with Corona 3
+- FBX file exported in Corona
+Who works in the V-Ray version lower than SP1 be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than SP1, then the BRDF field will be empty, you have to choose: Blinn, Ward or Phong.
+Details and Hi-res renders here:
+ 
+Preview renders are done in Vray.
+Show more
+tags: : : : : : : : : : : : : : : : : : : car: vehicle: transport: wheel: racing: tire: auto: transportation: automotive: automobile: classic: retro: mustang: ford: paint: gray: metal: rims
+5: Other Models
+6: Transport
+7: Ford Mustang Mach 40
+https://www.dropbox.com/scl/fi/uhgafxbewa4xg0fxrvygb/3310980.60453fbfa34fa.rar?rlkey=jnkglna6dnmqzue2jv4xsnzys&dl=1
+https://www.dropbox.com/scl/fi/oezeu3lfmdbhuqqjwzm2o/3310980.60453fbfa34fa.jpg?rlkey=oorxlpaok0yxbsr8icoqfhtfg&dl=1

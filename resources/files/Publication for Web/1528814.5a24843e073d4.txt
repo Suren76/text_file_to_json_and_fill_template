@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=1528814.5a24843e073d4
+2: Buy accesses
+3: Platform: 3dsMax 2010 + fbx
+Render: Vray
+Size: 76 MB
+Colors:
+Style: Modern
+Materials: Wood
+Formfactor:
+Published 4 December 2017
+In the archive: the 3dsmax2010 scene (the anti-aliasing modifier is not collapsed), fbx (without anti-aliasing), texture.
+
+Combination of wall cabinets Ikea eket with filling.
+
+The combination of lockers 891.891.83 (us / en), depth 35 cm and 25 cm in colors: blue, orange, dark gray, dark blue, white.
+
+Cabinets and decor in different layers.
+
+Names in the Latin alphabet.
+
+The paths to the textures are cut off.
+
+pol .: 1 129 362
+vert. : 1,024,864 with turbosmooth off
+
+Who works in the V-Ray version is lower than 3.1 be careful, the materials in the BRDF section are Microfaset GTR (GGX),
+If your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+Show more
+tags: : : : : : : : : : : : : : : : : : : : : : : : : : : eket: set: decorative: ikea: ecet: candlestick: candle: tea candle: heating candle: rack: cupboard: combination: décor: book: vase: a shelf: picture: figurine: glass: ball: statuette: asparagus: plant: flower: room: propeller
+5: Furniture
+6: Other
+7: A combination of wall cabinets Ikea.
+https://www.dropbox.com/scl/fi/8kukm8ep3n0g6fu47tuxc/1528814.5a24843e073d4.rar?rlkey=0q3axc118ghsmgtse1wv65zgn&dl=1
+https://www.dropbox.com/scl/fi/owicr9lvscdd75na4gqc2/1528814.5a24843e073d4.jpg?rlkey=5xyebwdl1mz5vivv2bvqzrf27&dl=1

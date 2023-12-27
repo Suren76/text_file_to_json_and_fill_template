@@ -1,0 +1,37 @@
+1: https://3dsky.org/search?query=3276977.602ac86574aff
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray+Corona
+Size: 94 MB
+Colors:
+Style: Modern
+Materials: Metal, Glass
+Formfactor:
+Published 15 February 2021
+The new Series 8 built-in appliances are the best choice not only because of their unique technical characteristics and ease of use. Sophisticated design, thought out to the smallest detail, and craftsmanship bring the technique to perfection. Maximum freedom in planning the perfect kitchen.
+
+The archive includes 6 models of vehicles in 3 colors.
+
+The model has pivots configured for easy movement and rotation of doors and drawers.
+
+Dimensions:
+build-in oven 594x548x595 (h)
+build-in compact oven 594x455x548 (h)
+build-in microwave 594x299x382 (h)
+build-in coffeemachine 594x356x455 (h)
+build-in warming cabinet 594x548x130 (h)
+build-in vacuum cabinet 594x548x130 (h)
+
+Polys: 893 888
+Verts: 904 687
+
+Formats: 3ds Max 2014, obj
+
+ 
+  Show more
+tags: : : : : : : : : : : : : : : bosch: serie: series: bosh: building: oven: microwave: microwave oven: coffee machine: heating dishes: glass: matte mesh: steel: aluminum
+5: Kitchen
+6: Kitchen appliance
+7: Bosch Serie 8 Collection
+https://www.dropbox.com/scl/fi/belt5pyk2aqzori0yl1m6/3276977.602ac86574aff.rar?rlkey=beb20uwzphrxx1poe44yg8nwd&dl=1
+https://www.dropbox.com/scl/fi/sap1cnev6k1enerugoali/3276977.602ac86574aff.jpg?rlkey=tsdpovp3e94592ufhh6sc80aq&dl=1

@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=182648.54d0be3b79d7b
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 1 MB
+Colors:
+Style: Modern
+Materials: Metal, Glass
+Formfactor:
+Published 3 February 2015
+table bezier
+tags: : : : glass: magazine: bezier
+5: Furniture
+6: Table
+7: table Bezier
+https://www.dropbox.com/scl/fi/gj0c9p83mmvgs9z5q0ifj/182648.54d0be3b79d7b.zip?rlkey=1pwv7zwf563yyk61woyclgrbo&dl=1
+https://www.dropbox.com/scl/fi/wpzv2yxbjk43poief1sg3/182648.54d0be3b79d7b.jpg?rlkey=iayaf5wsbw84ui4wcfd43styn&dl=1

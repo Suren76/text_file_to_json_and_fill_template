@@ -1,0 +1,19 @@
+1: https://3dsky.org/search?query=1483329.5a0d69d200c26
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Corona
+Size: 19 MB
+Colors:
+Style: Modern
+Materials: Metal, Fabric
+Formfactor:
+Published 16 November 2017
+Chair of the Klass range from the company "Canella"
+
+For Corona render, it is recommended to put version no lower than 1.5, since the glossiness of materials is adjusted to the PBR.
+tags: : : : : : klass: muebles: canella: linen: embroidery
+5: Furniture
+6: Chair
+7: KLASS Chair By Muebles Canella
+https://www.dropbox.com/scl/fi/0g24brcge9p4l1uflpn6v/1483329.5a0d69d200c26.rar?rlkey=vu6qigzejr492uzvlsjd2bylu&dl=1
+https://www.dropbox.com/scl/fi/d8n045rze10ulmma6bwlc/1483329.5a0d69d200c26.jpg?rlkey=3ubqmcx7pq830x318dnbkuods&dl=1

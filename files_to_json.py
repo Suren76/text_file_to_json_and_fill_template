@@ -1,6 +1,9 @@
 import json
 import os
+import sys
+from time import sleep
 
+import utils
 from get_json import get_json_from_file
 from os import listdir, path
 
@@ -22,6 +25,9 @@ def convert_files_to_json(path_to_files: str, to_save_file: str, path_to_output_
         os.mkdir(f"{remove_last_backslash_if_there_are(path_to_output_directory)}/{get_file_folder(path_to_files)}")
 
     for filename in listdir(path_to_files):
+        utils.print_progress_bar(listdir(path_to_files).index(filename), len(listdir(path_to_files)), print_end=f"   | [{listdir(path_to_files).index(filename)}/{len(listdir(path_to_files))}] \r")
+        # sys.stdout.write(f" {listdir(path_to_files).index(filename)}/{len(listdir(path_to_files))}")
+        # sys.stdout.flush()
         if filename[-4:] == ".txt":
             data = get_json_from_file(filename=filename, path_to_file=path_to_files)
 

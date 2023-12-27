@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=1207764.5966274c0dd74
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Corona
+Size: 83 MB
+Colors:
+Style: Classic
+Materials: Metal, Stone
+Published 12 July 2017
+Model of building facades in New York - max file for Corona renderer. - Original names of all 3d objects, groups, textures and shaders (materials) - 3d model on the zero coordinate system - in fbx files with shaders for corona
+tags: : : : : : : : : american architecture: fire escape: brooklyn: ghetto: classic: house: floor: facade
+5: Architecture
+6: Building
+7: New York Brooklyn buildings fasads
+https://www.dropbox.com/scl/fi/ela0tgyekulebedv7q4uv/1207764.5966274c0dd74.rar?rlkey=gofxek7gc98kdb5cvak4yu6mn&dl=1
+https://www.dropbox.com/scl/fi/htjpwyn62xcmg2mmch359/1207764.5966274c0dd74.jpg?rlkey=9mknqt4gmyq6aauatk3fxw60g&dl=1

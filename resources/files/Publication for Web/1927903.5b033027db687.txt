@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=1927903.5b033027db687
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 33 MB
+Colors:
+Style: Ethnic
+Materials: Wood
+Formfactor:
+Published 21 May 2018
+A set of objects made to resemble bathroom accessories equipment: stool, sponge, soap, liquid soap dispencer, a tray (with spilled water), toothbrush in two colors and a mirror. LONGER RENDER TIMES. Fairly detailed, complex shaders.
+tags: : : : : bath: soap: designer mirror: sponge
+5: Bathroom
+6: Bathroom accessories
+7: Bathroom small detail
+https://www.dropbox.com/scl/fi/tl0mka4y6bpfgpl4w7e2t/1927903.5b033027db687.zip?rlkey=67lwyfkmao3wctgu3qc4wzyxm&dl=1
+https://www.dropbox.com/scl/fi/39a24j7th2j1rusy226nm/1927903.5b033027db687.jpg?rlkey=6jxabuacj47m4gz2bt3n0s27n&dl=1

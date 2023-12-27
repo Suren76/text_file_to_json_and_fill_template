@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=2083983.5b672fdad9099
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray
+Size: 46 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 5 August 2018
+dedar sofa
+w 1950 mm
+http://kbhsnedkeri.dk/kbh-dedar/ 
+
+export file without turbosmooth
+weight Max file 31.2mb
+model in 2013 format 3dsMax, FBX, OBJ
+
+TurboSmooth is ticked off Render Iters
+(anti-aliasing in the rendering)
+
+Who works in the V-Ray version is lower than SP1, be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than SP1, then the BRDF field will be empty. Put Phong, Blinn, Ward of your choice.
+Show more
+tags: : : : : : velour: kbh: velvet: plaid: sofa
+5: Furniture
+6: Sofa
+7: KBH Dedar sofa
+https://www.dropbox.com/scl/fi/05bp8hveuhkes6oagz1pr/2083983.5b672fdad9099.rar?rlkey=pdrdxfg584hyu31fwrupiuge4&dl=1
+https://www.dropbox.com/scl/fi/b2ex3dbd4raqdqpo90mh3/2083983.5b672fdad9099.jpg?rlkey=x78i2jjwfll2x1m7v02y142ta&dl=1

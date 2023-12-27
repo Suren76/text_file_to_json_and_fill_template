@@ -1,0 +1,27 @@
+1: https://3dsky.org/search?query=1435588.59f207e04581f
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray+Corona
+Size: 67 MB
+Colors:
+Style: Modern
+Materials: Wood, Stone
+Published 26 October 2017
+Reference to high-resolution renderers:
+https://yadi.sk/d/OKCeEk1-3P8Cbi 
+
+The bathroom is COCOON, executed for corona render 1.5 and vray 3.2. The kit includes: faucets for the washbasin, bath and shower COCOON MONO; sinks and furniture COCOON Bowl 1.2; bath COCOON Atlantis Free; shower cabin RARE Elite; MOON DAVIDE GROPPI lamp; ficus in the pot; towels and a basket for them, pouf, as well as other decor. In the scene 669K polygons. The archive has 32 mb of high-resolution textures.
+
+The vray materials are properly configured.
+In the version of vray, BRDF materials are installed in Microfacet GTR / GGX, vray 2.4 owners need to install BRDF in Blinn. For Corona render, it is recommended to put version no lower than 1.5, since the glossiness of materials is adjusted to the PBR.
+
+ALL MODELS ARE PERFORMED WITH HIGH DETAILS AND SUITABLE FOR CLOSE PERSPECTIVES
+
+Beautiful to you renders!
+Show more
+tags: : : : : : : : : : : : : : : : pouf: bath: cocoon: mono: moon: davide groppi: atlantis: fiddle: fig: ficus: rare: elite: basket: towel: aesop
+5: Bathroom
+6: Bathroom furniture
+7: COCOON Bathroom Set (corona PBR, vray GGX)
+https://www.dropbox.com/scl/fi/romgav09qi9qxp6u2zvbx/1435588.59f207e04581f.rar?rlkey=m4wvpvpv3fk952wulmbpmlpi7&dl=1
+https://www.dropbox.com/scl/fi/grj5dx58761x9y73ap4ba/1435588.59f207e04581f.jpg?rlkey=y9bx50eeafzosg7iiyetrdv0p&dl=1

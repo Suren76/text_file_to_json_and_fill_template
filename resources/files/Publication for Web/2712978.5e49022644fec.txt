@@ -1,0 +1,30 @@
+1: https://3dsky.org/search?query=2712978.5e49022644fec
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Corona
+Size: 11 MB
+Colors:
+Style: Modern
+Materials: Fabric
+Formfactor:
+Published 16 February 2020
+- BoConcept Charlotte armchair
+Height: 74/40 cm
+Width: 83 cm
+Depth: 78 cm
+Seat height: 40 cm
+Armrest Height: 59 cm
+Reference: 406014903090117
+https://www.boconcept.com/en-us/charlotte/406014903090117.html 
+
+Polys: 81918
+Verts: 40999
+
+Material changes by changing ID
+Show more
+tags: : : : : : : armchair: relaxation: tissue: oak: boconcept: charlotte
+5: Furniture
+6: Arm chair
+7: Boconcept charlotte armchair
+https://www.dropbox.com/scl/fi/zkrnki4uouqv87mhosqcb/2712978.5e49022644fec.rar?rlkey=9kjgdi9uz9emnwwzd1fb7mxct&dl=1
+https://www.dropbox.com/scl/fi/ikvv5bq9kiifxqxgq3z1j/2712978.5e49022644fec.jpg?rlkey=k91e4x303vefjiyjadvmtncj9&dl=1

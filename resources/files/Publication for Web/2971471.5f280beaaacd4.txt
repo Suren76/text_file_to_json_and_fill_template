@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=2971471.5f280beaaacd4
+2: Buy accesses
+3: Platform: 3dsMax 2016 + obj
+Render: Vray+Corona
+Size: 97 MB
+Colors:
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 3 August 2020
+each one set:
+Polys: 523.743
+Verts: 530.428
+All set:
+Polys: 1.545.890
+Verts: 817.224
+___________________
+
+- Model prepared for V-Rayand Corona render
+- Includes Format OBJ
+- Model is built to real-world scale
+- Units used: cm
+- Doesn't have third-party renderer or plug-ins
+____________________________________
+Check out our other models
+Show more
+tags: : : : : : refrigerator: cooktop: electric: hood: hob
+5: Kitchen
+6: Kitchen appliance
+7: Kitchen appliance 2
+https://www.dropbox.com/scl/fi/cmk9prazvhx55sijfdvxh/2971471.5f280beaaacd4.rar?rlkey=n7hjxpe28oigp3re57oy2hz6e&dl=1
+https://www.dropbox.com/scl/fi/4imrggh7ftqwd1rck8hps/2971471.5f280beaaacd4.jpg?rlkey=kxwp9agiwp71c5g2h6gqnepo8&dl=1

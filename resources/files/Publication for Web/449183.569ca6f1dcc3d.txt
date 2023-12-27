@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=449183.569ca6f1dcc3d
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray
+Size: 15 MB
+Colors:
+Style: Classic
+Materials: Fabric, Glass
+Formfactor:
+Published 18 January 2016
+Chandelier manufacturer: Euroluce Lampadari Model: Lyra Shader L6
+tags: : : euroluce: lyra
+5: Lighting
+6: Pendant light
+7: Euroluce Lampadaryi Lyra Shade L6
+https://www.dropbox.com/scl/fi/e7jpkgkj8zwc9bdyz8ta5/449183.569ca6f1dcc3d.zip?rlkey=8wv0l57antzjxa6jph0c0vn3t&dl=1
+https://www.dropbox.com/scl/fi/p9bueiji87peexh0aylem/449183.569ca6f1dcc3d.jpg?rlkey=q7jyztayina7ltyrumsyrxpff&dl=1

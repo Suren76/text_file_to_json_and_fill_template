@@ -25,3 +25,10 @@ def get_matched_strings_index(_values: list, _list: list):
         _result = get_index_of_string_in_list(value, _list)
         if _result is not None:
             return _result
+
+
+def print_progress_bar(iteration: int, iterable_length: int, prefix='', suffix='', decimals=1, length=100, fill='█', print_end="\r"):
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(iterable_length)))
+    filled_length = int(length * iteration // iterable_length)
+    bar = fill * filled_length + '-' * (length - filled_length)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end=print_end)

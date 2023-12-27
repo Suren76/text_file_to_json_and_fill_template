@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=600714.579e05c55329b
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Vray
+Size: 1 MB
+Colors:
+Style: Classic
+Materials: Metal, Glass
+Formfactor:
+Published 31 July 2016
+Ceiling \ wall lamp from the company Ideal Lux Series: Model of Shell: PL4 internal article: 008615 Grid for anti-aliasing. Apply MS (0/2) Library materials in the kit. Model one object is at the origin. Poligonazh and dimensions on the preview. Link to manufacturer website: http://www.ideal-lux.com/ru/produktsija/potolochnyje_svjetilniki/shell_pl4/
+tags: : : : : : overhead: wall: sconce: glass: plafond
+5: Lighting
+6: Ceiling lamp
+7: Ceiling lamp Ideal Lux Shell PL4 008,615
+https://www.dropbox.com/scl/fi/eewyszuoj90hutr6jq380/600714.579e05c55329b.rar?rlkey=su4rexna786ipfe818awtejp4&dl=1
+https://www.dropbox.com/scl/fi/t8c1xhdiw0oa8j8pn0wxa/600714.579e05c55329b.jpg?rlkey=lvulgi80wv6kxbrude9gb916t&dl=1

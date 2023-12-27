@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=912632.58b32f23e6749
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 20 MB
+Colors:
+Style: Modern
+Materials: Wood, Plastic
+Formfactor:
+Published 26 February 2017
+A set of furniture for children's IKEA The set includes: - Desk chair FLISAT - easel and a set MÅLA Pencil - Storage Boxes trofast - Lamp SKOJIG - Chairs for schoolboys JULES - Shelves Algot - Boxes for TJENA Storage The kit includes a table FlISAT in 3 different positions and combinations . The scene files are present: Corona and Vray All textures have a unique name All objects in the scene have unique names
+tags: : ikea
+5: Childroom
+6: Table + Chair
+7: IKEA set for children (Sorona, V-ray)
+https://www.dropbox.com/scl/fi/ejy6ttorlj207hmbzixuc/912632.58b32f23e6749.rar?rlkey=1bgcy1ilwc5aai3ryv7p3d1gr&dl=1
+https://www.dropbox.com/scl/fi/jgsl7iubfhz8xu2zbfjsm/912632.58b32f23e6749.jpg?rlkey=kz3cxbfzk0ksxld21t9pm3p4s&dl=1

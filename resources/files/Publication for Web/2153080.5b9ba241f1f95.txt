@@ -1,0 +1,43 @@
+1: https://3dsky.org/search?query=2153080.5b9ba241f1f95
+2: Buy accesses
+3: Platform: 3dsMax 2016 + obj
+Render: Vray+Corona
+Size: 71 MB
+Colors:
+Style: Ethnic
+Materials: Wood, Fabric
+Formfactor:
+Published 14 September 2018
+Two-storey bed with a work desk.
+
+https://www.pbteen.com/products/waverly-loft-desk-bed-set/?pkey=cbunks-loft&isx=0.0 
+
+The size of the bed is 140x200 cm, the height of the bed (without clothes) is 1900 cm.
+
+Chair Mathis Chair
+
+ 
+
+Table lamp Kennedy Task Lamp
+
+ 
+
+Policies without anti-aliasing:
+Polys: 365,007
+Verts: 369,819
+
+Modifiers of smoothing in the scene are missing, smoothing to taste.
+
+Made in 2016 max, saved for 2013.
+The paths to the textures are reset, all materials and objects have logical names.
+
+Who works in the V-Ray version is lower than 3.1, be careful, the materials in the BRDF section are Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+
+All fast renders!
+Show more
+tags: : : : : : : : : : : : : : : : : : : : : : : bed with columns: loft bed: bunk: blanket: loft: stairs: pillow: linens: desktop: table lamp: organizer: pencil: instax: notebook: book: alarm clock: vase: camera: chair: pottery barn kids: pbteen: pottery barn
+5: Childroom
+6: Bed 1
+7: Waverly loft desk bed set from Pottery Barn
+https://www.dropbox.com/scl/fi/ic4h59nq6vmrozkf8ard4/2153080.5b9ba241f1f95.rar?rlkey=u35qxyti6k5o3w8ygzm8wwlej&dl=1
+https://www.dropbox.com/scl/fi/p9s0wlkslwmi0v2s8mehf/2153080.5b9ba241f1f95.jpg?rlkey=kpj9f7u4aiix9lim2b3lhgr2d&dl=1

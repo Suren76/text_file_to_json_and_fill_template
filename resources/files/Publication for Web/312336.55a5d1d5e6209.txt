@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=312336.55a5d1d5e6209
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 13 MB
+Colors:
+Style: Classic
+Materials: Metal, Glass
+Formfactor:
+Published 15 July 2015
+Overload the old model, the model is loaded without reason, materials and textures
+tags: : : : : : : kichler country: lighting: sconce: shine: wall: kichler lighting
+5: Lighting
+6: Street lighting
+7: KICHLER LIGHTING 49106RZ WARNER PARK
+https://www.dropbox.com/scl/fi/y7ifnn52sjlwg840yeiuw/312336.55a5d1d5e6209.rar?rlkey=asyw2z2wfw5t0rx0wh5vjixhc&dl=1
+https://www.dropbox.com/scl/fi/0l426uo4n61lkafmt2qmr/312336.55a5d1d5e6209.jpg?rlkey=pqlcl2pce94oiud6zvlo5gro1&dl=1

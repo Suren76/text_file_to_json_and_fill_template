@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=773008.58569dd81df5d
+2: Buy accesses
+3: Platform: 3dsMax 2013 + fbx
+Render: Vray
+Size: 80 MB
+Colors:
+Style: Ethnic
+Materials: Metal, Stone
+Formfactor:
+Published 18 December 2016
+Washbasin root array with sinks of river stone. Materials ready for Vray Preview was made with Corona renderer Dimensions: 1700x590x750
+tags: : : : : : : : : washbasin: tree: array: log: stone: bowl: mixer: sink
+5: Bathroom
+6: Wash basin
+7: washbasin solid wood
+https://www.dropbox.com/scl/fi/h14yt3prwo6z910h0lo3q/773008.58569dd81df5d.rar?rlkey=1uvqz6aeyxndxsy7m7ldyjw0s&dl=1
+https://www.dropbox.com/scl/fi/utq20iqzbc3s7p2ae01rm/773008.58569dd81df5d.jpg?rlkey=f3yn72j7xe0nbmjpgtp6zkaz8&dl=1

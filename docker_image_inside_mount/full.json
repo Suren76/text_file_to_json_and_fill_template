@@ -1,1 +1,312 @@
-{"65530.52d2f175095cf": {"name": "Horizontal bar for home installation", "type": "simple", "regular_price": "2", "description": "Small training complex for home installation. Included: horizontal bar, parallel bars, rings, ladder, mat, wall bars.", "short_description": "Platform:\t 3dsMax 2012 + fbx\nRender:\t Vray\nSize:\t 5 MB\nStyle:\t Modern\nMaterials:\t Metal", "sku": "65530.52d2f175095cf", "categories": [{"id": "221"}], "downloadable": true, "downloads": [{"name": "65530.52d2f175095cf", "file": "https://www.dropbox.com/scl/fi/jdfwxn9m05sfih0rg2bee/65530.52d2f175095cf.rar?rlkey=e0dpd8bb17y9ljoeua8upun10&dl=1"}], "tags": [{"name": "horizontal bar"}, {"name": "bar"}, {"name": "ring"}, {"name": "ladder"}, {"name": "mat"}, {"name": "swedish wall"}], "images": [{"src": "https://www.dropbox.com/scl/fi/4tqn08xhakret7dbs7m5q/65530.52d2f175095cf.jpg?rlkey=5o1mnqs11pa74ac7sr0h6gvsd&dl=1"}], "attributes": [{"id": 1, "name": "Price", "options": ["Pro"]}, {"id": 2, "name": "Render", "options": ["Vray"]}, {"id": 3, "name": "Style", "options": ["Modern"]}]}, "73039.53048b4d007a7": {"name": "Kitchen Set - 01", "type": "simple", "regular_price": "2", "description": "Kitchen Set - 01 description part", "short_description": "Platform:\t 3dsMax 2009 and below\nRender:\t Vray\nSize:\t 23 MB\nStyle:\t Ethnic\nMaterials:\t Metal, Wood", "sku": "73039.53048b4d007a7", "categories": [{"name": "Other kitchen accessories"}], "downloadable": true, "downloads": [{"name": "73039.53048b4d007a7", "file": "https://www.dropbox.com/scl/fi/ng459iidceupzegubvh77/73039.53048b4d007a7.rar?rlkey=2objvqrmq3gog30z00obl15a8&dl=1"}], "tags": [{"name": "kitchen"}, {"name": "dishes"}, {"name": "spice"}, {"name": "jug"}, {"name": "turk"}, {"name": "tray"}, {"name": "a bowl"}, {"name": "a cup"}, {"name": "a spoon"}, {"name": "set"}], "images": [{"src": "https://www.dropbox.com/scl/fi/8qguy90vvzmdny9o9semm/73039.53048b4d007a7.jpg?rlkey=vlun79q1mp83q4aj5tucig49p&dl=1"}], "attributes": [{"id": 1, "name": "Price", "options": ["Pro"]}, {"id": 2, "name": "Render", "options": ["Vray"]}, {"id": 3, "name": "Style", "options": ["Ethnic"]}]}, "70651.52f8f4a88cfe5": {"name": "Elfa dressing system", "type": "simple", "regular_price": "2", "description": "http://www.elfarus.ru/", "short_description": "Platform:\t 3dsMax 2010 + fbx\nRender:\t Vray\nSize:\t 11 MB\nStyle:\t Modern\nMaterials:\t Metal, Wood", "sku": "70651.52f8f4a88cfe5", "categories": [{"id": "83"}], "downloadable": true, "downloads": [{"name": "70651.52f8f4a88cfe5", "file": "https://www.dropbox.com/scl/fi/mp8sheev8z7d9yxqj905i/70651.52f8f4a88cfe5.rar?rlkey=9xt7mf0snpehn51mvfwefbv3x&dl=1"}], "tags": [{"name": "cloakroom"}, {"name": "accessories"}], "images": [{"src": "https://www.dropbox.com/scl/fi/0x1dc1m4omze0y0lwb6y4/70651.52f8f4a88cfe5.jpg?rlkey=0f9ee4izc62orj7vjo68h4dn1&dl=1"}], "attributes": [{"id": 1, "name": "Price", "options": ["Pro"]}, {"id": 2, "name": "Render", "options": ["Vray"]}, {"id": 3, "name": "Style", "options": ["Modern"]}]}, "76567.5315e734c77cd": {"name": "Set ventilation pipes", "type": "simple", "regular_price": "2", "description": "Ventilation ducts of round cross section with a diameter of 160 mm and 250 mm", "short_description": "Platform:\t 3dsMax 2011 + obj\nRender:\t Vray\nSize:\t 31 MB\nStyle:\t Modern\nMaterials:\t Metal", "sku": "76567.5315e734c77cd", "categories": [{"id": "218"}], "downloadable": true, "downloads": [{"name": "76567.5315e734c77cd", "file": "https://www.dropbox.com/scl/fi/ahmpdhahhucijnlbf49kp/76567.5315e734c77cd.rar?rlkey=3wes4hqni84t8wn1q9a1ft1o6&dl=1"}], "tags": [{"name": "tubing"}, {"name": "pipes"}, {"name": "ventilation"}, {"name": "ventilation pipes"}], "images": [{"src": "https://www.dropbox.com/scl/fi/xp5cugmbgf4rmsn93qyp7/76567.5315e734c77cd.jpg?rlkey=rfcazu7r5teelx5b4wu1p7had&dl=1"}], "attributes": [{"id": 1, "name": "Price", "options": ["Pro"]}, {"id": 2, "name": "Render", "options": ["Vray"]}, {"id": 3, "name": "Style", "options": ["Modern"]}]}, "free_file_example_from_docx": {"name": "LampsShop.ru CPL7009 Chandelier Plane B", "type": "external", "regular_price": "0", "description": "Dimensions: 76 x 65 cm https://lampsshop.ru/?store-page=%D0%9B%D1%8E%D1%81%D1%82%D1%80%D0%B0-Plane-B-p227812148 instagram @ lampsshop.ru", "short_description": "Platform:\t 3dsMax 2015 + fbx\nRender:\t Corona\nSize:\t 2 MB\nStyle:\t Modern\nMaterials:\t Metal", "external_url": "", "sku": "free_file_example_from_docx", "categories": [{"name": "Ceiling lamp"}], "tags": [], "images": [{"src": ""}], "attributes": [{"id": 1, "name": "Price", "options": ["Free"]}, {"id": 2, "name": "Render", "options": ["Corona"]}, {"id": 3, "name": "Style", "options": ["Modern"]}], "button_text": "Download"}}
+{
+    "65530.52d2f175095cf": {
+        "name": "Horizontal bar for home installation",
+        "type": "simple",
+        "regular_price": "2",
+        "description": "Small training complex for home installation. Included: horizontal bar, parallel bars, rings, ladder, mat, wall bars.",
+        "short_description": "Platform:\t 3dsMax 2012 + fbx\nRender:\t Vray\nSize:\t 5 MB\nStyle:\t Modern\nMaterials:\t Metal",
+        "sku": "65530.52d2f175095cf",
+        "categories": [
+            {
+                "id": "221"
+            }
+        ],
+        "downloadable": true,
+        "downloads": [
+            {
+                "name": "65530.52d2f175095cf",
+                "file": "https://www.dropbox.com/scl/fi/jdfwxn9m05sfih0rg2bee/65530.52d2f175095cf.rar?rlkey=e0dpd8bb17y9ljoeua8upun10&dl=1"
+            }
+        ],
+        "tags": [
+            {
+                "name": "horizontal bar"
+            },
+            {
+                "name": "bar"
+            },
+            {
+                "name": "ring"
+            },
+            {
+                "name": "ladder"
+            },
+            {
+                "name": "mat"
+            },
+            {
+                "name": "swedish wall"
+            }
+        ],
+        "images": [
+            {
+                "src": "https://www.dropbox.com/scl/fi/4tqn08xhakret7dbs7m5q/65530.52d2f175095cf.jpg?rlkey=5o1mnqs11pa74ac7sr0h6gvsd&dl=1"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Price",
+                "options": [
+                    "Pro"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Render",
+                "options": [
+                    "Vray"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Style",
+                "options": [
+                    "Modern"
+                ]
+            }
+        ]
+    },
+    "73039.53048b4d007a7": {
+        "name": "Kitchen Set - 01",
+        "type": "simple",
+        "regular_price": "2",
+        "description": "Kitchen Set - 01 description part",
+        "short_description": "Platform:\t 3dsMax 2009 and below\nRender:\t Vray\nSize:\t 23 MB\nStyle:\t Ethnic\nMaterials:\t Metal, Wood",
+        "sku": "73039.53048b4d007a7",
+        "categories": [
+            {
+                "name": "Other kitchen accessories"
+            }
+        ],
+        "downloadable": true,
+        "downloads": [
+            {
+                "name": "73039.53048b4d007a7",
+                "file": "https://www.dropbox.com/scl/fi/ng459iidceupzegubvh77/73039.53048b4d007a7.rar?rlkey=2objvqrmq3gog30z00obl15a8&dl=1"
+            }
+        ],
+        "tags": [
+            {
+                "name": "kitchen"
+            },
+            {
+                "name": "dishes"
+            },
+            {
+                "name": "spice"
+            },
+            {
+                "name": "jug"
+            },
+            {
+                "name": "turk"
+            },
+            {
+                "name": "tray"
+            },
+            {
+                "name": "a bowl"
+            },
+            {
+                "name": "a cup"
+            },
+            {
+                "name": "a spoon"
+            },
+            {
+                "name": "set"
+            }
+        ],
+        "images": [
+            {
+                "src": "https://www.dropbox.com/scl/fi/8qguy90vvzmdny9o9semm/73039.53048b4d007a7.jpg?rlkey=vlun79q1mp83q4aj5tucig49p&dl=1"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Price",
+                "options": [
+                    "Pro"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Render",
+                "options": [
+                    "Vray"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Style",
+                "options": [
+                    "Ethnic"
+                ]
+            }
+        ]
+    },
+    "70651.52f8f4a88cfe5": {
+        "name": "Elfa dressing system",
+        "type": "simple",
+        "regular_price": "2",
+        "description": "http://www.elfarus.ru/",
+        "short_description": "Platform:\t 3dsMax 2010 + fbx\nRender:\t Vray\nSize:\t 11 MB\nStyle:\t Modern\nMaterials:\t Metal, Wood",
+        "sku": "70651.52f8f4a88cfe5",
+        "categories": [
+            {
+                "id": "83"
+            }
+        ],
+        "downloadable": true,
+        "downloads": [
+            {
+                "name": "70651.52f8f4a88cfe5",
+                "file": "https://www.dropbox.com/scl/fi/mp8sheev8z7d9yxqj905i/70651.52f8f4a88cfe5.rar?rlkey=9xt7mf0snpehn51mvfwefbv3x&dl=1"
+            }
+        ],
+        "tags": [
+            {
+                "name": "cloakroom"
+            },
+            {
+                "name": "accessories"
+            }
+        ],
+        "images": [
+            {
+                "src": "https://www.dropbox.com/scl/fi/0x1dc1m4omze0y0lwb6y4/70651.52f8f4a88cfe5.jpg?rlkey=0f9ee4izc62orj7vjo68h4dn1&dl=1"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Price",
+                "options": [
+                    "Pro"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Render",
+                "options": [
+                    "Vray"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Style",
+                "options": [
+                    "Modern"
+                ]
+            }
+        ]
+    },
+    "76567.5315e734c77cd": {
+        "name": "Set ventilation pipes",
+        "type": "simple",
+        "regular_price": "2",
+        "description": "Ventilation ducts of round cross section with a diameter of 160 mm and 250 mm",
+        "short_description": "Platform:\t 3dsMax 2011 + obj\nRender:\t Vray\nSize:\t 31 MB\nStyle:\t Modern\nMaterials:\t Metal",
+        "sku": "76567.5315e734c77cd",
+        "categories": [
+            {
+                "id": "218"
+            }
+        ],
+        "downloadable": true,
+        "downloads": [
+            {
+                "name": "76567.5315e734c77cd",
+                "file": "https://www.dropbox.com/scl/fi/ahmpdhahhucijnlbf49kp/76567.5315e734c77cd.rar?rlkey=3wes4hqni84t8wn1q9a1ft1o6&dl=1"
+            }
+        ],
+        "tags": [
+            {
+                "name": "tubing"
+            },
+            {
+                "name": "pipes"
+            },
+            {
+                "name": "ventilation"
+            },
+            {
+                "name": "ventilation pipes"
+            }
+        ],
+        "images": [
+            {
+                "src": "https://www.dropbox.com/scl/fi/xp5cugmbgf4rmsn93qyp7/76567.5315e734c77cd.jpg?rlkey=rfcazu7r5teelx5b4wu1p7had&dl=1"
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Price",
+                "options": [
+                    "Pro"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Render",
+                "options": [
+                    "Vray"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Style",
+                "options": [
+                    "Modern"
+                ]
+            }
+        ]
+    },
+    "free_file_example_from_docx": {
+        "name": "LampsShop.ru CPL7009 Chandelier Plane B",
+        "type": "external",
+        "regular_price": "0",
+        "description": "Dimensions: 76 x 65 cm https://lampsshop.ru/?store-page=%D0%9B%D1%8E%D1%81%D1%82%D1%80%D0%B0-Plane-B-p227812148 instagram @ lampsshop.ru",
+        "short_description": "Platform:\t 3dsMax 2015 + fbx\nRender:\t Corona\nSize:\t 2 MB\nStyle:\t Modern\nMaterials:\t Metal",
+        "external_url": "",
+        "sku": "free_file_example_from_docx",
+        "categories": [
+            {
+                "name": "Ceiling lamp"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "src": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "Price",
+                "options": [
+                    "Free"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Render",
+                "options": [
+                    "Corona"
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Style",
+                "options": [
+                    "Modern"
+                ]
+            }
+        ],
+        "button_text": "Download"
+    }
+}

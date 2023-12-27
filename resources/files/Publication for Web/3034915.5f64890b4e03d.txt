@@ -1,0 +1,20 @@
+1: https://3dsky.org/search?query=3034915.5f64890b4e03d
+2: Buy accesses
+3: Platform: 3dsMax 2015 + fbx
+Render: Corona
+Size: 5 MB
+Colors:
+Style: Modern
+Materials: Metal, Stone
+Formfactor:
+Published 18 September 2020
+Units: Millimeters
+Polys: 2,602
+Render: Corona
+Formats: 3Ds Max 2015, OBJ, FBX
+tags: : : : : fence: metal: a rock: gate
+5: Architecture
+6: Fence
+7: Fence_modern_01
+https://www.dropbox.com/scl/fi/3zil0ca1ln12za8r637d9/3034915.5f64890b4e03d.rar?rlkey=4xsoj8y68glm78xpmnpb21xvh&dl=1
+https://www.dropbox.com/scl/fi/q98g8yfxr5pvpfgtk2jyv/3034915.5f64890b4e03d.jpg?rlkey=e4ne06xsvw4qidlccyvmd9w8u&dl=1

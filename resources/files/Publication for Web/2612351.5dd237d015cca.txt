@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=2612351.5dd237d015cca
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray+Corona
+Size: 42 MB
+Colors:
+Style: Modern
+Materials: Paper, Stone
+Formfactor:
+Published 18 November 2019
+File formats - max2015, OBJ;
+Render versions: Vray, Corona;
+
+Polys: 345,526
+
+
+All textures and objects have corresponding names;
+Textures in JPG format;
+UnwrapUVW;
+Compatible with max versions 2015 and above;
+Original format - max 2018
+
+Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is more preferable for you
+
+For Corona render, it is recommended to install a version of at least 1.5, since the glossiness of materials is configured taking into account PBR
+Show more
+tags: : : : : : : dried flower: branches: decor: pampas grass: dried flowers: vase
+5: Decoration
+6: Decorative set
+7: Decorative set # 14
+https://www.dropbox.com/scl/fi/zwpon1jxce1qqhwiubmjf/2612351.5dd237d015cca.rar?rlkey=aq0u9a3egc99w8wi1kn014t9i&dl=1
+https://www.dropbox.com/scl/fi/32po8iffhcub6676cu89h/2612351.5dd237d015cca.jpg?rlkey=7y454j8iwoh5ub57b0jfvagdr&dl=1

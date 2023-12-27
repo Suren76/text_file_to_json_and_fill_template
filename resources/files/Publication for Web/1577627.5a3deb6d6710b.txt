@@ -1,0 +1,30 @@
+1: https://3dsky.org/search?query=1577627.5a3deb6d6710b
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 81 MB
+Colors:
+Style: Modern
+Materials: Concrete
+Formfactor:
+Published 23 December 2017
+Beam concrete for loft interiors. Detailed model, heavy -80 mb. Along the perimeter, the beams of the notch are made in the volume, traces are made from the formwork. Textures were baked with hi poly (high polygonal) models with all small details. Scans are made. The Diffuse layer can be changed to any texture, it is not tied to sweeps.
+On all sides the relief is different, there is no symmetry.
+The dimensions of the column are 300x600x6000
+Can be used as a column
+Made a model in ZBrush saved by 3d max 2014
+In the archive:
+FBX
+OBJ
+Textures in the archive. Scan resolution 4096х4096
+Materials are set up
+3d max 2014
+Polys 564224
+Verts 564226
+Show more
+tags: : : : : : : : : : concrete: column: beam: wall: plaster: overlapping: bandage: metal: ceiling
+5: Other Models
+6: Miscellaneous 3
+7: Beam concrete ceiling
+https://www.dropbox.com/scl/fi/7yvx55zvwae06s4mrfypg/1577627.5a3deb6d6710b.rar?rlkey=b3p8woqxahdxyj3jg5olpi8cs&dl=1
+https://www.dropbox.com/scl/fi/zyppkq0gfysn4cv3btdlw/1577627.5a3deb6d6710b.jpg?rlkey=u6rsp0djig9d9gaiae0hqrd2a&dl=1

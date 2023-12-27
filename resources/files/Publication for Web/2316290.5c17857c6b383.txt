@@ -1,0 +1,19 @@
+1: https://3dsky.org/search?query=2316290.5c17857c6b383
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray
+Size: 49 MB
+Colors:
+Style: Modern
+Materials: Leather
+Formfactor:
+Published 17 December 2018
+3d model sofa Extrasoft Living Divani in two finishes. Leather and fabric (multiobj mtl) are switched by changing the values of the Material modifier. Also from the modules you can collect your composition.
+Dimensions 2580x3200x720 mm
+Polygons 280,000 without smoothing.
+tags: : : : : : : extrasoft: living divani: sofa: folds: pillows: luxury
+5: Furniture
+6: Sofa
+7: Extrasoft living divani
+https://www.dropbox.com/scl/fi/mlae681p5kugpouf968r9/2316290.5c17857c6b383.rar?rlkey=s6nnhoagbt0yd1rhhixzod41y&dl=1
+https://www.dropbox.com/scl/fi/jxwm1meqhojdeh3yfvva1/2316290.5c17857c6b383.jpg?rlkey=onu61vtg724grm4g603fv09l4&dl=1

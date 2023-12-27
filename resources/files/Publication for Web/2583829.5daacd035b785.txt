@@ -1,0 +1,21 @@
+1: https://3dsky.org/search?query=2583829.5daacd035b785
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray+Corona
+Size: 148 MB
+Colors:
+Style: Classic
+Materials: Metal, Stone
+Formfactor:
+Published 19 October 2019
+Light marble staircase with wrought iron railing and golden cast inlays for a classic palace interior.
+Beige marble
+classic staircase
+
+Corona and Vray materials are in the same scene in the material editor.
+tags: : : : : : : : : : : : : : : : : : : : : : : : forged: staircase: stairs: french: baroque: classical: royal: house: hall: entrance: lobby: palace: entry: steps: architecture: classic: stairway: forging: fencing: gold: railing: handrail: marble
+5: Other Models
+6: Staircase
+7: Classic marble staircase with wrought iron railing
+https://www.dropbox.com/scl/fi/hurfkft17we6up424ibc2/2583829.5daacd035b785.rar?rlkey=h4c28t2xek6ud86wkzni1wr7p&dl=1
+https://www.dropbox.com/scl/fi/a094d7heemsnaabfoayli/2583829.5daacd035b785.jpg?rlkey=la8z43obpti3jzm8mhdkoo3gm&dl=1

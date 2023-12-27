@@ -1,0 +1,29 @@
+1: https://3dsky.org/search?query=2777770.5e872ccb58f2f
+2: Buy accesses
+3: Platform: 3dsMax 2016 + fbx
+Render: Vray+Corona
+Size: 64 MB
+Colors:
+Style: Modern
+Materials: Wood, Plastic
+Published 3 April 2020
+Equipment for playgrounds KPL4006 "FOUR TOWER WITH NETWORK AND BRIDGES" (FOUR TOWER W / NET & BRIDGES) from the series Game systems from the famous Danish manufacturer Kompan.
+
+Link to the manufacturer’s website:
+https://www.kompan.ru/igra/igrovye-sistemy/igrovye-kompleksy-prosto-igraj/chetyre-bashni-s-setkoj-i-mostikami 
+
+Faces: 128916
+Verts: 153458
+
+Vray: 4.20.00. Who works in the V-Ray version lower than 3.1, be careful, in the materials in the BRDF section there is Microfaset GTR (GGX), if your version is older than 3.1, then the BRDF field will be empty. Choose Blinn, Phong or Ward - which is preferable for you.
+
+Corona 5.0. For Corona render, it is recommended to install a version of at least 1.5, since the glossiness of materials is configured with PBR in mind.
+
+3dsMax2016 + fbx, mat files and textures files included.
+Show more
+tags: : : : : : : : : : : : : : : : : : : : : kompan: compan: playground: game complex: companion: equipment: baby: the yard: game: complex: maf: street: slide: climbing frame: balancing: balance: tower: bridge: net: kpl
+5: Architecture
+6: Playground
+7: KOMPAN. FOUR TOWERS WITH NETWORK AND BRIDGES
+https://www.dropbox.com/scl/fi/50pr5hiiznzr1aigzjc9b/2777770.5e872ccb58f2f.rar?rlkey=7k4nat46nlysi1036qyc8f8m9&dl=1
+https://www.dropbox.com/scl/fi/ubolocbzfwn3mapj8jcgb/2777770.5e872ccb58f2f.jpg?rlkey=bjkpwqr8zadzggawjyyke0h9g&dl=1

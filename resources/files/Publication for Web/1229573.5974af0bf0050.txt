@@ -1,0 +1,16 @@
+1: https://3dsky.org/search?query=1229573.5974af0bf0050
+2: Buy accesses
+3: Platform: 3dsMax 2011 + obj
+Render: Vray
+Size: 20 MB
+Colors:
+Style: Classic
+Materials: Gypsum
+Published 23 July 2017
+The modifier stack is not collapsed. TurboSmooth has disabled anti-aliasing in the viewport. Polys: 104,166 3ds max 2011, Vray, Obj, FBX
+tags: : : : : : : : : stucco decoration: ceiling socket: stucco molding: molding: ceiling: gypsum: cad: carved
+5: Decoration
+6: Decorative plaster
+7: Ceiling outlet P113 Sabur decor 2017
+https://www.dropbox.com/scl/fi/qb5jdbfukhbsjh0p21hi1/1229573.5974af0bf0050.rar?rlkey=ow533tamam6y0hfl0s9lnejv5&dl=1
+https://www.dropbox.com/scl/fi/ii1a03l3eavsmm5lg8i4k/1229573.5974af0bf0050.jpg?rlkey=q8s09t2kcmczneftp7a86frhi&dl=1

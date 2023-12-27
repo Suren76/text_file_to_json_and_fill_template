@@ -1,0 +1,32 @@
+1: https://3dsky.org/search?query=1947816.5b11424b91bc8
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Corona
+Size: 13 MB
+Colors:
+Style: Classic
+Materials: Wood, Stone
+Published 1 June 2018
+2 options:
+
+CN.wb.65 - Sink CANALETTO 65x40
+80 cm pendant with 2 drawers
+mirror 80õ75 cm
+
+CN.wb.40 - Sink CANALETTO 40x40
+curbstone 60 cm suspended with 2 drawers
+mirror 60õ75 cm
+
+In the archive there are FBX, OBJ, MAX-files for Corona 1.6 (PRB) renderer.
+Render is made in Corona render.
+
+Corona render it is recommended to put version no lower than 1.5, since the glossiness of materials is adjusted to the PBR.
+
+After import, apply anti-aliasing.
+Show more
+tags: : : : : : : : : : kerama marazzi: sink: locker: mirror: towel: soap: crane: spout: cosmetics
+5: Bathroom
+6: Bathroom furniture
+7: Canaletto
+https://www.dropbox.com/scl/fi/9rspq8d4dg5nxb0argzzq/1947816.5b11424b91bc8.rar?rlkey=1w8vnrd4ujgyxaw7ors0p4kqg&dl=1
+https://www.dropbox.com/scl/fi/rth9i3ufmvwfet0zz314v/1947816.5b11424b91bc8.jpg?rlkey=rjx55stgqf0c3azj2rn0mwc8n&dl=1

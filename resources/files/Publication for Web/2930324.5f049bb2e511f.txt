@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=2930324.5f049bb2e511f
+2: Buy accesses
+3: Platform: 3dsMax 2016 + obj
+Render: Vray+Corona
+Size: 38 MB
+Colors:
+Style: Ethnic
+Materials: Fabric
+Formfactor:
+Published 7 July 2020
+COLOR VARIATIONS CAN BE FOUND IN THE MATERIAL EDITOR!
+
+General information:
+- V-Ray and Corona materials
+- polys: 296316
+- verts: 304609
+- original file format - MAX 2016
+- modeled to real-world scale (mm)
+- 2K textures
+
+Overall dimensions:
+- width: 450 mm
+- depth: 450 mm
+
+File formats:
+- MAX
+- OBJ
+Show more
+tags: : : : macrame: pillow: knitted
+5: Decoration
+6: Pillows
+7: Knit cushion
+https://www.dropbox.com/scl/fi/34a9j45rh60aa8vyofamy/2930324.5f049bb2e511f.rar?rlkey=waxy8hmj230y0oaabsojslhwl&dl=1
+https://www.dropbox.com/scl/fi/h5sl8xew1abyvkt74ci8f/2930324.5f049bb2e511f.jpg?rlkey=garme5j91uf8723ay11viv9jc&dl=1

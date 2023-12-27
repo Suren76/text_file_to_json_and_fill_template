@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=1132624.5935dfc108c10
+2: Buy accesses
+3: Platform: 3dsMax 2014 + fbx
+Render: Vray
+Size: 12 MB
+Colors:
+Style: Classic
+Materials: Wood, Fabric
+Formfactor:
+Published 6 June 2017
+Chandelier: https://dantonehome.ru/catalog/light/SHP0009/  table: https://dantonehome.ru/catalog/tables_and_consoles/stol-tenbi-raskladnoy/  chair: https://dantonehome.ru/catalog/armchairs_and_chairs/  Stul-DS-C148 / When importing the FBX file to some parts of the models, you need to apply the turbosmooth modifier. In the archive there is a version file 3Dmax 2011
+tags: : : : : : : : dantonehome: dantonehome: dantone: tenby: table: chair: dantone home
+5: Furniture
+6: Table + Chair 1
+7: Dantone
+https://www.dropbox.com/scl/fi/65jpyksnvgpphovuubmt7/1132624.5935dfc108c10.rar?rlkey=62ors5jen4howd7qzpb3kfw1q&dl=1
+https://www.dropbox.com/scl/fi/s4ht6ug3puv1i63qtk3qr/1132624.5935dfc108c10.jpg?rlkey=1d0ics93nnk1qjkxq2rjwhdj6&dl=1

@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=20187.526b5127ca673
+2: Buy accesses
+3: Platform: 3dsMax 2012 + obj
+Render: Vray
+Size: 5 MB
+Colors:
+Style: Modern
+Materials: Metal
+Formfactor:
+Published 11 May 2012
+Modular CHAPEAU 1 x LED 1100LM GE
+tags: : dot
+5: Lighting
+6: Spot light
+7: CHAPEAU
+https://www.dropbox.com/scl/fi/acs4blm4ywe307s5c5ib2/20187.526b5127ca673.rar?rlkey=4z9kt9u2lcvr3pfx2npek5dqc&dl=1
+https://www.dropbox.com/scl/fi/eaeqzdy7e3z5h4mgwagrj/20187.526b5127ca673.jpg?rlkey=1kamh4wx67cy4hw6ugjpnc2a8&dl=1

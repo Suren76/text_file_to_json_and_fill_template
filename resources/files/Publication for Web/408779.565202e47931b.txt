@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=408779.565202e47931b
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 46 MB
+Colors:
+Style: Ethnic
+Materials: Wood, Organics
+Formfactor:
+Published 22 November 2015
+Materials Vray, max 2011, fbx, texture. Background, is used to render the scene, no. Height: 460 mm Polys: 277919
+tags: : : bonsai: tree
+5: Plants
+6: Indoor
+7: Bonsai 2
+https://www.dropbox.com/scl/fi/krc8igcwl394qzllfakz2/408779.565202e47931b.rar?rlkey=svszu68ekz0neyt9nbyq6gdym&dl=1
+https://www.dropbox.com/scl/fi/nzzdorh24p1tnu15fkobp/408779.565202e47931b.jpg?rlkey=d3em6b2uuop8xhvtqbs01t1z1&dl=1

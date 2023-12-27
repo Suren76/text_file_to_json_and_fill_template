@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=441802.5690cf9d69808
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 28 MB
+Colors:
+Style: Modern
+Materials: Fabric, Glass
+Formfactor:
+Published 9 January 2016
+Chandelier 3361 BAGA Archived version of 2011 and 2014 as well as the Max fbx, obj, mtl and only one texture. Just add the file to render the scene, who do not want to bathe with setting render studio. Render passes on a black background and is saved in png. When you move in Photoshop black background disappears, which makes it possible to insert any image in the background. The archive is a hdri map. Height: 100.0 cm Diameter: 48.0 cm
+tags: : baga
+5: Lighting
+6: Pendant light
+7: Baga 3361 Chandelier
+https://www.dropbox.com/scl/fi/ot9uw9el8ivxuatoznwn1/441802.5690cf9d69808.rar?rlkey=8kz4978nqp98q2mgvba3lgtwz&dl=1
+https://www.dropbox.com/scl/fi/1cihjhxyt46sfdalori6r/441802.5690cf9d69808.jpg?rlkey=39x2wbs78klu08okbcw6xpxqy&dl=1

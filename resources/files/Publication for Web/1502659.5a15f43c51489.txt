@@ -1,0 +1,34 @@
+1: https://3dsky.org/search?query=1502659.5a15f43c51489
+2: Buy accesses
+3: Platform: 3dsMax 2011 + fbx
+Render: Vray
+Size: 67 MB
+Colors:
+Style: Ethnic
+Materials: Rattan
+Formfactor:
+Published 23 November 2017
+Sofa Dolcefarniente SCAURI
+182 x 75 x 88 centimeters
+
+Table Dolcefarniente PALINURO
+120 x 70 x 41 centimeters
+
+HairAndFur modifier is present in the model. For the correct display in the menu Rendering - Environmen ... on the Effects tab, select Hair and Fur and in the Hairs column select mr prim.
+
+
+
+
+
+In the archive:
+* .max 2011 with materials for Vray 3.0;
+* .max 2011 with materials for Vray 1.5;
+* .FBX;
+*. textures.
+Show more
+tags: : : : : : : : dolcefarniente: scauri: palinuro: rattan: weaving: plaid: outdoor furniture
+5: Furniture
+6: Sofa
+7: Dolcefarniente SCAURI Sofa
+https://www.dropbox.com/scl/fi/515lhtgqyjqinpaceutsf/1502659.5a15f43c51489.rar?rlkey=cdxsk755imw5t4r7x3k5et06f&dl=1
+https://www.dropbox.com/scl/fi/y7y8i2v624cyovn8p32q1/1502659.5a15f43c51489.jpg?rlkey=wvvb1bdrlqb7hbdtkainf36cm&dl=1

@@ -1,0 +1,17 @@
+1: https://3dsky.org/search?query=858684.5891b86799fd5
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 24 MB
+Colors:
+Style: Modern
+Materials: Wood
+Formfactor:
+Published 1 February 2017
+Name: Poliform_WALL_SYSTEM_6 Version: 2013 Preview: Yes Units: Millimeters Dimension: 370.62 x 5711.75 x 2027.01 Polys: 42,802 XForm: Yes Box Trick: Yes Model Parts: 378 Render: V-Ray Formats: 3Ds Max 2013, FBX, OBJ link: http://ditalic.com/catalog/furniture/varenna_poliform_day_sy
+tags: : : : : : : poliform: wall system: rack: books: decoration: cupboard
+5: Furniture
+6: Other
+7: Poliform_WALL_SYSTEM_6
+https://www.dropbox.com/scl/fi/moi3ovyli0ubjj5cjfu1r/858684.5891b86799fd5.rar?rlkey=e5hfkcq9ynkochcj8lg1zfc6h&dl=1
+https://www.dropbox.com/scl/fi/uzfxe6k0b2ito75momr3j/858684.5891b86799fd5.jpg?rlkey=uc2wjrh62m8sjfy38h94bd3cr&dl=1

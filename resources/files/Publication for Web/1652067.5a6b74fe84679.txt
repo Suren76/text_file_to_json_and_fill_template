@@ -1,0 +1,38 @@
+1: https://3dsky.org/search?query=1652067.5a6b74fe84679
+2: Buy accesses
+3: Platform: 3dsMax 2014 + obj
+Render: Vray
+Size: 7 MB
+Colors:
+Style: Classic
+Materials: Fabric
+Formfactor:
+Published 26 January 2018
+3D sofa model Ritchie 3 Seater Sofa
+Factory: MADE
+
+The model is made according to the actual dimensions of the manufacturer
+
+-------------------------------------------------- -------------
+Archive includes:
+- .max2014 file
+- .OBJ file
+- Textures
+- library of materials for .obj file
+
+-------------------------------------------------- ----------
+Polygons: 34,613
+Vertices: 34,831
+
+-------------------------------------------------- ----------
+ATTENTION
+V-Ray 3.50.04 - BRDF Microfacet GTR (GGX). If your version is below 3.1, put BRDF in manual Blinn, Phong or Ward (at your discretion).
+
+Units of measure - Real World Size (System Units - mm)
+Show more
+tags: : : : scandinavian: made: ritchie
+5: Furniture
+6: Sofa
+7: MADE Ritchie 3 Seater Sofa
+https://www.dropbox.com/scl/fi/dp9gpdl7al93z3lgt1pp9/1652067.5a6b74fe84679.rar?rlkey=tk1mjcnjb1ggaymsciq97iwcv&dl=1
+https://www.dropbox.com/scl/fi/1atjoerrw1eu08iwimsyy/1652067.5a6b74fe84679.jpg?rlkey=qsgrvw3xwtixo0kzgd26xss4x&dl=1

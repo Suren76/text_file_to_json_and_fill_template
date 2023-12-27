@@ -1,0 +1,23 @@
+1: https://3dsky.org/search?query=2324718.5c28bde675a16
+2: Buy accesses
+3: Platform: 3dsMax 2012 + fbx
+Render: Corona
+Size: 46 MB
+Colors:
+Style: Modern
+Materials: Wood, Plastic
+Formfactor:
+Published 30 December 2018
+Dimensions: 1390 x 330 x 897 mm
+
+Materials collected in one multimaterial
+
+By default, all lights are on. To disable, hide unnecessary elements in the lights object, or disable self illumination in the material.
+
+The closed and open cover are separate objects. Hide unnecessary.
+tags: : : : : : casio: piano: privia: digital: keyboard instrument
+5: Other Models
+6: Musical instrument
+7: Digital piano CASIO PX-870 BK Privia
+https://www.dropbox.com/scl/fi/tdlyb82jfw69dd2vsyyf8/2324718.5c28bde675a16.rar?rlkey=meo6jqrprnz3xnl42mkoqv42t&dl=1
+https://www.dropbox.com/scl/fi/9c3js1dziqmy8jc4avpwf/2324718.5c28bde675a16.jpg?rlkey=va6xf4ha36gk6t7f4yzhsx55s&dl=1

@@ -1,0 +1,40 @@
+1: https://3dsky.org/search?query=1574654.5a3bca5e01e22
+2: Buy accesses
+3: Platform: 3dsMax 2015 + obj
+Render: Vray
+Size: 88 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 21 December 2017
+Grenade launcher RG-6 (manual revolver grenade launcher)
+_____________________________________
+Comprises:
+- Tubes with handle, sighting devices and lid;
+-Barbon block of trunks;
+-Chassis with axle and power bar;
+- Shock-trigger mechanism with pistol grip;
+- A telescopic telescopic butt with a rubber shock absorber.
+_____________________________________
+Length, mm:
+-520 (in the stowed position)
+-680 (in combat position)
+_____________________________________
+-The model is at the origin
+-Created with 3ds Max 2017
+-Fully and fully "deployed", grid topology is met with minimal distortion
+-The modifier flow is closed, the grid is converted at 1-2 iterations of turbosmooth
+-Render with V-Ray visualization tools
+-Polis .: 386,944
+-Verts .: 389 513
+_____________________________________
+Archive contains:
+-Model in the format: max2017, max2013 and OBJ
+-Materials (V-Ray)
+Show more
+tags: : : : : grenade launcher: pr-6nom: a gun: weapon
+5: Other Models
+6: Miscellaneous 3
+7: RG-6 grenade launcher
+https://www.dropbox.com/scl/fi/7nwqysgovwlw2hjx7dmes/1574654.5a3bca5e01e22.rar?rlkey=9ruqq9gqe0facjak2n67g9mpx&dl=1
+https://www.dropbox.com/scl/fi/yxo91s9e210pjejy9x47w/1574654.5a3bca5e01e22.jpg?rlkey=ujohxcx1hrifijup2kdezt90q&dl=1

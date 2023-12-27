@@ -1,0 +1,26 @@
+1: https://3dsky.org/search?query=1660547.5a7076cadb695
+2: Buy accesses
+3: Platform: 3dsMax 2013 + obj
+Render: Vray+Corona
+Size: 2 MB
+Colors:
+Style: Modern
+Materials: Metal
+Published 30 January 2018
+A set of hand dryers from the company Dyson -
+Airblade. Including:
+- Airblade Tap AB09
+- Airblade Tap AB10
+- Airblade Tap AB11 (with grille for compressor)
+- Airblade V
+- Airblade dB
+- Aluminum drip tray
+
+In the archive, the max file is 2013 - corona and v-ray. The stack is not folded. In obj, to facilitate the model in loupoli under sabdiv, wrap a couple of iterations before using. Maps for convenience in one folder.
+Show more
+tags: : : : : dyson: hand dryer: airblade: dryer
+5: Bathroom
+6: Bathroom accessories
+7: Dyson Airblade Hand dryers
+https://www.dropbox.com/scl/fi/08vutnf6lnfya8cvze5dv/1660547.5a7076cadb695.rar?rlkey=56qnm4zgxpgwotib84ccrddgk&dl=1
+https://www.dropbox.com/scl/fi/mhan3t2n4hp69q9tv2ci6/1660547.5a7076cadb695.jpg?rlkey=snb809re318yfgnloq3u9qpsp&dl=1

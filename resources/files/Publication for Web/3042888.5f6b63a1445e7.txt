@@ -1,0 +1,26 @@
+1: https://3dsky.org/search?query=3042888.5f6b63a1445e7
+2: Free download
+3: Platform: 3dsMax 2013 + obj
+Render: Vray
+Size: 71 MB
+Colors:
+Style: Modern
+Materials: Metal, Plastic
+Formfactor:
+Published 22 September 2020
+Name: Gym_equipment
+Version: 2013
+Preview: Yes
+Units: Centimeters
+Dimension: 133.02 x 195.09 x 128.47
+Polys: 587 910
+XForm: Yes
+Model Parts: 63
+Render: V-Ray
+Formats: 3Ds Max 2013, OBJ, FBX
+tags: : gym
+5: Other Models
+6: Sports
+7: Gym equipment
+https://www.dropbox.com/scl/fi/nmtztc4j5nu8jngba7fnh/3042888.5f6b63a1445e7.zip?rlkey=wc77anx2ld6kwtr0o75h6so5z&dl=1
+https://www.dropbox.com/scl/fi/rqtndmvyrqw7bibdkblkz/3042888.5f6b63a1445e7.jpg?rlkey=3kukdoe4mgn6uxku1vfkznzu4&dl=1
